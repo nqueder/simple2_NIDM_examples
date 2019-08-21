@@ -2735,6 +2735,38 @@ niiri:3130821c-b3d4-11e9-b36c-003ee1ce9545 a measurement_datum:,
     isMeasureOf: GrayMatter: ;
     hasDatumType: <http://uri.interlex.org/base/ilx_0738268#> .
 
+niiri:45c63926-c38b-11e9-96ae-003ee1ce9545 a nidm:FSLStatsCollection,
+        prov:Entity ;
+    niiri:2fb331c8-b3d4-11e9-b36c-003ee1ce9545 8534 ;
+    niiri:2fb4ee64-b3d4-11e9-b36c-003ee1ce9545 8.534e+03 ;
+    niiri:2fbfbcf4-b3d4-11e9-b36c-003ee1ce9545 4305 ;
+    niiri:2fc19132-b3d4-11e9-b36c-003ee1ce9545 4.305e+03 ;
+    niiri:2fccbb34-b3d4-11e9-b36c-003ee1ce9545 6030 ;
+    niiri:2fcec096-b3d4-11e9-b36c-003ee1ce9545 6.03e+03 ;
+    niiri:2fd9ffec-b3d4-11e9-b36c-003ee1ce9545 1871 ;
+    niiri:2fdbe1f4-b3d4-11e9-b36c-003ee1ce9545 1.871e+03 ;
+    niiri:300f4a08-b3d4-11e9-b36c-003ee1ce9545 4262 ;
+    niiri:301131ec-b3d4-11e9-b36c-003ee1ce9545 4.262e+03 ;
+    niiri:301cc728-b3d4-11e9-b36c-003ee1ce9545 918 ;
+    niiri:301eb3b2-b3d4-11e9-b36c-003ee1ce9545 9.18e+02 ;
+    niiri:30371b64-b3d4-11e9-b36c-003ee1ce9545 676 ;
+    niiri:3038f042-b3d4-11e9-b36c-003ee1ce9545 6.76e+02 ;
+    niiri:30998dee-b3d4-11e9-b36c-003ee1ce9545 8355 ;
+    niiri:309b4cce-b3d4-11e9-b36c-003ee1ce9545 8.355e+03 ;
+    niiri:30a5cfaa-b3d4-11e9-b36c-003ee1ce9545 4433 ;
+    niiri:30a77fc6-b3d4-11e9-b36c-003ee1ce9545 4.433e+03 ;
+    niiri:30b1ef38-b3d4-11e9-b36c-003ee1ce9545 6015 ;
+    niiri:30b3a986-b3d4-11e9-b36c-003ee1ce9545 6.015e+03 ;
+    niiri:30be6c22-b3d4-11e9-b36c-003ee1ce9545 1921 ;
+    niiri:30c03084-b3d4-11e9-b36c-003ee1ce9545 1.921e+03 ;
+    niiri:30cac99a-b3d4-11e9-b36c-003ee1ce9545 4412 ;
+    niiri:30cc902c-b3d4-11e9-b36c-003ee1ce9545 4.412e+03 ;
+    niiri:30d76628-b3d4-11e9-b36c-003ee1ce9545 1303 ;
+    niiri:30d93c1e-b3d4-11e9-b36c-003ee1ce9545 1.303e+03 ;
+    niiri:30e3ec5e-b3d4-11e9-b36c-003ee1ce9545 354 ;
+    niiri:30e5a972-b3d4-11e9-b36c-003ee1ce9545 3.54e+02 ;
+    prov:wasGeneratedBy niiri:45c623f0-c38b-11e9-96ae-003ee1ce9545 .
+
 niiri:a8a544be-b261-11e9-996b-003ee1ce9545 a nidm:AcquisitionObject,
         prov:Entity ;
     crypto:sha512 "b38602fb07ff5f85692c0a47e3db29cee1cc708700080cf6183b74373ffdd2be43f7680c5da555cc787c33d3398a8d5a9500d38b58ca75a410c9e84025ac38bc"^^xsd:string ;
@@ -12707,6 +12739,19 @@ niiri:2f7ed194-b3d4-11e9-b36c-003ee1ce9545 a prov:Activity ;
 niiri:2f7ef638-b3d4-11e9-b36c-003ee1ce9545 a prov:Agent,
         prov:SoftwareAgent ;
     nidm:NIDM_0000164 freesurfer: .
+
+niiri:45c623f0-c38b-11e9-96ae-003ee1ce9545 a prov:Activity ;
+    dct:description "FSL FAST/FIRST segmentation statistics" ;
+    prov:qualifiedAssociation [ a prov:Agent ;
+            prov:hadRole nidm:NIDM_0000164 ;
+            prov:wasAssociatedWith niiri:45c62a30-c38b-11e9-96ae-003ee1ce9545 ],
+        [ a prov:Agent ;
+            prov:hadRole sio:Subject ;
+            prov:wasAssociatedWith niiri:b8b32678-b261-11e9-996b-003ee1ce9545 ] .
+
+niiri:45c62a30-c38b-11e9-96ae-003ee1ce9545 a prov:Agent,
+        prov:SoftwareAgent ;
+    nidm:NIDM_0000164 fsl: .
 
 niiri:a8a537b2-b261-11e9-996b-003ee1ce9545 a nidm:Acquisition,
         prov:Activity ;

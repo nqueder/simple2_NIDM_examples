@@ -293,6 +293,102 @@ niiri:01938d24-b3de-11e9-90aa-003ee1ce9545 a nidm:FSStatsCollection,
     niiri:31ed2652-b3dd-11e9-8750-003ee1ce9545 "78.0000" ;
     prov:wasGeneratedBy niiri:01935aac-b3de-11e9-90aa-003ee1ce9545 .
 
+niiri:01dd91d4-c393-11e9-a1c5-003ee1ce9545 a nidm:FSLStatsCollection,
+        prov:Entity ;
+    niiri:309d8e72-b3dd-11e9-8750-003ee1ce9545 8253 ;
+    niiri:309f13b4-b3dd-11e9-8750-003ee1ce9545 8.253e+03 ;
+    niiri:30aa233a-b3dd-11e9-8750-003ee1ce9545 4055 ;
+    niiri:30ab9df0-b3dd-11e9-8750-003ee1ce9545 4.055e+03 ;
+    niiri:30b4830c-b3dd-11e9-8750-003ee1ce9545 5592 ;
+    niiri:30b604f2-b3dd-11e9-8750-003ee1ce9545 5.592e+03 ;
+    niiri:30bed244-b3dd-11e9-8750-003ee1ce9545 1937 ;
+    niiri:30c0407a-b3dd-11e9-8750-003ee1ce9545 1.937e+03 ;
+    niiri:30e87dd8-b3dd-11e9-8750-003ee1ce9545 4035 ;
+    niiri:30e9e736-b3dd-11e9-8750-003ee1ce9545 4.035e+03 ;
+    niiri:30f2d530-b3dd-11e9-8750-003ee1ce9545 1333 ;
+    niiri:30f443f2-b3dd-11e9-8750-003ee1ce9545 1.333e+03 ;
+    niiri:3107f1ae-b3dd-11e9-8750-003ee1ce9545 580 ;
+    niiri:3109c8c6-b3dd-11e9-8750-003ee1ce9545 5.8e+02 ;
+    niiri:3162a8f6-b3dd-11e9-8750-003ee1ce9545 8126 ;
+    niiri:31656ee2-b3dd-11e9-8750-003ee1ce9545 8.126e+03 ;
+    niiri:31711efe-b3dd-11e9-8750-003ee1ce9545 3886 ;
+    niiri:31729cde-b3dd-11e9-8750-003ee1ce9545 3.886e+03 ;
+    niiri:317bc192-b3dd-11e9-8750-003ee1ce9545 5259 ;
+    niiri:317d3dba-b3dd-11e9-8750-003ee1ce9545 5.259e+03 ;
+    niiri:318673b2-b3dd-11e9-8750-003ee1ce9545 1958 ;
+    niiri:31881fb4-b3dd-11e9-8750-003ee1ce9545 1.958e+03 ;
+    niiri:319139f0-b3dd-11e9-8750-003ee1ce9545 4021 ;
+    niiri:3192bd16-b3dd-11e9-8750-003ee1ce9545 4.021e+03 ;
+    niiri:319bde50-b3dd-11e9-8750-003ee1ce9545 711 ;
+    niiri:319d5438-b3dd-11e9-8750-003ee1ce9545 7.11e+02 ;
+    niiri:31a6d198-b3dd-11e9-8750-003ee1ce9545 325 ;
+    niiri:31a8870e-b3dd-11e9-8750-003ee1ce9545 3.25e+02 ;
+    prov:wasGeneratedBy niiri:01dd7c8a-c393-11e9-a1c5-003ee1ce9545 .
+
+niiri:02b5f668-c394-11e9-8caf-003ee1ce9545 a nidm:FSLStatsCollection,
+        prov:Entity ;
+    niiri:309d8e72-b3dd-11e9-8750-003ee1ce9545 7436 ;
+    niiri:309f13b4-b3dd-11e9-8750-003ee1ce9545 7.436e+03 ;
+    niiri:30aa233a-b3dd-11e9-8750-003ee1ce9545 3769 ;
+    niiri:30ab9df0-b3dd-11e9-8750-003ee1ce9545 3.769e+03 ;
+    niiri:30b4830c-b3dd-11e9-8750-003ee1ce9545 5074 ;
+    niiri:30b604f2-b3dd-11e9-8750-003ee1ce9545 5.074e+03 ;
+    niiri:30bed244-b3dd-11e9-8750-003ee1ce9545 1596 ;
+    niiri:30c0407a-b3dd-11e9-8750-003ee1ce9545 1.596e+03 ;
+    niiri:30e87dd8-b3dd-11e9-8750-003ee1ce9545 3394 ;
+    niiri:30e9e736-b3dd-11e9-8750-003ee1ce9545 3.394e+03 ;
+    niiri:30f2d530-b3dd-11e9-8750-003ee1ce9545 865 ;
+    niiri:30f443f2-b3dd-11e9-8750-003ee1ce9545 8.65e+02 ;
+    niiri:3107f1ae-b3dd-11e9-8750-003ee1ce9545 573 ;
+    niiri:3109c8c6-b3dd-11e9-8750-003ee1ce9545 5.73e+02 ;
+    niiri:3162a8f6-b3dd-11e9-8750-003ee1ce9545 7284 ;
+    niiri:31656ee2-b3dd-11e9-8750-003ee1ce9545 7.284e+03 ;
+    niiri:31711efe-b3dd-11e9-8750-003ee1ce9545 3926 ;
+    niiri:31729cde-b3dd-11e9-8750-003ee1ce9545 3.926e+03 ;
+    niiri:317bc192-b3dd-11e9-8750-003ee1ce9545 5043 ;
+    niiri:317d3dba-b3dd-11e9-8750-003ee1ce9545 5.043e+03 ;
+    niiri:318673b2-b3dd-11e9-8750-003ee1ce9545 1635 ;
+    niiri:31881fb4-b3dd-11e9-8750-003ee1ce9545 1.635e+03 ;
+    niiri:319139f0-b3dd-11e9-8750-003ee1ce9545 3404 ;
+    niiri:3192bd16-b3dd-11e9-8750-003ee1ce9545 3.404e+03 ;
+    niiri:319bde50-b3dd-11e9-8750-003ee1ce9545 755 ;
+    niiri:319d5438-b3dd-11e9-8750-003ee1ce9545 7.55e+02 ;
+    niiri:31a6d198-b3dd-11e9-8750-003ee1ce9545 500 ;
+    niiri:31a8870e-b3dd-11e9-8750-003ee1ce9545 5e+02 ;
+    prov:wasGeneratedBy niiri:02b5e2fe-c394-11e9-8caf-003ee1ce9545 .
+
+niiri:0664cd9e-c393-11e9-948c-003ee1ce9545 a nidm:FSLStatsCollection,
+        prov:Entity ;
+    niiri:309d8e72-b3dd-11e9-8750-003ee1ce9545 8231 ;
+    niiri:309f13b4-b3dd-11e9-8750-003ee1ce9545 8.231e+03 ;
+    niiri:30aa233a-b3dd-11e9-8750-003ee1ce9545 4176 ;
+    niiri:30ab9df0-b3dd-11e9-8750-003ee1ce9545 4.176e+03 ;
+    niiri:30b4830c-b3dd-11e9-8750-003ee1ce9545 5793 ;
+    niiri:30b604f2-b3dd-11e9-8750-003ee1ce9545 5.793e+03 ;
+    niiri:30bed244-b3dd-11e9-8750-003ee1ce9545 2089 ;
+    niiri:30c0407a-b3dd-11e9-8750-003ee1ce9545 2.089e+03 ;
+    niiri:30e87dd8-b3dd-11e9-8750-003ee1ce9545 3681 ;
+    niiri:30e9e736-b3dd-11e9-8750-003ee1ce9545 3.681e+03 ;
+    niiri:30f2d530-b3dd-11e9-8750-003ee1ce9545 1139 ;
+    niiri:30f443f2-b3dd-11e9-8750-003ee1ce9545 1.139e+03 ;
+    niiri:3107f1ae-b3dd-11e9-8750-003ee1ce9545 638 ;
+    niiri:3109c8c6-b3dd-11e9-8750-003ee1ce9545 6.38e+02 ;
+    niiri:3162a8f6-b3dd-11e9-8750-003ee1ce9545 8224 ;
+    niiri:31656ee2-b3dd-11e9-8750-003ee1ce9545 8.224e+03 ;
+    niiri:31711efe-b3dd-11e9-8750-003ee1ce9545 4299 ;
+    niiri:31729cde-b3dd-11e9-8750-003ee1ce9545 4.299e+03 ;
+    niiri:317bc192-b3dd-11e9-8750-003ee1ce9545 5911 ;
+    niiri:317d3dba-b3dd-11e9-8750-003ee1ce9545 5.911e+03 ;
+    niiri:318673b2-b3dd-11e9-8750-003ee1ce9545 2198 ;
+    niiri:31881fb4-b3dd-11e9-8750-003ee1ce9545 2.198e+03 ;
+    niiri:319139f0-b3dd-11e9-8750-003ee1ce9545 3552 ;
+    niiri:3192bd16-b3dd-11e9-8750-003ee1ce9545 3.552e+03 ;
+    niiri:319bde50-b3dd-11e9-8750-003ee1ce9545 1474 ;
+    niiri:319d5438-b3dd-11e9-8750-003ee1ce9545 1.474e+03 ;
+    niiri:31a6d198-b3dd-11e9-8750-003ee1ce9545 590 ;
+    niiri:31a8870e-b3dd-11e9-8750-003ee1ce9545 5.9e+02 ;
+    prov:wasGeneratedBy niiri:0664b99e-c393-11e9-948c-003ee1ce9545 .
+
 niiri:070bd888-b3de-11e9-9cf0-003ee1ce9545 a nidm:FSStatsCollection,
         prov:Entity ;
     niiri:306f54bc-b3dd-11e9-8750-003ee1ce9545 "17410" ;
@@ -534,6 +630,102 @@ niiri:070bd888-b3de-11e9-9cf0-003ee1ce9545 a nidm:FSStatsCollection,
     niiri:31eb73fc-b3dd-11e9-8750-003ee1ce9545 "118.0000" ;
     niiri:31ed2652-b3dd-11e9-8750-003ee1ce9545 "102.0000" ;
     prov:wasGeneratedBy niiri:070ba868-b3de-11e9-9cf0-003ee1ce9545 .
+
+niiri:0781b1aa-c394-11e9-8eb2-003ee1ce9545 a nidm:FSLStatsCollection,
+        prov:Entity ;
+    niiri:309d8e72-b3dd-11e9-8750-003ee1ce9545 8585 ;
+    niiri:309f13b4-b3dd-11e9-8750-003ee1ce9545 8.585e+03 ;
+    niiri:30aa233a-b3dd-11e9-8750-003ee1ce9545 3819 ;
+    niiri:30ab9df0-b3dd-11e9-8750-003ee1ce9545 3.819e+03 ;
+    niiri:30b4830c-b3dd-11e9-8750-003ee1ce9545 6214 ;
+    niiri:30b604f2-b3dd-11e9-8750-003ee1ce9545 6.214e+03 ;
+    niiri:30bed244-b3dd-11e9-8750-003ee1ce9545 1962 ;
+    niiri:30c0407a-b3dd-11e9-8750-003ee1ce9545 1.962e+03 ;
+    niiri:30e87dd8-b3dd-11e9-8750-003ee1ce9545 5619 ;
+    niiri:30e9e736-b3dd-11e9-8750-003ee1ce9545 5.619e+03 ;
+    niiri:30f2d530-b3dd-11e9-8750-003ee1ce9545 940 ;
+    niiri:30f443f2-b3dd-11e9-8750-003ee1ce9545 9.4e+02 ;
+    niiri:3107f1ae-b3dd-11e9-8750-003ee1ce9545 638 ;
+    niiri:3109c8c6-b3dd-11e9-8750-003ee1ce9545 6.38e+02 ;
+    niiri:3162a8f6-b3dd-11e9-8750-003ee1ce9545 8642 ;
+    niiri:31656ee2-b3dd-11e9-8750-003ee1ce9545 8.642e+03 ;
+    niiri:31711efe-b3dd-11e9-8750-003ee1ce9545 4412 ;
+    niiri:31729cde-b3dd-11e9-8750-003ee1ce9545 4.412e+03 ;
+    niiri:317bc192-b3dd-11e9-8750-003ee1ce9545 6177 ;
+    niiri:317d3dba-b3dd-11e9-8750-003ee1ce9545 6.177e+03 ;
+    niiri:318673b2-b3dd-11e9-8750-003ee1ce9545 1970 ;
+    niiri:31881fb4-b3dd-11e9-8750-003ee1ce9545 1.97e+03 ;
+    niiri:319139f0-b3dd-11e9-8750-003ee1ce9545 4029 ;
+    niiri:3192bd16-b3dd-11e9-8750-003ee1ce9545 4.029e+03 ;
+    niiri:319bde50-b3dd-11e9-8750-003ee1ce9545 1704 ;
+    niiri:319d5438-b3dd-11e9-8750-003ee1ce9545 1.704e+03 ;
+    niiri:31a6d198-b3dd-11e9-8750-003ee1ce9545 368 ;
+    niiri:31a8870e-b3dd-11e9-8750-003ee1ce9545 3.68e+02 ;
+    prov:wasGeneratedBy niiri:07819c6a-c394-11e9-8eb2-003ee1ce9545 .
+
+niiri:0ae3fcbe-c393-11e9-8542-003ee1ce9545 a nidm:FSLStatsCollection,
+        prov:Entity ;
+    niiri:309d8e72-b3dd-11e9-8750-003ee1ce9545 7817 ;
+    niiri:309f13b4-b3dd-11e9-8750-003ee1ce9545 7.817e+03 ;
+    niiri:30aa233a-b3dd-11e9-8750-003ee1ce9545 2254 ;
+    niiri:30ab9df0-b3dd-11e9-8750-003ee1ce9545 2.254e+03 ;
+    niiri:30b4830c-b3dd-11e9-8750-003ee1ce9545 5395 ;
+    niiri:30b604f2-b3dd-11e9-8750-003ee1ce9545 5.395e+03 ;
+    niiri:30bed244-b3dd-11e9-8750-003ee1ce9545 1713 ;
+    niiri:30c0407a-b3dd-11e9-8750-003ee1ce9545 1.713e+03 ;
+    niiri:30e87dd8-b3dd-11e9-8750-003ee1ce9545 3805 ;
+    niiri:30e9e736-b3dd-11e9-8750-003ee1ce9545 3.805e+03 ;
+    niiri:30f2d530-b3dd-11e9-8750-003ee1ce9545 1040 ;
+    niiri:30f443f2-b3dd-11e9-8750-003ee1ce9545 1.04e+03 ;
+    niiri:3107f1ae-b3dd-11e9-8750-003ee1ce9545 630 ;
+    niiri:3109c8c6-b3dd-11e9-8750-003ee1ce9545 6.3e+02 ;
+    niiri:3162a8f6-b3dd-11e9-8750-003ee1ce9545 6414 ;
+    niiri:31656ee2-b3dd-11e9-8750-003ee1ce9545 6.414e+03 ;
+    niiri:31711efe-b3dd-11e9-8750-003ee1ce9545 2747 ;
+    niiri:31729cde-b3dd-11e9-8750-003ee1ce9545 2.747e+03 ;
+    niiri:317bc192-b3dd-11e9-8750-003ee1ce9545 5572 ;
+    niiri:317d3dba-b3dd-11e9-8750-003ee1ce9545 5.572e+03 ;
+    niiri:318673b2-b3dd-11e9-8750-003ee1ce9545 1697 ;
+    niiri:31881fb4-b3dd-11e9-8750-003ee1ce9545 1.697e+03 ;
+    niiri:319139f0-b3dd-11e9-8750-003ee1ce9545 3772 ;
+    niiri:3192bd16-b3dd-11e9-8750-003ee1ce9545 3.772e+03 ;
+    niiri:319bde50-b3dd-11e9-8750-003ee1ce9545 1681 ;
+    niiri:319d5438-b3dd-11e9-8750-003ee1ce9545 1.681e+03 ;
+    niiri:31a6d198-b3dd-11e9-8750-003ee1ce9545 525 ;
+    niiri:31a8870e-b3dd-11e9-8750-003ee1ce9545 5.25e+02 ;
+    prov:wasGeneratedBy niiri:0ae3e9d6-c393-11e9-8542-003ee1ce9545 .
+
+niiri:0c3c0fc4-c394-11e9-ba72-003ee1ce9545 a nidm:FSLStatsCollection,
+        prov:Entity ;
+    niiri:309d8e72-b3dd-11e9-8750-003ee1ce9545 7775 ;
+    niiri:309f13b4-b3dd-11e9-8750-003ee1ce9545 7.775e+03 ;
+    niiri:30aa233a-b3dd-11e9-8750-003ee1ce9545 3666 ;
+    niiri:30ab9df0-b3dd-11e9-8750-003ee1ce9545 3.666e+03 ;
+    niiri:30b4830c-b3dd-11e9-8750-003ee1ce9545 5875 ;
+    niiri:30b604f2-b3dd-11e9-8750-003ee1ce9545 5.875e+03 ;
+    niiri:30bed244-b3dd-11e9-8750-003ee1ce9545 1953 ;
+    niiri:30c0407a-b3dd-11e9-8750-003ee1ce9545 1.953e+03 ;
+    niiri:30e87dd8-b3dd-11e9-8750-003ee1ce9545 3909 ;
+    niiri:30e9e736-b3dd-11e9-8750-003ee1ce9545 3.909e+03 ;
+    niiri:30f2d530-b3dd-11e9-8750-003ee1ce9545 1003 ;
+    niiri:30f443f2-b3dd-11e9-8750-003ee1ce9545 1.003e+03 ;
+    niiri:3107f1ae-b3dd-11e9-8750-003ee1ce9545 553 ;
+    niiri:3109c8c6-b3dd-11e9-8750-003ee1ce9545 5.53e+02 ;
+    niiri:3162a8f6-b3dd-11e9-8750-003ee1ce9545 7824 ;
+    niiri:31656ee2-b3dd-11e9-8750-003ee1ce9545 7.824e+03 ;
+    niiri:31711efe-b3dd-11e9-8750-003ee1ce9545 4020 ;
+    niiri:31729cde-b3dd-11e9-8750-003ee1ce9545 4.02e+03 ;
+    niiri:317bc192-b3dd-11e9-8750-003ee1ce9545 6127 ;
+    niiri:317d3dba-b3dd-11e9-8750-003ee1ce9545 6.127e+03 ;
+    niiri:318673b2-b3dd-11e9-8750-003ee1ce9545 2014 ;
+    niiri:31881fb4-b3dd-11e9-8750-003ee1ce9545 2.014e+03 ;
+    niiri:319139f0-b3dd-11e9-8750-003ee1ce9545 3560 ;
+    niiri:3192bd16-b3dd-11e9-8750-003ee1ce9545 3.56e+03 ;
+    niiri:319bde50-b3dd-11e9-8750-003ee1ce9545 1540 ;
+    niiri:319d5438-b3dd-11e9-8750-003ee1ce9545 1.54e+03 ;
+    niiri:31a6d198-b3dd-11e9-8750-003ee1ce9545 527 ;
+    niiri:31a8870e-b3dd-11e9-8750-003ee1ce9545 5.27e+02 ;
+    prov:wasGeneratedBy niiri:0c3bfd04-c394-11e9-ba72-003ee1ce9545 .
 
 niiri:0c9cda5e-b3de-11e9-8eef-003ee1ce9545 a nidm:FSStatsCollection,
         prov:Entity ;
@@ -777,6 +969,70 @@ niiri:0c9cda5e-b3de-11e9-8eef-003ee1ce9545 a nidm:FSStatsCollection,
     niiri:31ed2652-b3dd-11e9-8750-003ee1ce9545 "74.0000" ;
     prov:wasGeneratedBy niiri:0c9caaf2-b3de-11e9-8eef-003ee1ce9545 .
 
+niiri:0f5f130a-c393-11e9-8fe8-003ee1ce9545 a nidm:FSLStatsCollection,
+        prov:Entity ;
+    niiri:309d8e72-b3dd-11e9-8750-003ee1ce9545 7781 ;
+    niiri:309f13b4-b3dd-11e9-8750-003ee1ce9545 7.781e+03 ;
+    niiri:30aa233a-b3dd-11e9-8750-003ee1ce9545 3560 ;
+    niiri:30ab9df0-b3dd-11e9-8750-003ee1ce9545 3.56e+03 ;
+    niiri:30b4830c-b3dd-11e9-8750-003ee1ce9545 5275 ;
+    niiri:30b604f2-b3dd-11e9-8750-003ee1ce9545 5.275e+03 ;
+    niiri:30bed244-b3dd-11e9-8750-003ee1ce9545 1793 ;
+    niiri:30c0407a-b3dd-11e9-8750-003ee1ce9545 1.793e+03 ;
+    niiri:30e87dd8-b3dd-11e9-8750-003ee1ce9545 3130 ;
+    niiri:30e9e736-b3dd-11e9-8750-003ee1ce9545 3.13e+03 ;
+    niiri:30f2d530-b3dd-11e9-8750-003ee1ce9545 1035 ;
+    niiri:30f443f2-b3dd-11e9-8750-003ee1ce9545 1.035e+03 ;
+    niiri:3107f1ae-b3dd-11e9-8750-003ee1ce9545 631 ;
+    niiri:3109c8c6-b3dd-11e9-8750-003ee1ce9545 6.31e+02 ;
+    niiri:3162a8f6-b3dd-11e9-8750-003ee1ce9545 7698 ;
+    niiri:31656ee2-b3dd-11e9-8750-003ee1ce9545 7.698e+03 ;
+    niiri:31711efe-b3dd-11e9-8750-003ee1ce9545 3039 ;
+    niiri:31729cde-b3dd-11e9-8750-003ee1ce9545 3.039e+03 ;
+    niiri:317bc192-b3dd-11e9-8750-003ee1ce9545 5416 ;
+    niiri:317d3dba-b3dd-11e9-8750-003ee1ce9545 5.416e+03 ;
+    niiri:318673b2-b3dd-11e9-8750-003ee1ce9545 1780 ;
+    niiri:31881fb4-b3dd-11e9-8750-003ee1ce9545 1.78e+03 ;
+    niiri:319139f0-b3dd-11e9-8750-003ee1ce9545 3618 ;
+    niiri:3192bd16-b3dd-11e9-8750-003ee1ce9545 3.618e+03 ;
+    niiri:319bde50-b3dd-11e9-8750-003ee1ce9545 1667 ;
+    niiri:319d5438-b3dd-11e9-8750-003ee1ce9545 1.667e+03 ;
+    niiri:31a6d198-b3dd-11e9-8750-003ee1ce9545 500 ;
+    niiri:31a8870e-b3dd-11e9-8750-003ee1ce9545 5e+02 ;
+    prov:wasGeneratedBy niiri:0f5effe6-c393-11e9-8fe8-003ee1ce9545 .
+
+niiri:1100ce50-c394-11e9-a578-003ee1ce9545 a nidm:FSLStatsCollection,
+        prov:Entity ;
+    niiri:309d8e72-b3dd-11e9-8750-003ee1ce9545 7942 ;
+    niiri:309f13b4-b3dd-11e9-8750-003ee1ce9545 7.942e+03 ;
+    niiri:30aa233a-b3dd-11e9-8750-003ee1ce9545 3607 ;
+    niiri:30ab9df0-b3dd-11e9-8750-003ee1ce9545 3.607e+03 ;
+    niiri:30b4830c-b3dd-11e9-8750-003ee1ce9545 5439 ;
+    niiri:30b604f2-b3dd-11e9-8750-003ee1ce9545 5.439e+03 ;
+    niiri:30bed244-b3dd-11e9-8750-003ee1ce9545 1798 ;
+    niiri:30c0407a-b3dd-11e9-8750-003ee1ce9545 1.798e+03 ;
+    niiri:30e87dd8-b3dd-11e9-8750-003ee1ce9545 3388 ;
+    niiri:30e9e736-b3dd-11e9-8750-003ee1ce9545 3.388e+03 ;
+    niiri:30f2d530-b3dd-11e9-8750-003ee1ce9545 879 ;
+    niiri:30f443f2-b3dd-11e9-8750-003ee1ce9545 8.79e+02 ;
+    niiri:3107f1ae-b3dd-11e9-8750-003ee1ce9545 596 ;
+    niiri:3109c8c6-b3dd-11e9-8750-003ee1ce9545 5.96e+02 ;
+    niiri:3162a8f6-b3dd-11e9-8750-003ee1ce9545 7209 ;
+    niiri:31656ee2-b3dd-11e9-8750-003ee1ce9545 7.209e+03 ;
+    niiri:31711efe-b3dd-11e9-8750-003ee1ce9545 3544 ;
+    niiri:31729cde-b3dd-11e9-8750-003ee1ce9545 3.544e+03 ;
+    niiri:317bc192-b3dd-11e9-8750-003ee1ce9545 5527 ;
+    niiri:317d3dba-b3dd-11e9-8750-003ee1ce9545 5.527e+03 ;
+    niiri:318673b2-b3dd-11e9-8750-003ee1ce9545 1719 ;
+    niiri:31881fb4-b3dd-11e9-8750-003ee1ce9545 1.719e+03 ;
+    niiri:319139f0-b3dd-11e9-8750-003ee1ce9545 3514 ;
+    niiri:3192bd16-b3dd-11e9-8750-003ee1ce9545 3.514e+03 ;
+    niiri:319bde50-b3dd-11e9-8750-003ee1ce9545 1419 ;
+    niiri:319d5438-b3dd-11e9-8750-003ee1ce9545 1.419e+03 ;
+    niiri:31a6d198-b3dd-11e9-8750-003ee1ce9545 526 ;
+    niiri:31a8870e-b3dd-11e9-8750-003ee1ce9545 5.26e+02 ;
+    prov:wasGeneratedBy niiri:1100b780-c394-11e9-a578-003ee1ce9545 .
+
 niiri:11f4a4d2-b3de-11e9-89b6-003ee1ce9545 a nidm:FSStatsCollection,
         prov:Entity ;
     niiri:306f54bc-b3dd-11e9-8750-003ee1ce9545 "6291" ;
@@ -1018,6 +1274,70 @@ niiri:11f4a4d2-b3de-11e9-89b6-003ee1ce9545 a nidm:FSStatsCollection,
     niiri:31eb73fc-b3dd-11e9-8750-003ee1ce9545 "117.0000" ;
     niiri:31ed2652-b3dd-11e9-8750-003ee1ce9545 "102.0000" ;
     prov:wasGeneratedBy niiri:11f477c8-b3de-11e9-89b6-003ee1ce9545 .
+
+niiri:13db25c2-c393-11e9-b45b-003ee1ce9545 a nidm:FSLStatsCollection,
+        prov:Entity ;
+    niiri:309d8e72-b3dd-11e9-8750-003ee1ce9545 8284 ;
+    niiri:309f13b4-b3dd-11e9-8750-003ee1ce9545 8.284e+03 ;
+    niiri:30aa233a-b3dd-11e9-8750-003ee1ce9545 4233 ;
+    niiri:30ab9df0-b3dd-11e9-8750-003ee1ce9545 4.233e+03 ;
+    niiri:30b4830c-b3dd-11e9-8750-003ee1ce9545 5446 ;
+    niiri:30b604f2-b3dd-11e9-8750-003ee1ce9545 5.446e+03 ;
+    niiri:30bed244-b3dd-11e9-8750-003ee1ce9545 1979 ;
+    niiri:30c0407a-b3dd-11e9-8750-003ee1ce9545 1.979e+03 ;
+    niiri:30e87dd8-b3dd-11e9-8750-003ee1ce9545 3983 ;
+    niiri:30e9e736-b3dd-11e9-8750-003ee1ce9545 3.983e+03 ;
+    niiri:30f2d530-b3dd-11e9-8750-003ee1ce9545 887 ;
+    niiri:30f443f2-b3dd-11e9-8750-003ee1ce9545 8.87e+02 ;
+    niiri:3107f1ae-b3dd-11e9-8750-003ee1ce9545 663 ;
+    niiri:3109c8c6-b3dd-11e9-8750-003ee1ce9545 6.63e+02 ;
+    niiri:3162a8f6-b3dd-11e9-8750-003ee1ce9545 7752 ;
+    niiri:31656ee2-b3dd-11e9-8750-003ee1ce9545 7.752e+03 ;
+    niiri:31711efe-b3dd-11e9-8750-003ee1ce9545 4553 ;
+    niiri:31729cde-b3dd-11e9-8750-003ee1ce9545 4.553e+03 ;
+    niiri:317bc192-b3dd-11e9-8750-003ee1ce9545 5848 ;
+    niiri:317d3dba-b3dd-11e9-8750-003ee1ce9545 5.848e+03 ;
+    niiri:318673b2-b3dd-11e9-8750-003ee1ce9545 1965 ;
+    niiri:31881fb4-b3dd-11e9-8750-003ee1ce9545 1.965e+03 ;
+    niiri:319139f0-b3dd-11e9-8750-003ee1ce9545 4304 ;
+    niiri:3192bd16-b3dd-11e9-8750-003ee1ce9545 4.304e+03 ;
+    niiri:319bde50-b3dd-11e9-8750-003ee1ce9545 985 ;
+    niiri:319d5438-b3dd-11e9-8750-003ee1ce9545 9.85e+02 ;
+    niiri:31a6d198-b3dd-11e9-8750-003ee1ce9545 381 ;
+    niiri:31a8870e-b3dd-11e9-8750-003ee1ce9545 3.81e+02 ;
+    prov:wasGeneratedBy niiri:13db0df8-c393-11e9-b45b-003ee1ce9545 .
+
+niiri:15c43b0c-c394-11e9-95c3-003ee1ce9545 a nidm:FSLStatsCollection,
+        prov:Entity ;
+    niiri:309d8e72-b3dd-11e9-8750-003ee1ce9545 8101 ;
+    niiri:309f13b4-b3dd-11e9-8750-003ee1ce9545 8.101e+03 ;
+    niiri:30aa233a-b3dd-11e9-8750-003ee1ce9545 3932 ;
+    niiri:30ab9df0-b3dd-11e9-8750-003ee1ce9545 3.932e+03 ;
+    niiri:30b4830c-b3dd-11e9-8750-003ee1ce9545 5913 ;
+    niiri:30b604f2-b3dd-11e9-8750-003ee1ce9545 5.913e+03 ;
+    niiri:30bed244-b3dd-11e9-8750-003ee1ce9545 1719 ;
+    niiri:30c0407a-b3dd-11e9-8750-003ee1ce9545 1.719e+03 ;
+    niiri:30e87dd8-b3dd-11e9-8750-003ee1ce9545 3629 ;
+    niiri:30e9e736-b3dd-11e9-8750-003ee1ce9545 3.629e+03 ;
+    niiri:30f2d530-b3dd-11e9-8750-003ee1ce9545 853 ;
+    niiri:30f443f2-b3dd-11e9-8750-003ee1ce9545 8.53e+02 ;
+    niiri:3107f1ae-b3dd-11e9-8750-003ee1ce9545 364 ;
+    niiri:3109c8c6-b3dd-11e9-8750-003ee1ce9545 3.64e+02 ;
+    niiri:3162a8f6-b3dd-11e9-8750-003ee1ce9545 8005 ;
+    niiri:31656ee2-b3dd-11e9-8750-003ee1ce9545 8.005e+03 ;
+    niiri:31711efe-b3dd-11e9-8750-003ee1ce9545 3931 ;
+    niiri:31729cde-b3dd-11e9-8750-003ee1ce9545 3.931e+03 ;
+    niiri:317bc192-b3dd-11e9-8750-003ee1ce9545 5926 ;
+    niiri:317d3dba-b3dd-11e9-8750-003ee1ce9545 5.926e+03 ;
+    niiri:318673b2-b3dd-11e9-8750-003ee1ce9545 1857 ;
+    niiri:31881fb4-b3dd-11e9-8750-003ee1ce9545 1.857e+03 ;
+    niiri:319139f0-b3dd-11e9-8750-003ee1ce9545 3968 ;
+    niiri:3192bd16-b3dd-11e9-8750-003ee1ce9545 3.968e+03 ;
+    niiri:319bde50-b3dd-11e9-8750-003ee1ce9545 1286 ;
+    niiri:319d5438-b3dd-11e9-8750-003ee1ce9545 1.286e+03 ;
+    niiri:31a6d198-b3dd-11e9-8750-003ee1ce9545 345 ;
+    niiri:31a8870e-b3dd-11e9-8750-003ee1ce9545 3.45e+02 ;
+    prov:wasGeneratedBy niiri:15c425b8-c394-11e9-95c3-003ee1ce9545 .
 
 niiri:17968e8c-b3de-11e9-8c01-003ee1ce9545 a nidm:FSStatsCollection,
         prov:Entity ;
@@ -1261,6 +1581,102 @@ niiri:17968e8c-b3de-11e9-8c01-003ee1ce9545 a nidm:FSStatsCollection,
     niiri:31ed2652-b3dd-11e9-8750-003ee1ce9545 "95.0000" ;
     prov:wasGeneratedBy niiri:17965e9e-b3de-11e9-8c01-003ee1ce9545 .
 
+niiri:1846b9c8-c393-11e9-acad-003ee1ce9545 a nidm:FSLStatsCollection,
+        prov:Entity ;
+    niiri:309d8e72-b3dd-11e9-8750-003ee1ce9545 8899 ;
+    niiri:309f13b4-b3dd-11e9-8750-003ee1ce9545 8.899e+03 ;
+    niiri:30aa233a-b3dd-11e9-8750-003ee1ce9545 3765 ;
+    niiri:30ab9df0-b3dd-11e9-8750-003ee1ce9545 3.765e+03 ;
+    niiri:30b4830c-b3dd-11e9-8750-003ee1ce9545 5394 ;
+    niiri:30b604f2-b3dd-11e9-8750-003ee1ce9545 5.394e+03 ;
+    niiri:30bed244-b3dd-11e9-8750-003ee1ce9545 2011 ;
+    niiri:30c0407a-b3dd-11e9-8750-003ee1ce9545 2.011e+03 ;
+    niiri:30e87dd8-b3dd-11e9-8750-003ee1ce9545 3658 ;
+    niiri:30e9e736-b3dd-11e9-8750-003ee1ce9545 3.658e+03 ;
+    niiri:30f2d530-b3dd-11e9-8750-003ee1ce9545 1172 ;
+    niiri:30f443f2-b3dd-11e9-8750-003ee1ce9545 1.172e+03 ;
+    niiri:3107f1ae-b3dd-11e9-8750-003ee1ce9545 698 ;
+    niiri:3109c8c6-b3dd-11e9-8750-003ee1ce9545 6.98e+02 ;
+    niiri:3162a8f6-b3dd-11e9-8750-003ee1ce9545 8672 ;
+    niiri:31656ee2-b3dd-11e9-8750-003ee1ce9545 8.672e+03 ;
+    niiri:31711efe-b3dd-11e9-8750-003ee1ce9545 4006 ;
+    niiri:31729cde-b3dd-11e9-8750-003ee1ce9545 4.006e+03 ;
+    niiri:317bc192-b3dd-11e9-8750-003ee1ce9545 5167 ;
+    niiri:317d3dba-b3dd-11e9-8750-003ee1ce9545 5.167e+03 ;
+    niiri:318673b2-b3dd-11e9-8750-003ee1ce9545 1892 ;
+    niiri:31881fb4-b3dd-11e9-8750-003ee1ce9545 1.892e+03 ;
+    niiri:319139f0-b3dd-11e9-8750-003ee1ce9545 3948 ;
+    niiri:3192bd16-b3dd-11e9-8750-003ee1ce9545 3.948e+03 ;
+    niiri:319bde50-b3dd-11e9-8750-003ee1ce9545 1506 ;
+    niiri:319d5438-b3dd-11e9-8750-003ee1ce9545 1.506e+03 ;
+    niiri:31a6d198-b3dd-11e9-8750-003ee1ce9545 561 ;
+    niiri:31a8870e-b3dd-11e9-8750-003ee1ce9545 5.61e+02 ;
+    prov:wasGeneratedBy niiri:1846a38e-c393-11e9-acad-003ee1ce9545 .
+
+niiri:1a853a24-c394-11e9-9f95-003ee1ce9545 a nidm:FSLStatsCollection,
+        prov:Entity ;
+    niiri:309d8e72-b3dd-11e9-8750-003ee1ce9545 7463 ;
+    niiri:309f13b4-b3dd-11e9-8750-003ee1ce9545 7.463e+03 ;
+    niiri:30aa233a-b3dd-11e9-8750-003ee1ce9545 3198 ;
+    niiri:30ab9df0-b3dd-11e9-8750-003ee1ce9545 3.198e+03 ;
+    niiri:30b4830c-b3dd-11e9-8750-003ee1ce9545 5593 ;
+    niiri:30b604f2-b3dd-11e9-8750-003ee1ce9545 5.593e+03 ;
+    niiri:30bed244-b3dd-11e9-8750-003ee1ce9545 1754 ;
+    niiri:30c0407a-b3dd-11e9-8750-003ee1ce9545 1.754e+03 ;
+    niiri:30e87dd8-b3dd-11e9-8750-003ee1ce9545 3746 ;
+    niiri:30e9e736-b3dd-11e9-8750-003ee1ce9545 3.746e+03 ;
+    niiri:30f2d530-b3dd-11e9-8750-003ee1ce9545 1287 ;
+    niiri:30f443f2-b3dd-11e9-8750-003ee1ce9545 1.287e+03 ;
+    niiri:3107f1ae-b3dd-11e9-8750-003ee1ce9545 677 ;
+    niiri:3109c8c6-b3dd-11e9-8750-003ee1ce9545 6.77e+02 ;
+    niiri:3162a8f6-b3dd-11e9-8750-003ee1ce9545 7442 ;
+    niiri:31656ee2-b3dd-11e9-8750-003ee1ce9545 7.442e+03 ;
+    niiri:31711efe-b3dd-11e9-8750-003ee1ce9545 3116 ;
+    niiri:31729cde-b3dd-11e9-8750-003ee1ce9545 3.116e+03 ;
+    niiri:317bc192-b3dd-11e9-8750-003ee1ce9545 5400 ;
+    niiri:317d3dba-b3dd-11e9-8750-003ee1ce9545 5.4e+03 ;
+    niiri:318673b2-b3dd-11e9-8750-003ee1ce9545 1768 ;
+    niiri:31881fb4-b3dd-11e9-8750-003ee1ce9545 1.768e+03 ;
+    niiri:319139f0-b3dd-11e9-8750-003ee1ce9545 4170 ;
+    niiri:3192bd16-b3dd-11e9-8750-003ee1ce9545 4.17e+03 ;
+    niiri:319bde50-b3dd-11e9-8750-003ee1ce9545 1275 ;
+    niiri:319d5438-b3dd-11e9-8750-003ee1ce9545 1.275e+03 ;
+    niiri:31a6d198-b3dd-11e9-8750-003ee1ce9545 485 ;
+    niiri:31a8870e-b3dd-11e9-8750-003ee1ce9545 4.85e+02 ;
+    prov:wasGeneratedBy niiri:1a85249e-c394-11e9-9f95-003ee1ce9545 .
+
+niiri:1cbb9d02-c393-11e9-9704-003ee1ce9545 a nidm:FSLStatsCollection,
+        prov:Entity ;
+    niiri:309d8e72-b3dd-11e9-8750-003ee1ce9545 8421 ;
+    niiri:309f13b4-b3dd-11e9-8750-003ee1ce9545 8.421e+03 ;
+    niiri:30aa233a-b3dd-11e9-8750-003ee1ce9545 3915 ;
+    niiri:30ab9df0-b3dd-11e9-8750-003ee1ce9545 3.915e+03 ;
+    niiri:30b4830c-b3dd-11e9-8750-003ee1ce9545 5467 ;
+    niiri:30b604f2-b3dd-11e9-8750-003ee1ce9545 5.467e+03 ;
+    niiri:30bed244-b3dd-11e9-8750-003ee1ce9545 1780 ;
+    niiri:30c0407a-b3dd-11e9-8750-003ee1ce9545 1.78e+03 ;
+    niiri:30e87dd8-b3dd-11e9-8750-003ee1ce9545 4088 ;
+    niiri:30e9e736-b3dd-11e9-8750-003ee1ce9545 4.088e+03 ;
+    niiri:30f2d530-b3dd-11e9-8750-003ee1ce9545 1464 ;
+    niiri:30f443f2-b3dd-11e9-8750-003ee1ce9545 1.464e+03 ;
+    niiri:3107f1ae-b3dd-11e9-8750-003ee1ce9545 601 ;
+    niiri:3109c8c6-b3dd-11e9-8750-003ee1ce9545 6.01e+02 ;
+    niiri:3162a8f6-b3dd-11e9-8750-003ee1ce9545 8406 ;
+    niiri:31656ee2-b3dd-11e9-8750-003ee1ce9545 8.406e+03 ;
+    niiri:31711efe-b3dd-11e9-8750-003ee1ce9545 4168 ;
+    niiri:31729cde-b3dd-11e9-8750-003ee1ce9545 4.168e+03 ;
+    niiri:317bc192-b3dd-11e9-8750-003ee1ce9545 5628 ;
+    niiri:317d3dba-b3dd-11e9-8750-003ee1ce9545 5.628e+03 ;
+    niiri:318673b2-b3dd-11e9-8750-003ee1ce9545 1791 ;
+    niiri:31881fb4-b3dd-11e9-8750-003ee1ce9545 1.791e+03 ;
+    niiri:319139f0-b3dd-11e9-8750-003ee1ce9545 4370 ;
+    niiri:3192bd16-b3dd-11e9-8750-003ee1ce9545 4.37e+03 ;
+    niiri:319bde50-b3dd-11e9-8750-003ee1ce9545 909 ;
+    niiri:319d5438-b3dd-11e9-8750-003ee1ce9545 9.09e+02 ;
+    niiri:31a6d198-b3dd-11e9-8750-003ee1ce9545 485 ;
+    niiri:31a8870e-b3dd-11e9-8750-003ee1ce9545 4.85e+02 ;
+    prov:wasGeneratedBy niiri:1cbb875e-c393-11e9-9704-003ee1ce9545 .
+
 niiri:1d255a0e-b3de-11e9-88d7-003ee1ce9545 a nidm:FSStatsCollection,
         prov:Entity ;
     niiri:306f54bc-b3dd-11e9-8750-003ee1ce9545 "2770" ;
@@ -1502,6 +1918,70 @@ niiri:1d255a0e-b3de-11e9-88d7-003ee1ce9545 a nidm:FSStatsCollection,
     niiri:31eb73fc-b3dd-11e9-8750-003ee1ce9545 "109.0000" ;
     niiri:31ed2652-b3dd-11e9-8750-003ee1ce9545 "85.0000" ;
     prov:wasGeneratedBy niiri:1d252f52-b3de-11e9-88d7-003ee1ce9545 .
+
+niiri:1f4436fa-c394-11e9-8681-003ee1ce9545 a nidm:FSLStatsCollection,
+        prov:Entity ;
+    niiri:309d8e72-b3dd-11e9-8750-003ee1ce9545 8907 ;
+    niiri:309f13b4-b3dd-11e9-8750-003ee1ce9545 8.907e+03 ;
+    niiri:30aa233a-b3dd-11e9-8750-003ee1ce9545 4559 ;
+    niiri:30ab9df0-b3dd-11e9-8750-003ee1ce9545 4.559e+03 ;
+    niiri:30b4830c-b3dd-11e9-8750-003ee1ce9545 5687 ;
+    niiri:30b604f2-b3dd-11e9-8750-003ee1ce9545 5.687e+03 ;
+    niiri:30bed244-b3dd-11e9-8750-003ee1ce9545 1821 ;
+    niiri:30c0407a-b3dd-11e9-8750-003ee1ce9545 1.821e+03 ;
+    niiri:30e87dd8-b3dd-11e9-8750-003ee1ce9545 3804 ;
+    niiri:30e9e736-b3dd-11e9-8750-003ee1ce9545 3.804e+03 ;
+    niiri:30f2d530-b3dd-11e9-8750-003ee1ce9545 1203 ;
+    niiri:30f443f2-b3dd-11e9-8750-003ee1ce9545 1.203e+03 ;
+    niiri:3107f1ae-b3dd-11e9-8750-003ee1ce9545 448 ;
+    niiri:3109c8c6-b3dd-11e9-8750-003ee1ce9545 4.48e+02 ;
+    niiri:3162a8f6-b3dd-11e9-8750-003ee1ce9545 8624 ;
+    niiri:31656ee2-b3dd-11e9-8750-003ee1ce9545 8.624e+03 ;
+    niiri:31711efe-b3dd-11e9-8750-003ee1ce9545 4642 ;
+    niiri:31729cde-b3dd-11e9-8750-003ee1ce9545 4.642e+03 ;
+    niiri:317bc192-b3dd-11e9-8750-003ee1ce9545 5440 ;
+    niiri:317d3dba-b3dd-11e9-8750-003ee1ce9545 5.44e+03 ;
+    niiri:318673b2-b3dd-11e9-8750-003ee1ce9545 1897 ;
+    niiri:31881fb4-b3dd-11e9-8750-003ee1ce9545 1.897e+03 ;
+    niiri:319139f0-b3dd-11e9-8750-003ee1ce9545 3387 ;
+    niiri:3192bd16-b3dd-11e9-8750-003ee1ce9545 3.387e+03 ;
+    niiri:319bde50-b3dd-11e9-8750-003ee1ce9545 1547 ;
+    niiri:319d5438-b3dd-11e9-8750-003ee1ce9545 1.547e+03 ;
+    niiri:31a6d198-b3dd-11e9-8750-003ee1ce9545 417 ;
+    niiri:31a8870e-b3dd-11e9-8750-003ee1ce9545 4.17e+02 ;
+    prov:wasGeneratedBy niiri:1f442138-c394-11e9-8681-003ee1ce9545 .
+
+niiri:212e0bcc-c393-11e9-a438-003ee1ce9545 a nidm:FSLStatsCollection,
+        prov:Entity ;
+    niiri:309d8e72-b3dd-11e9-8750-003ee1ce9545 8570 ;
+    niiri:309f13b4-b3dd-11e9-8750-003ee1ce9545 8.57e+03 ;
+    niiri:30aa233a-b3dd-11e9-8750-003ee1ce9545 3702 ;
+    niiri:30ab9df0-b3dd-11e9-8750-003ee1ce9545 3.702e+03 ;
+    niiri:30b4830c-b3dd-11e9-8750-003ee1ce9545 5827 ;
+    niiri:30b604f2-b3dd-11e9-8750-003ee1ce9545 5.827e+03 ;
+    niiri:30bed244-b3dd-11e9-8750-003ee1ce9545 1987 ;
+    niiri:30c0407a-b3dd-11e9-8750-003ee1ce9545 1.987e+03 ;
+    niiri:30e87dd8-b3dd-11e9-8750-003ee1ce9545 3971 ;
+    niiri:30e9e736-b3dd-11e9-8750-003ee1ce9545 3.971e+03 ;
+    niiri:30f2d530-b3dd-11e9-8750-003ee1ce9545 1372 ;
+    niiri:30f443f2-b3dd-11e9-8750-003ee1ce9545 1.372e+03 ;
+    niiri:3107f1ae-b3dd-11e9-8750-003ee1ce9545 625 ;
+    niiri:3109c8c6-b3dd-11e9-8750-003ee1ce9545 6.25e+02 ;
+    niiri:3162a8f6-b3dd-11e9-8750-003ee1ce9545 8649 ;
+    niiri:31656ee2-b3dd-11e9-8750-003ee1ce9545 8.649e+03 ;
+    niiri:31711efe-b3dd-11e9-8750-003ee1ce9545 4138 ;
+    niiri:31729cde-b3dd-11e9-8750-003ee1ce9545 4.138e+03 ;
+    niiri:317bc192-b3dd-11e9-8750-003ee1ce9545 5806 ;
+    niiri:317d3dba-b3dd-11e9-8750-003ee1ce9545 5.806e+03 ;
+    niiri:318673b2-b3dd-11e9-8750-003ee1ce9545 1919 ;
+    niiri:31881fb4-b3dd-11e9-8750-003ee1ce9545 1.919e+03 ;
+    niiri:319139f0-b3dd-11e9-8750-003ee1ce9545 4205 ;
+    niiri:3192bd16-b3dd-11e9-8750-003ee1ce9545 4.205e+03 ;
+    niiri:319bde50-b3dd-11e9-8750-003ee1ce9545 1674 ;
+    niiri:319d5438-b3dd-11e9-8750-003ee1ce9545 1.674e+03 ;
+    niiri:31a6d198-b3dd-11e9-8750-003ee1ce9545 386 ;
+    niiri:31a8870e-b3dd-11e9-8750-003ee1ce9545 3.86e+02 ;
+    prov:wasGeneratedBy niiri:212df196-c393-11e9-a438-003ee1ce9545 .
 
 niiri:22ba8eee-b3de-11e9-ab5c-003ee1ce9545 a nidm:FSStatsCollection,
         prov:Entity ;
@@ -1745,6 +2225,70 @@ niiri:22ba8eee-b3de-11e9-ab5c-003ee1ce9545 a nidm:FSStatsCollection,
     niiri:31ed2652-b3dd-11e9-8750-003ee1ce9545 "114.0000" ;
     prov:wasGeneratedBy niiri:22ba5eb0-b3de-11e9-ab5c-003ee1ce9545 .
 
+niiri:240b1ee2-c394-11e9-9900-003ee1ce9545 a nidm:FSLStatsCollection,
+        prov:Entity ;
+    niiri:309d8e72-b3dd-11e9-8750-003ee1ce9545 8551 ;
+    niiri:309f13b4-b3dd-11e9-8750-003ee1ce9545 8.551e+03 ;
+    niiri:30aa233a-b3dd-11e9-8750-003ee1ce9545 3874 ;
+    niiri:30ab9df0-b3dd-11e9-8750-003ee1ce9545 3.874e+03 ;
+    niiri:30b4830c-b3dd-11e9-8750-003ee1ce9545 5331 ;
+    niiri:30b604f2-b3dd-11e9-8750-003ee1ce9545 5.331e+03 ;
+    niiri:30bed244-b3dd-11e9-8750-003ee1ce9545 1882 ;
+    niiri:30c0407a-b3dd-11e9-8750-003ee1ce9545 1.882e+03 ;
+    niiri:30e87dd8-b3dd-11e9-8750-003ee1ce9545 4290 ;
+    niiri:30e9e736-b3dd-11e9-8750-003ee1ce9545 4.29e+03 ;
+    niiri:30f2d530-b3dd-11e9-8750-003ee1ce9545 1365 ;
+    niiri:30f443f2-b3dd-11e9-8750-003ee1ce9545 1.365e+03 ;
+    niiri:3107f1ae-b3dd-11e9-8750-003ee1ce9545 465 ;
+    niiri:3109c8c6-b3dd-11e9-8750-003ee1ce9545 4.65e+02 ;
+    niiri:3162a8f6-b3dd-11e9-8750-003ee1ce9545 9427 ;
+    niiri:31656ee2-b3dd-11e9-8750-003ee1ce9545 9.427e+03 ;
+    niiri:31711efe-b3dd-11e9-8750-003ee1ce9545 4147 ;
+    niiri:31729cde-b3dd-11e9-8750-003ee1ce9545 4.147e+03 ;
+    niiri:317bc192-b3dd-11e9-8750-003ee1ce9545 5705 ;
+    niiri:317d3dba-b3dd-11e9-8750-003ee1ce9545 5.705e+03 ;
+    niiri:318673b2-b3dd-11e9-8750-003ee1ce9545 1967 ;
+    niiri:31881fb4-b3dd-11e9-8750-003ee1ce9545 1.967e+03 ;
+    niiri:319139f0-b3dd-11e9-8750-003ee1ce9545 3547 ;
+    niiri:3192bd16-b3dd-11e9-8750-003ee1ce9545 3.547e+03 ;
+    niiri:319bde50-b3dd-11e9-8750-003ee1ce9545 844 ;
+    niiri:319d5438-b3dd-11e9-8750-003ee1ce9545 8.44e+02 ;
+    niiri:31a6d198-b3dd-11e9-8750-003ee1ce9545 474 ;
+    niiri:31a8870e-b3dd-11e9-8750-003ee1ce9545 4.74e+02 ;
+    prov:wasGeneratedBy niiri:240b0c0e-c394-11e9-9900-003ee1ce9545 .
+
+niiri:2599a068-c393-11e9-8c08-003ee1ce9545 a nidm:FSLStatsCollection,
+        prov:Entity ;
+    niiri:309d8e72-b3dd-11e9-8750-003ee1ce9545 8778 ;
+    niiri:309f13b4-b3dd-11e9-8750-003ee1ce9545 8.778e+03 ;
+    niiri:30aa233a-b3dd-11e9-8750-003ee1ce9545 3563 ;
+    niiri:30ab9df0-b3dd-11e9-8750-003ee1ce9545 3.563e+03 ;
+    niiri:30b4830c-b3dd-11e9-8750-003ee1ce9545 6268 ;
+    niiri:30b604f2-b3dd-11e9-8750-003ee1ce9545 6.268e+03 ;
+    niiri:30bed244-b3dd-11e9-8750-003ee1ce9545 1807 ;
+    niiri:30c0407a-b3dd-11e9-8750-003ee1ce9545 1.807e+03 ;
+    niiri:30e87dd8-b3dd-11e9-8750-003ee1ce9545 3364 ;
+    niiri:30e9e736-b3dd-11e9-8750-003ee1ce9545 3.364e+03 ;
+    niiri:30f2d530-b3dd-11e9-8750-003ee1ce9545 966 ;
+    niiri:30f443f2-b3dd-11e9-8750-003ee1ce9545 9.66e+02 ;
+    niiri:3107f1ae-b3dd-11e9-8750-003ee1ce9545 664 ;
+    niiri:3109c8c6-b3dd-11e9-8750-003ee1ce9545 6.64e+02 ;
+    niiri:3162a8f6-b3dd-11e9-8750-003ee1ce9545 9166 ;
+    niiri:31656ee2-b3dd-11e9-8750-003ee1ce9545 9.166e+03 ;
+    niiri:31711efe-b3dd-11e9-8750-003ee1ce9545 3747 ;
+    niiri:31729cde-b3dd-11e9-8750-003ee1ce9545 3.747e+03 ;
+    niiri:317bc192-b3dd-11e9-8750-003ee1ce9545 5811 ;
+    niiri:317d3dba-b3dd-11e9-8750-003ee1ce9545 5.811e+03 ;
+    niiri:318673b2-b3dd-11e9-8750-003ee1ce9545 1853 ;
+    niiri:31881fb4-b3dd-11e9-8750-003ee1ce9545 1.853e+03 ;
+    niiri:319139f0-b3dd-11e9-8750-003ee1ce9545 3980 ;
+    niiri:3192bd16-b3dd-11e9-8750-003ee1ce9545 3.98e+03 ;
+    niiri:319bde50-b3dd-11e9-8750-003ee1ce9545 1398 ;
+    niiri:319d5438-b3dd-11e9-8750-003ee1ce9545 1.398e+03 ;
+    niiri:31a6d198-b3dd-11e9-8750-003ee1ce9545 628 ;
+    niiri:31a8870e-b3dd-11e9-8750-003ee1ce9545 6.28e+02 ;
+    prov:wasGeneratedBy niiri:25998b6e-c393-11e9-8c08-003ee1ce9545 .
+
 niiri:282d489e-b3de-11e9-81a6-003ee1ce9545 a nidm:FSStatsCollection,
         prov:Entity ;
     niiri:306f54bc-b3dd-11e9-8750-003ee1ce9545 "6245" ;
@@ -1987,6 +2531,102 @@ niiri:282d489e-b3de-11e9-81a6-003ee1ce9545 a nidm:FSStatsCollection,
     niiri:31ed2652-b3dd-11e9-8750-003ee1ce9545 "112.0000" ;
     prov:wasGeneratedBy niiri:282d17a2-b3de-11e9-81a6-003ee1ce9545 .
 
+niiri:28cc7ce6-c394-11e9-866e-003ee1ce9545 a nidm:FSLStatsCollection,
+        prov:Entity ;
+    niiri:309d8e72-b3dd-11e9-8750-003ee1ce9545 7900 ;
+    niiri:309f13b4-b3dd-11e9-8750-003ee1ce9545 7.9e+03 ;
+    niiri:30aa233a-b3dd-11e9-8750-003ee1ce9545 3476 ;
+    niiri:30ab9df0-b3dd-11e9-8750-003ee1ce9545 3.476e+03 ;
+    niiri:30b4830c-b3dd-11e9-8750-003ee1ce9545 5395 ;
+    niiri:30b604f2-b3dd-11e9-8750-003ee1ce9545 5.395e+03 ;
+    niiri:30bed244-b3dd-11e9-8750-003ee1ce9545 1746 ;
+    niiri:30c0407a-b3dd-11e9-8750-003ee1ce9545 1.746e+03 ;
+    niiri:30e87dd8-b3dd-11e9-8750-003ee1ce9545 3829 ;
+    niiri:30e9e736-b3dd-11e9-8750-003ee1ce9545 3.829e+03 ;
+    niiri:30f2d530-b3dd-11e9-8750-003ee1ce9545 1072 ;
+    niiri:30f443f2-b3dd-11e9-8750-003ee1ce9545 1.072e+03 ;
+    niiri:3107f1ae-b3dd-11e9-8750-003ee1ce9545 423 ;
+    niiri:3109c8c6-b3dd-11e9-8750-003ee1ce9545 4.23e+02 ;
+    niiri:3162a8f6-b3dd-11e9-8750-003ee1ce9545 7487 ;
+    niiri:31656ee2-b3dd-11e9-8750-003ee1ce9545 7.487e+03 ;
+    niiri:31711efe-b3dd-11e9-8750-003ee1ce9545 4021 ;
+    niiri:31729cde-b3dd-11e9-8750-003ee1ce9545 4.021e+03 ;
+    niiri:317bc192-b3dd-11e9-8750-003ee1ce9545 5396 ;
+    niiri:317d3dba-b3dd-11e9-8750-003ee1ce9545 5.396e+03 ;
+    niiri:318673b2-b3dd-11e9-8750-003ee1ce9545 1855 ;
+    niiri:31881fb4-b3dd-11e9-8750-003ee1ce9545 1.855e+03 ;
+    niiri:319139f0-b3dd-11e9-8750-003ee1ce9545 3982 ;
+    niiri:3192bd16-b3dd-11e9-8750-003ee1ce9545 3.982e+03 ;
+    niiri:319bde50-b3dd-11e9-8750-003ee1ce9545 1147 ;
+    niiri:319d5438-b3dd-11e9-8750-003ee1ce9545 1.147e+03 ;
+    niiri:31a6d198-b3dd-11e9-8750-003ee1ce9545 376 ;
+    niiri:31a8870e-b3dd-11e9-8750-003ee1ce9545 3.76e+02 ;
+    prov:wasGeneratedBy niiri:28cc6986-c394-11e9-866e-003ee1ce9545 .
+
+niiri:2a0073a2-c393-11e9-a8be-003ee1ce9545 a nidm:FSLStatsCollection,
+        prov:Entity ;
+    niiri:309d8e72-b3dd-11e9-8750-003ee1ce9545 8145 ;
+    niiri:309f13b4-b3dd-11e9-8750-003ee1ce9545 8.145e+03 ;
+    niiri:30aa233a-b3dd-11e9-8750-003ee1ce9545 3805 ;
+    niiri:30ab9df0-b3dd-11e9-8750-003ee1ce9545 3.805e+03 ;
+    niiri:30b4830c-b3dd-11e9-8750-003ee1ce9545 4975 ;
+    niiri:30b604f2-b3dd-11e9-8750-003ee1ce9545 4.975e+03 ;
+    niiri:30bed244-b3dd-11e9-8750-003ee1ce9545 1826 ;
+    niiri:30c0407a-b3dd-11e9-8750-003ee1ce9545 1.826e+03 ;
+    niiri:30e87dd8-b3dd-11e9-8750-003ee1ce9545 3583 ;
+    niiri:30e9e736-b3dd-11e9-8750-003ee1ce9545 3.583e+03 ;
+    niiri:30f2d530-b3dd-11e9-8750-003ee1ce9545 1224 ;
+    niiri:30f443f2-b3dd-11e9-8750-003ee1ce9545 1.224e+03 ;
+    niiri:3107f1ae-b3dd-11e9-8750-003ee1ce9545 471 ;
+    niiri:3109c8c6-b3dd-11e9-8750-003ee1ce9545 4.71e+02 ;
+    niiri:3162a8f6-b3dd-11e9-8750-003ee1ce9545 8032 ;
+    niiri:31656ee2-b3dd-11e9-8750-003ee1ce9545 8.032e+03 ;
+    niiri:31711efe-b3dd-11e9-8750-003ee1ce9545 3907 ;
+    niiri:31729cde-b3dd-11e9-8750-003ee1ce9545 3.907e+03 ;
+    niiri:317bc192-b3dd-11e9-8750-003ee1ce9545 5126 ;
+    niiri:317d3dba-b3dd-11e9-8750-003ee1ce9545 5.126e+03 ;
+    niiri:318673b2-b3dd-11e9-8750-003ee1ce9545 1818 ;
+    niiri:31881fb4-b3dd-11e9-8750-003ee1ce9545 1.818e+03 ;
+    niiri:319139f0-b3dd-11e9-8750-003ee1ce9545 3565 ;
+    niiri:3192bd16-b3dd-11e9-8750-003ee1ce9545 3.565e+03 ;
+    niiri:319bde50-b3dd-11e9-8750-003ee1ce9545 1337 ;
+    niiri:319d5438-b3dd-11e9-8750-003ee1ce9545 1.337e+03 ;
+    niiri:31a6d198-b3dd-11e9-8750-003ee1ce9545 351 ;
+    niiri:31a8870e-b3dd-11e9-8750-003ee1ce9545 3.51e+02 ;
+    prov:wasGeneratedBy niiri:2a005e12-c393-11e9-a8be-003ee1ce9545 .
+
+niiri:2d839882-c394-11e9-b4fb-003ee1ce9545 a nidm:FSLStatsCollection,
+        prov:Entity ;
+    niiri:309d8e72-b3dd-11e9-8750-003ee1ce9545 9485 ;
+    niiri:309f13b4-b3dd-11e9-8750-003ee1ce9545 9.485e+03 ;
+    niiri:30aa233a-b3dd-11e9-8750-003ee1ce9545 4633 ;
+    niiri:30ab9df0-b3dd-11e9-8750-003ee1ce9545 4.633e+03 ;
+    niiri:30b4830c-b3dd-11e9-8750-003ee1ce9545 6073 ;
+    niiri:30b604f2-b3dd-11e9-8750-003ee1ce9545 6.073e+03 ;
+    niiri:30bed244-b3dd-11e9-8750-003ee1ce9545 2107 ;
+    niiri:30c0407a-b3dd-11e9-8750-003ee1ce9545 2.107e+03 ;
+    niiri:30e87dd8-b3dd-11e9-8750-003ee1ce9545 3977 ;
+    niiri:30e9e736-b3dd-11e9-8750-003ee1ce9545 3.977e+03 ;
+    niiri:30f2d530-b3dd-11e9-8750-003ee1ce9545 1190 ;
+    niiri:30f443f2-b3dd-11e9-8750-003ee1ce9545 1.19e+03 ;
+    niiri:3107f1ae-b3dd-11e9-8750-003ee1ce9545 763 ;
+    niiri:3109c8c6-b3dd-11e9-8750-003ee1ce9545 7.63e+02 ;
+    niiri:3162a8f6-b3dd-11e9-8750-003ee1ce9545 9230 ;
+    niiri:31656ee2-b3dd-11e9-8750-003ee1ce9545 9.23e+03 ;
+    niiri:31711efe-b3dd-11e9-8750-003ee1ce9545 5011 ;
+    niiri:31729cde-b3dd-11e9-8750-003ee1ce9545 5.011e+03 ;
+    niiri:317bc192-b3dd-11e9-8750-003ee1ce9545 6137 ;
+    niiri:317d3dba-b3dd-11e9-8750-003ee1ce9545 6.137e+03 ;
+    niiri:318673b2-b3dd-11e9-8750-003ee1ce9545 2223 ;
+    niiri:31881fb4-b3dd-11e9-8750-003ee1ce9545 2.223e+03 ;
+    niiri:319139f0-b3dd-11e9-8750-003ee1ce9545 3921 ;
+    niiri:3192bd16-b3dd-11e9-8750-003ee1ce9545 3.921e+03 ;
+    niiri:319bde50-b3dd-11e9-8750-003ee1ce9545 1070 ;
+    niiri:319d5438-b3dd-11e9-8750-003ee1ce9545 1.07e+03 ;
+    niiri:31a6d198-b3dd-11e9-8750-003ee1ce9545 630 ;
+    niiri:31a8870e-b3dd-11e9-8750-003ee1ce9545 6.3e+02 ;
+    prov:wasGeneratedBy niiri:2d8383ce-c394-11e9-b4fb-003ee1ce9545 .
+
 niiri:2dcd70da-b3de-11e9-ba6b-003ee1ce9545 a nidm:FSStatsCollection,
         prov:Entity ;
     niiri:306f54bc-b3dd-11e9-8750-003ee1ce9545 "3020" ;
@@ -2228,6 +2868,38 @@ niiri:2dcd70da-b3de-11e9-ba6b-003ee1ce9545 a nidm:FSStatsCollection,
     niiri:31eb73fc-b3dd-11e9-8750-003ee1ce9545 "121.0000" ;
     niiri:31ed2652-b3dd-11e9-8750-003ee1ce9545 "111.0000" ;
     prov:wasGeneratedBy niiri:2dcd44d4-b3de-11e9-ba6b-003ee1ce9545 .
+
+niiri:2e6a2000-c393-11e9-8b79-003ee1ce9545 a nidm:FSLStatsCollection,
+        prov:Entity ;
+    niiri:309d8e72-b3dd-11e9-8750-003ee1ce9545 9261 ;
+    niiri:309f13b4-b3dd-11e9-8750-003ee1ce9545 9.261e+03 ;
+    niiri:30aa233a-b3dd-11e9-8750-003ee1ce9545 4231 ;
+    niiri:30ab9df0-b3dd-11e9-8750-003ee1ce9545 4.231e+03 ;
+    niiri:30b4830c-b3dd-11e9-8750-003ee1ce9545 6113 ;
+    niiri:30b604f2-b3dd-11e9-8750-003ee1ce9545 6.113e+03 ;
+    niiri:30bed244-b3dd-11e9-8750-003ee1ce9545 2015 ;
+    niiri:30c0407a-b3dd-11e9-8750-003ee1ce9545 2.015e+03 ;
+    niiri:30e87dd8-b3dd-11e9-8750-003ee1ce9545 3044 ;
+    niiri:30e9e736-b3dd-11e9-8750-003ee1ce9545 3.044e+03 ;
+    niiri:30f2d530-b3dd-11e9-8750-003ee1ce9545 1067 ;
+    niiri:30f443f2-b3dd-11e9-8750-003ee1ce9545 1.067e+03 ;
+    niiri:3107f1ae-b3dd-11e9-8750-003ee1ce9545 742 ;
+    niiri:3109c8c6-b3dd-11e9-8750-003ee1ce9545 7.42e+02 ;
+    niiri:3162a8f6-b3dd-11e9-8750-003ee1ce9545 9587 ;
+    niiri:31656ee2-b3dd-11e9-8750-003ee1ce9545 9.587e+03 ;
+    niiri:31711efe-b3dd-11e9-8750-003ee1ce9545 4571 ;
+    niiri:31729cde-b3dd-11e9-8750-003ee1ce9545 4.571e+03 ;
+    niiri:317bc192-b3dd-11e9-8750-003ee1ce9545 6330 ;
+    niiri:317d3dba-b3dd-11e9-8750-003ee1ce9545 6.33e+03 ;
+    niiri:318673b2-b3dd-11e9-8750-003ee1ce9545 1944 ;
+    niiri:31881fb4-b3dd-11e9-8750-003ee1ce9545 1.944e+03 ;
+    niiri:319139f0-b3dd-11e9-8750-003ee1ce9545 4444 ;
+    niiri:3192bd16-b3dd-11e9-8750-003ee1ce9545 4.444e+03 ;
+    niiri:319bde50-b3dd-11e9-8750-003ee1ce9545 1373 ;
+    niiri:319d5438-b3dd-11e9-8750-003ee1ce9545 1.373e+03 ;
+    niiri:31a6d198-b3dd-11e9-8750-003ee1ce9545 118 ;
+    niiri:31a8870e-b3dd-11e9-8750-003ee1ce9545 1.18e+02 ;
+    prov:wasGeneratedBy niiri:2e6a0b42-c393-11e9-8b79-003ee1ce9545 .
 
 niiri:306dde84-b3dd-11e9-8750-003ee1ce9545 a nidm:FSStatsCollection,
         prov:Entity ;
@@ -4851,6 +5523,38 @@ niiri:31ed2652-b3dd-11e9-8750-003ee1ce9545 a measurement_datum:,
     isMeasureOf: GrayMatter: ;
     hasDatumType: <http://uri.interlex.org/base/ilx_0738268#> .
 
+niiri:32e259c2-c393-11e9-8c9f-003ee1ce9545 a nidm:FSLStatsCollection,
+        prov:Entity ;
+    niiri:309d8e72-b3dd-11e9-8750-003ee1ce9545 9600 ;
+    niiri:309f13b4-b3dd-11e9-8750-003ee1ce9545 9.599993e+03 ;
+    niiri:30aa233a-b3dd-11e9-8750-003ee1ce9545 4383 ;
+    niiri:30ab9df0-b3dd-11e9-8750-003ee1ce9545 4.382997e+03 ;
+    niiri:30b4830c-b3dd-11e9-8750-003ee1ce9545 6230 ;
+    niiri:30b604f2-b3dd-11e9-8750-003ee1ce9545 6.229996e+03 ;
+    niiri:30bed244-b3dd-11e9-8750-003ee1ce9545 1974 ;
+    niiri:30c0407a-b3dd-11e9-8750-003ee1ce9545 1.973999e+03 ;
+    niiri:30e87dd8-b3dd-11e9-8750-003ee1ce9545 3920 ;
+    niiri:30e9e736-b3dd-11e9-8750-003ee1ce9545 3.919997e+03 ;
+    niiri:30f2d530-b3dd-11e9-8750-003ee1ce9545 1387 ;
+    niiri:30f443f2-b3dd-11e9-8750-003ee1ce9545 1.386999e+03 ;
+    niiri:3107f1ae-b3dd-11e9-8750-003ee1ce9545 788 ;
+    niiri:3109c8c6-b3dd-11e9-8750-003ee1ce9545 7.879994e+02 ;
+    niiri:3162a8f6-b3dd-11e9-8750-003ee1ce9545 9399 ;
+    niiri:31656ee2-b3dd-11e9-8750-003ee1ce9545 9.398993e+03 ;
+    niiri:31711efe-b3dd-11e9-8750-003ee1ce9545 4434 ;
+    niiri:31729cde-b3dd-11e9-8750-003ee1ce9545 4.433997e+03 ;
+    niiri:317bc192-b3dd-11e9-8750-003ee1ce9545 6033 ;
+    niiri:317d3dba-b3dd-11e9-8750-003ee1ce9545 6.032996e+03 ;
+    niiri:318673b2-b3dd-11e9-8750-003ee1ce9545 1826 ;
+    niiri:31881fb4-b3dd-11e9-8750-003ee1ce9545 1.825999e+03 ;
+    niiri:319139f0-b3dd-11e9-8750-003ee1ce9545 4314 ;
+    niiri:3192bd16-b3dd-11e9-8750-003ee1ce9545 4.313997e+03 ;
+    niiri:319bde50-b3dd-11e9-8750-003ee1ce9545 948 ;
+    niiri:319d5438-b3dd-11e9-8750-003ee1ce9545 9.479993e+02 ;
+    niiri:31a6d198-b3dd-11e9-8750-003ee1ce9545 717 ;
+    niiri:31a8870e-b3dd-11e9-8750-003ee1ce9545 7.169995e+02 ;
+    prov:wasGeneratedBy niiri:32e24612-c393-11e9-8c9f-003ee1ce9545 .
+
 niiri:3368451a-b3de-11e9-8d5a-003ee1ce9545 a nidm:FSStatsCollection,
         prov:Entity ;
     niiri:306f54bc-b3dd-11e9-8750-003ee1ce9545 "3834" ;
@@ -5335,6 +6039,38 @@ niiri:344a6f36-b3dd-11e9-96be-003ee1ce9545 a nidm:FSStatsCollection,
     niiri:31ed2652-b3dd-11e9-8750-003ee1ce9545 "92.0000" ;
     prov:wasGeneratedBy niiri:344a40e2-b3dd-11e9-96be-003ee1ce9545 .
 
+niiri:3767aa88-c393-11e9-9b25-003ee1ce9545 a nidm:FSLStatsCollection,
+        prov:Entity ;
+    niiri:309d8e72-b3dd-11e9-8750-003ee1ce9545 7453 ;
+    niiri:309f13b4-b3dd-11e9-8750-003ee1ce9545 7.453e+03 ;
+    niiri:30aa233a-b3dd-11e9-8750-003ee1ce9545 3047 ;
+    niiri:30ab9df0-b3dd-11e9-8750-003ee1ce9545 3.047e+03 ;
+    niiri:30b4830c-b3dd-11e9-8750-003ee1ce9545 5382 ;
+    niiri:30b604f2-b3dd-11e9-8750-003ee1ce9545 5.382e+03 ;
+    niiri:30bed244-b3dd-11e9-8750-003ee1ce9545 1840 ;
+    niiri:30c0407a-b3dd-11e9-8750-003ee1ce9545 1.84e+03 ;
+    niiri:30e87dd8-b3dd-11e9-8750-003ee1ce9545 3550 ;
+    niiri:30e9e736-b3dd-11e9-8750-003ee1ce9545 3.55e+03 ;
+    niiri:30f2d530-b3dd-11e9-8750-003ee1ce9545 1245 ;
+    niiri:30f443f2-b3dd-11e9-8750-003ee1ce9545 1.245e+03 ;
+    niiri:3107f1ae-b3dd-11e9-8750-003ee1ce9545 249 ;
+    niiri:3109c8c6-b3dd-11e9-8750-003ee1ce9545 2.49e+02 ;
+    niiri:3162a8f6-b3dd-11e9-8750-003ee1ce9545 8277 ;
+    niiri:31656ee2-b3dd-11e9-8750-003ee1ce9545 8.277e+03 ;
+    niiri:31711efe-b3dd-11e9-8750-003ee1ce9545 3022 ;
+    niiri:31729cde-b3dd-11e9-8750-003ee1ce9545 3.022e+03 ;
+    niiri:317bc192-b3dd-11e9-8750-003ee1ce9545 5182 ;
+    niiri:317d3dba-b3dd-11e9-8750-003ee1ce9545 5.182e+03 ;
+    niiri:318673b2-b3dd-11e9-8750-003ee1ce9545 1769 ;
+    niiri:31881fb4-b3dd-11e9-8750-003ee1ce9545 1.769e+03 ;
+    niiri:319139f0-b3dd-11e9-8750-003ee1ce9545 3173 ;
+    niiri:3192bd16-b3dd-11e9-8750-003ee1ce9545 3.173e+03 ;
+    niiri:319bde50-b3dd-11e9-8750-003ee1ce9545 1976 ;
+    niiri:319d5438-b3dd-11e9-8750-003ee1ce9545 1.976e+03 ;
+    niiri:31a6d198-b3dd-11e9-8750-003ee1ce9545 164 ;
+    niiri:31a8870e-b3dd-11e9-8750-003ee1ce9545 1.64e+02 ;
+    prov:wasGeneratedBy niiri:37679764-c393-11e9-9b25-003ee1ce9545 .
+
 niiri:38435382-b3dd-11e9-84f7-003ee1ce9545 a nidm:FSStatsCollection,
         prov:Entity ;
     niiri:306f54bc-b3dd-11e9-8750-003ee1ce9545 "6956" ;
@@ -5818,6 +6554,38 @@ niiri:391a977e-b3de-11e9-8273-003ee1ce9545 a nidm:FSStatsCollection,
     niiri:31eb73fc-b3dd-11e9-8750-003ee1ce9545 "111.0000" ;
     niiri:31ed2652-b3dd-11e9-8750-003ee1ce9545 "88.0000" ;
     prov:wasGeneratedBy niiri:391a63e4-b3de-11e9-8273-003ee1ce9545 .
+
+niiri:3bddda7e-c393-11e9-aa3f-003ee1ce9545 a nidm:FSLStatsCollection,
+        prov:Entity ;
+    niiri:309d8e72-b3dd-11e9-8750-003ee1ce9545 9732 ;
+    niiri:309f13b4-b3dd-11e9-8750-003ee1ce9545 9.732e+03 ;
+    niiri:30aa233a-b3dd-11e9-8750-003ee1ce9545 4191 ;
+    niiri:30ab9df0-b3dd-11e9-8750-003ee1ce9545 4.191e+03 ;
+    niiri:30b4830c-b3dd-11e9-8750-003ee1ce9545 6300 ;
+    niiri:30b604f2-b3dd-11e9-8750-003ee1ce9545 6.3e+03 ;
+    niiri:30bed244-b3dd-11e9-8750-003ee1ce9545 1984 ;
+    niiri:30c0407a-b3dd-11e9-8750-003ee1ce9545 1.984e+03 ;
+    niiri:30e87dd8-b3dd-11e9-8750-003ee1ce9545 3843 ;
+    niiri:30e9e736-b3dd-11e9-8750-003ee1ce9545 3.843e+03 ;
+    niiri:30f2d530-b3dd-11e9-8750-003ee1ce9545 1600 ;
+    niiri:30f443f2-b3dd-11e9-8750-003ee1ce9545 1.6e+03 ;
+    niiri:3107f1ae-b3dd-11e9-8750-003ee1ce9545 503 ;
+    niiri:3109c8c6-b3dd-11e9-8750-003ee1ce9545 5.03e+02 ;
+    niiri:3162a8f6-b3dd-11e9-8750-003ee1ce9545 9480 ;
+    niiri:31656ee2-b3dd-11e9-8750-003ee1ce9545 9.48e+03 ;
+    niiri:31711efe-b3dd-11e9-8750-003ee1ce9545 4475 ;
+    niiri:31729cde-b3dd-11e9-8750-003ee1ce9545 4.475e+03 ;
+    niiri:317bc192-b3dd-11e9-8750-003ee1ce9545 6504 ;
+    niiri:317d3dba-b3dd-11e9-8750-003ee1ce9545 6.504e+03 ;
+    niiri:318673b2-b3dd-11e9-8750-003ee1ce9545 2104 ;
+    niiri:31881fb4-b3dd-11e9-8750-003ee1ce9545 2.104e+03 ;
+    niiri:319139f0-b3dd-11e9-8750-003ee1ce9545 4120 ;
+    niiri:3192bd16-b3dd-11e9-8750-003ee1ce9545 4.12e+03 ;
+    niiri:319bde50-b3dd-11e9-8750-003ee1ce9545 1898 ;
+    niiri:319d5438-b3dd-11e9-8750-003ee1ce9545 1.898e+03 ;
+    niiri:31a6d198-b3dd-11e9-8750-003ee1ce9545 347 ;
+    niiri:31a8870e-b3dd-11e9-8750-003ee1ce9545 3.47e+02 ;
+    prov:wasGeneratedBy niiri:3bddc6c4-c393-11e9-aa3f-003ee1ce9545 .
 
 niiri:3c3974c6-b3dd-11e9-bddb-003ee1ce9545 a nidm:FSStatsCollection,
         prov:Entity ;
@@ -6545,6 +7313,38 @@ niiri:4041bf2e-b3dd-11e9-a34a-003ee1ce9545 a nidm:FSStatsCollection,
     niiri:31ed2652-b3dd-11e9-8750-003ee1ce9545 "93.0000" ;
     prov:wasGeneratedBy niiri:4041870c-b3dd-11e9-a34a-003ee1ce9545 .
 
+niiri:40623f36-c393-11e9-874d-003ee1ce9545 a nidm:FSLStatsCollection,
+        prov:Entity ;
+    niiri:309d8e72-b3dd-11e9-8750-003ee1ce9545 8291 ;
+    niiri:309f13b4-b3dd-11e9-8750-003ee1ce9545 8.291e+03 ;
+    niiri:30aa233a-b3dd-11e9-8750-003ee1ce9545 4079 ;
+    niiri:30ab9df0-b3dd-11e9-8750-003ee1ce9545 4.079e+03 ;
+    niiri:30b4830c-b3dd-11e9-8750-003ee1ce9545 5289 ;
+    niiri:30b604f2-b3dd-11e9-8750-003ee1ce9545 5.289e+03 ;
+    niiri:30bed244-b3dd-11e9-8750-003ee1ce9545 1738 ;
+    niiri:30c0407a-b3dd-11e9-8750-003ee1ce9545 1.738e+03 ;
+    niiri:30e87dd8-b3dd-11e9-8750-003ee1ce9545 3343 ;
+    niiri:30e9e736-b3dd-11e9-8750-003ee1ce9545 3.343e+03 ;
+    niiri:30f2d530-b3dd-11e9-8750-003ee1ce9545 1541 ;
+    niiri:30f443f2-b3dd-11e9-8750-003ee1ce9545 1.541e+03 ;
+    niiri:3107f1ae-b3dd-11e9-8750-003ee1ce9545 596 ;
+    niiri:3109c8c6-b3dd-11e9-8750-003ee1ce9545 5.96e+02 ;
+    niiri:3162a8f6-b3dd-11e9-8750-003ee1ce9545 8196 ;
+    niiri:31656ee2-b3dd-11e9-8750-003ee1ce9545 8.196e+03 ;
+    niiri:31711efe-b3dd-11e9-8750-003ee1ce9545 4048 ;
+    niiri:31729cde-b3dd-11e9-8750-003ee1ce9545 4.048e+03 ;
+    niiri:317bc192-b3dd-11e9-8750-003ee1ce9545 5463 ;
+    niiri:317d3dba-b3dd-11e9-8750-003ee1ce9545 5.463e+03 ;
+    niiri:318673b2-b3dd-11e9-8750-003ee1ce9545 1657 ;
+    niiri:31881fb4-b3dd-11e9-8750-003ee1ce9545 1.657e+03 ;
+    niiri:319139f0-b3dd-11e9-8750-003ee1ce9545 3899 ;
+    niiri:3192bd16-b3dd-11e9-8750-003ee1ce9545 3.899e+03 ;
+    niiri:319bde50-b3dd-11e9-8750-003ee1ce9545 1235 ;
+    niiri:319d5438-b3dd-11e9-8750-003ee1ce9545 1.235e+03 ;
+    niiri:31a6d198-b3dd-11e9-8750-003ee1ce9545 374 ;
+    niiri:31a8870e-b3dd-11e9-8750-003ee1ce9545 3.74e+02 ;
+    prov:wasGeneratedBy niiri:406227bc-c393-11e9-874d-003ee1ce9545 .
+
 niiri:4459daec-b3dd-11e9-8282-003ee1ce9545 a nidm:FSStatsCollection,
         prov:Entity ;
     niiri:306f54bc-b3dd-11e9-8750-003ee1ce9545 "5870" ;
@@ -7029,6 +7829,38 @@ niiri:44b401ce-b3de-11e9-8756-003ee1ce9545 a nidm:FSStatsCollection,
     niiri:31ed2652-b3dd-11e9-8750-003ee1ce9545 "83.0000" ;
     prov:wasGeneratedBy niiri:44b3d424-b3de-11e9-8756-003ee1ce9545 .
 
+niiri:44e86152-c393-11e9-adf4-003ee1ce9545 a nidm:FSLStatsCollection,
+        prov:Entity ;
+    niiri:309d8e72-b3dd-11e9-8750-003ee1ce9545 8605 ;
+    niiri:309f13b4-b3dd-11e9-8750-003ee1ce9545 8.605e+03 ;
+    niiri:30aa233a-b3dd-11e9-8750-003ee1ce9545 3971 ;
+    niiri:30ab9df0-b3dd-11e9-8750-003ee1ce9545 3.971e+03 ;
+    niiri:30b4830c-b3dd-11e9-8750-003ee1ce9545 5397 ;
+    niiri:30b604f2-b3dd-11e9-8750-003ee1ce9545 5.397e+03 ;
+    niiri:30bed244-b3dd-11e9-8750-003ee1ce9545 1940 ;
+    niiri:30c0407a-b3dd-11e9-8750-003ee1ce9545 1.94e+03 ;
+    niiri:30e87dd8-b3dd-11e9-8750-003ee1ce9545 3803 ;
+    niiri:30e9e736-b3dd-11e9-8750-003ee1ce9545 3.803e+03 ;
+    niiri:30f2d530-b3dd-11e9-8750-003ee1ce9545 1530 ;
+    niiri:30f443f2-b3dd-11e9-8750-003ee1ce9545 1.53e+03 ;
+    niiri:3107f1ae-b3dd-11e9-8750-003ee1ce9545 569 ;
+    niiri:3109c8c6-b3dd-11e9-8750-003ee1ce9545 5.69e+02 ;
+    niiri:3162a8f6-b3dd-11e9-8750-003ee1ce9545 8207 ;
+    niiri:31656ee2-b3dd-11e9-8750-003ee1ce9545 8.207e+03 ;
+    niiri:31711efe-b3dd-11e9-8750-003ee1ce9545 4226 ;
+    niiri:31729cde-b3dd-11e9-8750-003ee1ce9545 4.226e+03 ;
+    niiri:317bc192-b3dd-11e9-8750-003ee1ce9545 5540 ;
+    niiri:317d3dba-b3dd-11e9-8750-003ee1ce9545 5.54e+03 ;
+    niiri:318673b2-b3dd-11e9-8750-003ee1ce9545 1910 ;
+    niiri:31881fb4-b3dd-11e9-8750-003ee1ce9545 1.91e+03 ;
+    niiri:319139f0-b3dd-11e9-8750-003ee1ce9545 3827 ;
+    niiri:3192bd16-b3dd-11e9-8750-003ee1ce9545 3.827e+03 ;
+    niiri:319bde50-b3dd-11e9-8750-003ee1ce9545 1359 ;
+    niiri:319d5438-b3dd-11e9-8750-003ee1ce9545 1.359e+03 ;
+    niiri:31a6d198-b3dd-11e9-8750-003ee1ce9545 399 ;
+    niiri:31a8870e-b3dd-11e9-8750-003ee1ce9545 3.99e+02 ;
+    prov:wasGeneratedBy niiri:44e84a6e-c393-11e9-adf4-003ee1ce9545 .
+
 niiri:486faed6-b3dd-11e9-8e07-003ee1ce9545 a nidm:FSStatsCollection,
         prov:Entity ;
     niiri:306f54bc-b3dd-11e9-8750-003ee1ce9545 "6525" ;
@@ -7270,6 +8102,38 @@ niiri:486faed6-b3dd-11e9-8e07-003ee1ce9545 a nidm:FSStatsCollection,
     niiri:31eb73fc-b3dd-11e9-8750-003ee1ce9545 "111.0000" ;
     niiri:31ed2652-b3dd-11e9-8750-003ee1ce9545 "96.0000" ;
     prov:wasGeneratedBy niiri:486f7eca-b3dd-11e9-8e07-003ee1ce9545 .
+
+niiri:49546768-c393-11e9-8dff-003ee1ce9545 a nidm:FSLStatsCollection,
+        prov:Entity ;
+    niiri:309d8e72-b3dd-11e9-8750-003ee1ce9545 8400 ;
+    niiri:309f13b4-b3dd-11e9-8750-003ee1ce9545 8.4e+03 ;
+    niiri:30aa233a-b3dd-11e9-8750-003ee1ce9545 3738 ;
+    niiri:30ab9df0-b3dd-11e9-8750-003ee1ce9545 3.738e+03 ;
+    niiri:30b4830c-b3dd-11e9-8750-003ee1ce9545 5227 ;
+    niiri:30b604f2-b3dd-11e9-8750-003ee1ce9545 5.227e+03 ;
+    niiri:30bed244-b3dd-11e9-8750-003ee1ce9545 1877 ;
+    niiri:30c0407a-b3dd-11e9-8750-003ee1ce9545 1.877e+03 ;
+    niiri:30e87dd8-b3dd-11e9-8750-003ee1ce9545 3755 ;
+    niiri:30e9e736-b3dd-11e9-8750-003ee1ce9545 3.755e+03 ;
+    niiri:30f2d530-b3dd-11e9-8750-003ee1ce9545 1156 ;
+    niiri:30f443f2-b3dd-11e9-8750-003ee1ce9545 1.156e+03 ;
+    niiri:3107f1ae-b3dd-11e9-8750-003ee1ce9545 518 ;
+    niiri:3109c8c6-b3dd-11e9-8750-003ee1ce9545 5.18e+02 ;
+    niiri:3162a8f6-b3dd-11e9-8750-003ee1ce9545 8052 ;
+    niiri:31656ee2-b3dd-11e9-8750-003ee1ce9545 8.052e+03 ;
+    niiri:31711efe-b3dd-11e9-8750-003ee1ce9545 4003 ;
+    niiri:31729cde-b3dd-11e9-8750-003ee1ce9545 4.003e+03 ;
+    niiri:317bc192-b3dd-11e9-8750-003ee1ce9545 5170 ;
+    niiri:317d3dba-b3dd-11e9-8750-003ee1ce9545 5.17e+03 ;
+    niiri:318673b2-b3dd-11e9-8750-003ee1ce9545 1793 ;
+    niiri:31881fb4-b3dd-11e9-8750-003ee1ce9545 1.793e+03 ;
+    niiri:319139f0-b3dd-11e9-8750-003ee1ce9545 4212 ;
+    niiri:3192bd16-b3dd-11e9-8750-003ee1ce9545 4.212e+03 ;
+    niiri:319bde50-b3dd-11e9-8750-003ee1ce9545 1309 ;
+    niiri:319d5438-b3dd-11e9-8750-003ee1ce9545 1.309e+03 ;
+    niiri:31a6d198-b3dd-11e9-8750-003ee1ce9545 519 ;
+    niiri:31a8870e-b3dd-11e9-8750-003ee1ce9545 5.19e+02 ;
+    prov:wasGeneratedBy niiri:49545430-c393-11e9-8dff-003ee1ce9545 .
 
 niiri:4a5630f2-b3de-11e9-8e3b-003ee1ce9545 a nidm:FSStatsCollection,
         prov:Entity ;
@@ -7755,6 +8619,38 @@ niiri:4c8cefba-b3dd-11e9-89a3-003ee1ce9545 a nidm:FSStatsCollection,
     niiri:31ed2652-b3dd-11e9-8750-003ee1ce9545 "99.0000" ;
     prov:wasGeneratedBy niiri:4c8cbe6e-b3dd-11e9-89a3-003ee1ce9545 .
 
+niiri:4dd0ae6e-c393-11e9-886e-003ee1ce9545 a nidm:FSLStatsCollection,
+        prov:Entity ;
+    niiri:309d8e72-b3dd-11e9-8750-003ee1ce9545 7950 ;
+    niiri:309f13b4-b3dd-11e9-8750-003ee1ce9545 7.95e+03 ;
+    niiri:30aa233a-b3dd-11e9-8750-003ee1ce9545 3868 ;
+    niiri:30ab9df0-b3dd-11e9-8750-003ee1ce9545 3.868e+03 ;
+    niiri:30b4830c-b3dd-11e9-8750-003ee1ce9545 6176 ;
+    niiri:30b604f2-b3dd-11e9-8750-003ee1ce9545 6.176e+03 ;
+    niiri:30bed244-b3dd-11e9-8750-003ee1ce9545 2102 ;
+    niiri:30c0407a-b3dd-11e9-8750-003ee1ce9545 2.102e+03 ;
+    niiri:30e87dd8-b3dd-11e9-8750-003ee1ce9545 3713 ;
+    niiri:30e9e736-b3dd-11e9-8750-003ee1ce9545 3.713e+03 ;
+    niiri:30f2d530-b3dd-11e9-8750-003ee1ce9545 1138 ;
+    niiri:30f443f2-b3dd-11e9-8750-003ee1ce9545 1.138e+03 ;
+    niiri:3107f1ae-b3dd-11e9-8750-003ee1ce9545 585 ;
+    niiri:3109c8c6-b3dd-11e9-8750-003ee1ce9545 5.85e+02 ;
+    niiri:3162a8f6-b3dd-11e9-8750-003ee1ce9545 7928 ;
+    niiri:31656ee2-b3dd-11e9-8750-003ee1ce9545 7.928e+03 ;
+    niiri:31711efe-b3dd-11e9-8750-003ee1ce9545 4102 ;
+    niiri:31729cde-b3dd-11e9-8750-003ee1ce9545 4.102e+03 ;
+    niiri:317bc192-b3dd-11e9-8750-003ee1ce9545 6094 ;
+    niiri:317d3dba-b3dd-11e9-8750-003ee1ce9545 6.094e+03 ;
+    niiri:318673b2-b3dd-11e9-8750-003ee1ce9545 1953 ;
+    niiri:31881fb4-b3dd-11e9-8750-003ee1ce9545 1.953e+03 ;
+    niiri:319139f0-b3dd-11e9-8750-003ee1ce9545 4236 ;
+    niiri:3192bd16-b3dd-11e9-8750-003ee1ce9545 4.236e+03 ;
+    niiri:319bde50-b3dd-11e9-8750-003ee1ce9545 1346 ;
+    niiri:319d5438-b3dd-11e9-8750-003ee1ce9545 1.346e+03 ;
+    niiri:31a6d198-b3dd-11e9-8750-003ee1ce9545 512 ;
+    niiri:31a8870e-b3dd-11e9-8750-003ee1ce9545 5.12e+02 ;
+    prov:wasGeneratedBy niiri:4dd09a6e-c393-11e9-886e-003ee1ce9545 .
+
 niiri:501904e2-b3de-11e9-b098-003ee1ce9545 a nidm:FSStatsCollection,
         prov:Entity ;
     niiri:306f54bc-b3dd-11e9-8750-003ee1ce9545 "5277" ;
@@ -8238,6 +9134,38 @@ niiri:50be5380-b3dd-11e9-8dc2-003ee1ce9545 a nidm:FSStatsCollection,
     niiri:31eb73fc-b3dd-11e9-8750-003ee1ce9545 "127.0000" ;
     niiri:31ed2652-b3dd-11e9-8750-003ee1ce9545 "115.0000" ;
     prov:wasGeneratedBy niiri:50be29fa-b3dd-11e9-8dc2-003ee1ce9545 .
+
+niiri:524b8f04-c393-11e9-bb67-003ee1ce9545 a nidm:FSLStatsCollection,
+        prov:Entity ;
+    niiri:309d8e72-b3dd-11e9-8750-003ee1ce9545 7455 ;
+    niiri:309f13b4-b3dd-11e9-8750-003ee1ce9545 7.455e+03 ;
+    niiri:30aa233a-b3dd-11e9-8750-003ee1ce9545 3523 ;
+    niiri:30ab9df0-b3dd-11e9-8750-003ee1ce9545 3.523e+03 ;
+    niiri:30b4830c-b3dd-11e9-8750-003ee1ce9545 3880 ;
+    niiri:30b604f2-b3dd-11e9-8750-003ee1ce9545 3.88e+03 ;
+    niiri:30bed244-b3dd-11e9-8750-003ee1ce9545 1718 ;
+    niiri:30c0407a-b3dd-11e9-8750-003ee1ce9545 1.718e+03 ;
+    niiri:30e87dd8-b3dd-11e9-8750-003ee1ce9545 3771 ;
+    niiri:30e9e736-b3dd-11e9-8750-003ee1ce9545 3.771e+03 ;
+    niiri:30f2d530-b3dd-11e9-8750-003ee1ce9545 1101 ;
+    niiri:30f443f2-b3dd-11e9-8750-003ee1ce9545 1.101e+03 ;
+    niiri:3107f1ae-b3dd-11e9-8750-003ee1ce9545 550 ;
+    niiri:3109c8c6-b3dd-11e9-8750-003ee1ce9545 5.5e+02 ;
+    niiri:3162a8f6-b3dd-11e9-8750-003ee1ce9545 6729 ;
+    niiri:31656ee2-b3dd-11e9-8750-003ee1ce9545 6.729e+03 ;
+    niiri:31711efe-b3dd-11e9-8750-003ee1ce9545 2835 ;
+    niiri:31729cde-b3dd-11e9-8750-003ee1ce9545 2.835e+03 ;
+    niiri:317bc192-b3dd-11e9-8750-003ee1ce9545 4282 ;
+    niiri:317d3dba-b3dd-11e9-8750-003ee1ce9545 4.282e+03 ;
+    niiri:318673b2-b3dd-11e9-8750-003ee1ce9545 1853 ;
+    niiri:31881fb4-b3dd-11e9-8750-003ee1ce9545 1.853e+03 ;
+    niiri:319139f0-b3dd-11e9-8750-003ee1ce9545 3803 ;
+    niiri:3192bd16-b3dd-11e9-8750-003ee1ce9545 3.803e+03 ;
+    niiri:319bde50-b3dd-11e9-8750-003ee1ce9545 1466 ;
+    niiri:319d5438-b3dd-11e9-8750-003ee1ce9545 1.466e+03 ;
+    niiri:31a6d198-b3dd-11e9-8750-003ee1ce9545 436 ;
+    niiri:31a8870e-b3dd-11e9-8750-003ee1ce9545 4.36e+02 ;
+    prov:wasGeneratedBy niiri:524b79ce-c393-11e9-bb67-003ee1ce9545 .
 
 niiri:54ec90fc-b3dd-11e9-83d9-003ee1ce9545 a nidm:FSStatsCollection,
         prov:Entity ;
@@ -8723,6 +9651,38 @@ niiri:55db3db4-b3de-11e9-89f3-003ee1ce9545 a nidm:FSStatsCollection,
     niiri:31ed2652-b3dd-11e9-8750-003ee1ce9545 "85.0000" ;
     prov:wasGeneratedBy niiri:55db10dc-b3de-11e9-89f3-003ee1ce9545 .
 
+niiri:56f5f67a-c393-11e9-8b8b-003ee1ce9545 a nidm:FSLStatsCollection,
+        prov:Entity ;
+    niiri:309d8e72-b3dd-11e9-8750-003ee1ce9545 9129 ;
+    niiri:309f13b4-b3dd-11e9-8750-003ee1ce9545 9.129e+03 ;
+    niiri:30aa233a-b3dd-11e9-8750-003ee1ce9545 4280 ;
+    niiri:30ab9df0-b3dd-11e9-8750-003ee1ce9545 4.28e+03 ;
+    niiri:30b4830c-b3dd-11e9-8750-003ee1ce9545 6348 ;
+    niiri:30b604f2-b3dd-11e9-8750-003ee1ce9545 6.348e+03 ;
+    niiri:30bed244-b3dd-11e9-8750-003ee1ce9545 2054 ;
+    niiri:30c0407a-b3dd-11e9-8750-003ee1ce9545 2.054e+03 ;
+    niiri:30e87dd8-b3dd-11e9-8750-003ee1ce9545 3137 ;
+    niiri:30e9e736-b3dd-11e9-8750-003ee1ce9545 3.137e+03 ;
+    niiri:30f2d530-b3dd-11e9-8750-003ee1ce9545 1983 ;
+    niiri:30f443f2-b3dd-11e9-8750-003ee1ce9545 1.983e+03 ;
+    niiri:3107f1ae-b3dd-11e9-8750-003ee1ce9545 603 ;
+    niiri:3109c8c6-b3dd-11e9-8750-003ee1ce9545 6.03e+02 ;
+    niiri:3162a8f6-b3dd-11e9-8750-003ee1ce9545 8585 ;
+    niiri:31656ee2-b3dd-11e9-8750-003ee1ce9545 8.585e+03 ;
+    niiri:31711efe-b3dd-11e9-8750-003ee1ce9545 4405 ;
+    niiri:31729cde-b3dd-11e9-8750-003ee1ce9545 4.405e+03 ;
+    niiri:317bc192-b3dd-11e9-8750-003ee1ce9545 6272 ;
+    niiri:317d3dba-b3dd-11e9-8750-003ee1ce9545 6.272e+03 ;
+    niiri:318673b2-b3dd-11e9-8750-003ee1ce9545 2052 ;
+    niiri:31881fb4-b3dd-11e9-8750-003ee1ce9545 2.052e+03 ;
+    niiri:319139f0-b3dd-11e9-8750-003ee1ce9545 4363 ;
+    niiri:3192bd16-b3dd-11e9-8750-003ee1ce9545 4.363e+03 ;
+    niiri:319bde50-b3dd-11e9-8750-003ee1ce9545 1016 ;
+    niiri:319d5438-b3dd-11e9-8750-003ee1ce9545 1.016e+03 ;
+    niiri:31a6d198-b3dd-11e9-8750-003ee1ce9545 491 ;
+    niiri:31a8870e-b3dd-11e9-8750-003ee1ce9545 4.91e+02 ;
+    prov:wasGeneratedBy niiri:56f5deb0-c393-11e9-8b8b-003ee1ce9545 .
+
 niiri:5932ebca-b3dd-11e9-acf2-003ee1ce9545 a nidm:FSStatsCollection,
         prov:Entity ;
     niiri:306f54bc-b3dd-11e9-8750-003ee1ce9545 "5379" ;
@@ -8964,6 +9924,38 @@ niiri:5932ebca-b3dd-11e9-acf2-003ee1ce9545 a nidm:FSStatsCollection,
     niiri:31eb73fc-b3dd-11e9-8750-003ee1ce9545 "108.0000" ;
     niiri:31ed2652-b3dd-11e9-8750-003ee1ce9545 "85.0000" ;
     prov:wasGeneratedBy niiri:5932bd80-b3dd-11e9-acf2-003ee1ce9545 .
+
+niiri:5b922456-c393-11e9-9474-003ee1ce9545 a nidm:FSLStatsCollection,
+        prov:Entity ;
+    niiri:309d8e72-b3dd-11e9-8750-003ee1ce9545 7972 ;
+    niiri:309f13b4-b3dd-11e9-8750-003ee1ce9545 7.972e+03 ;
+    niiri:30aa233a-b3dd-11e9-8750-003ee1ce9545 3761 ;
+    niiri:30ab9df0-b3dd-11e9-8750-003ee1ce9545 3.761e+03 ;
+    niiri:30b4830c-b3dd-11e9-8750-003ee1ce9545 5190 ;
+    niiri:30b604f2-b3dd-11e9-8750-003ee1ce9545 5.19e+03 ;
+    niiri:30bed244-b3dd-11e9-8750-003ee1ce9545 1645 ;
+    niiri:30c0407a-b3dd-11e9-8750-003ee1ce9545 1.645e+03 ;
+    niiri:30e87dd8-b3dd-11e9-8750-003ee1ce9545 3177 ;
+    niiri:30e9e736-b3dd-11e9-8750-003ee1ce9545 3.177e+03 ;
+    niiri:30f2d530-b3dd-11e9-8750-003ee1ce9545 605 ;
+    niiri:30f443f2-b3dd-11e9-8750-003ee1ce9545 6.05e+02 ;
+    niiri:3107f1ae-b3dd-11e9-8750-003ee1ce9545 648 ;
+    niiri:3109c8c6-b3dd-11e9-8750-003ee1ce9545 6.48e+02 ;
+    niiri:3162a8f6-b3dd-11e9-8750-003ee1ce9545 8002 ;
+    niiri:31656ee2-b3dd-11e9-8750-003ee1ce9545 8.002e+03 ;
+    niiri:31711efe-b3dd-11e9-8750-003ee1ce9545 3806 ;
+    niiri:31729cde-b3dd-11e9-8750-003ee1ce9545 3.806e+03 ;
+    niiri:317bc192-b3dd-11e9-8750-003ee1ce9545 5605 ;
+    niiri:317d3dba-b3dd-11e9-8750-003ee1ce9545 5.605e+03 ;
+    niiri:318673b2-b3dd-11e9-8750-003ee1ce9545 1757 ;
+    niiri:31881fb4-b3dd-11e9-8750-003ee1ce9545 1.757e+03 ;
+    niiri:319139f0-b3dd-11e9-8750-003ee1ce9545 3791 ;
+    niiri:3192bd16-b3dd-11e9-8750-003ee1ce9545 3.791e+03 ;
+    niiri:319bde50-b3dd-11e9-8750-003ee1ce9545 1344 ;
+    niiri:319d5438-b3dd-11e9-8750-003ee1ce9545 1.344e+03 ;
+    niiri:31a6d198-b3dd-11e9-8750-003ee1ce9545 574 ;
+    niiri:31a8870e-b3dd-11e9-8750-003ee1ce9545 5.74e+02 ;
+    prov:wasGeneratedBy niiri:5b921128-c393-11e9-9474-003ee1ce9545 .
 
 niiri:5bb2f4a2-b3de-11e9-bed4-003ee1ce9545 a nidm:FSStatsCollection,
         prov:Entity ;
@@ -9449,6 +10441,38 @@ niiri:5d8defee-b3dd-11e9-98c8-003ee1ce9545 a nidm:FSStatsCollection,
     niiri:31ed2652-b3dd-11e9-8750-003ee1ce9545 "86.0000" ;
     prov:wasGeneratedBy niiri:5d8dc370-b3dd-11e9-98c8-003ee1ce9545 .
 
+niiri:601e4d24-c393-11e9-acdb-003ee1ce9545 a nidm:FSLStatsCollection,
+        prov:Entity ;
+    niiri:309d8e72-b3dd-11e9-8750-003ee1ce9545 7439 ;
+    niiri:309f13b4-b3dd-11e9-8750-003ee1ce9545 7.439e+03 ;
+    niiri:30aa233a-b3dd-11e9-8750-003ee1ce9545 3742 ;
+    niiri:30ab9df0-b3dd-11e9-8750-003ee1ce9545 3.742e+03 ;
+    niiri:30b4830c-b3dd-11e9-8750-003ee1ce9545 5449 ;
+    niiri:30b604f2-b3dd-11e9-8750-003ee1ce9545 5.449e+03 ;
+    niiri:30bed244-b3dd-11e9-8750-003ee1ce9545 1618 ;
+    niiri:30c0407a-b3dd-11e9-8750-003ee1ce9545 1.618e+03 ;
+    niiri:30e87dd8-b3dd-11e9-8750-003ee1ce9545 3470 ;
+    niiri:30e9e736-b3dd-11e9-8750-003ee1ce9545 3.47e+03 ;
+    niiri:30f2d530-b3dd-11e9-8750-003ee1ce9545 641 ;
+    niiri:30f443f2-b3dd-11e9-8750-003ee1ce9545 6.41e+02 ;
+    niiri:3107f1ae-b3dd-11e9-8750-003ee1ce9545 667 ;
+    niiri:3109c8c6-b3dd-11e9-8750-003ee1ce9545 6.67e+02 ;
+    niiri:3162a8f6-b3dd-11e9-8750-003ee1ce9545 6808 ;
+    niiri:31656ee2-b3dd-11e9-8750-003ee1ce9545 6.808e+03 ;
+    niiri:31711efe-b3dd-11e9-8750-003ee1ce9545 4306 ;
+    niiri:31729cde-b3dd-11e9-8750-003ee1ce9545 4.306e+03 ;
+    niiri:317bc192-b3dd-11e9-8750-003ee1ce9545 5459 ;
+    niiri:317d3dba-b3dd-11e9-8750-003ee1ce9545 5.459e+03 ;
+    niiri:318673b2-b3dd-11e9-8750-003ee1ce9545 1482 ;
+    niiri:31881fb4-b3dd-11e9-8750-003ee1ce9545 1.482e+03 ;
+    niiri:319139f0-b3dd-11e9-8750-003ee1ce9545 3053 ;
+    niiri:3192bd16-b3dd-11e9-8750-003ee1ce9545 3.053e+03 ;
+    niiri:319bde50-b3dd-11e9-8750-003ee1ce9545 1108 ;
+    niiri:319d5438-b3dd-11e9-8750-003ee1ce9545 1.108e+03 ;
+    niiri:31a6d198-b3dd-11e9-8750-003ee1ce9545 423 ;
+    niiri:31a8870e-b3dd-11e9-8750-003ee1ce9545 4.23e+02 ;
+    prov:wasGeneratedBy niiri:601e39f6-c393-11e9-acdb-003ee1ce9545 .
+
 niiri:619f2d68-b3de-11e9-bde6-003ee1ce9545 a nidm:FSStatsCollection,
         prov:Entity ;
     niiri:306f54bc-b3dd-11e9-8750-003ee1ce9545 "3600" ;
@@ -9932,6 +10956,38 @@ niiri:61fa9bfe-b3dd-11e9-a7ea-003ee1ce9545 a nidm:FSStatsCollection,
     niiri:31eb73fc-b3dd-11e9-8750-003ee1ce9545 "121.0000" ;
     niiri:31ed2652-b3dd-11e9-8750-003ee1ce9545 "96.0000" ;
     prov:wasGeneratedBy niiri:61fa6d96-b3dd-11e9-a7ea-003ee1ce9545 .
+
+niiri:64a4ad3e-c393-11e9-9460-003ee1ce9545 a nidm:FSLStatsCollection,
+        prov:Entity ;
+    niiri:309d8e72-b3dd-11e9-8750-003ee1ce9545 7464 ;
+    niiri:309f13b4-b3dd-11e9-8750-003ee1ce9545 7.464e+03 ;
+    niiri:30aa233a-b3dd-11e9-8750-003ee1ce9545 3369 ;
+    niiri:30ab9df0-b3dd-11e9-8750-003ee1ce9545 3.369e+03 ;
+    niiri:30b4830c-b3dd-11e9-8750-003ee1ce9545 5693 ;
+    niiri:30b604f2-b3dd-11e9-8750-003ee1ce9545 5.693e+03 ;
+    niiri:30bed244-b3dd-11e9-8750-003ee1ce9545 1975 ;
+    niiri:30c0407a-b3dd-11e9-8750-003ee1ce9545 1.975e+03 ;
+    niiri:30e87dd8-b3dd-11e9-8750-003ee1ce9545 2513 ;
+    niiri:30e9e736-b3dd-11e9-8750-003ee1ce9545 2.513e+03 ;
+    niiri:30f2d530-b3dd-11e9-8750-003ee1ce9545 737 ;
+    niiri:30f443f2-b3dd-11e9-8750-003ee1ce9545 7.37e+02 ;
+    niiri:3107f1ae-b3dd-11e9-8750-003ee1ce9545 472 ;
+    niiri:3109c8c6-b3dd-11e9-8750-003ee1ce9545 4.72e+02 ;
+    niiri:3162a8f6-b3dd-11e9-8750-003ee1ce9545 7257 ;
+    niiri:31656ee2-b3dd-11e9-8750-003ee1ce9545 7.257e+03 ;
+    niiri:31711efe-b3dd-11e9-8750-003ee1ce9545 3160 ;
+    niiri:31729cde-b3dd-11e9-8750-003ee1ce9545 3.16e+03 ;
+    niiri:317bc192-b3dd-11e9-8750-003ee1ce9545 5481 ;
+    niiri:317d3dba-b3dd-11e9-8750-003ee1ce9545 5.481e+03 ;
+    niiri:318673b2-b3dd-11e9-8750-003ee1ce9545 1870 ;
+    niiri:31881fb4-b3dd-11e9-8750-003ee1ce9545 1.87e+03 ;
+    niiri:319139f0-b3dd-11e9-8750-003ee1ce9545 3275 ;
+    niiri:3192bd16-b3dd-11e9-8750-003ee1ce9545 3.275e+03 ;
+    niiri:319bde50-b3dd-11e9-8750-003ee1ce9545 1175 ;
+    niiri:319d5438-b3dd-11e9-8750-003ee1ce9545 1.175e+03 ;
+    niiri:31a6d198-b3dd-11e9-8750-003ee1ce9545 400 ;
+    niiri:31a8870e-b3dd-11e9-8750-003ee1ce9545 4e+02 ;
+    prov:wasGeneratedBy niiri:64a498d0-c393-11e9-9460-003ee1ce9545 .
 
 niiri:664a0bf4-b3dd-11e9-b4be-003ee1ce9545 a nidm:FSStatsCollection,
         prov:Entity ;
@@ -10417,6 +11473,38 @@ niiri:6777341a-b3de-11e9-9e7d-003ee1ce9545 a nidm:FSStatsCollection,
     niiri:31ed2652-b3dd-11e9-8750-003ee1ce9545 "109.0000" ;
     prov:wasGeneratedBy niiri:67770904-b3de-11e9-9e7d-003ee1ce9545 .
 
+niiri:692b914c-c393-11e9-a844-003ee1ce9545 a nidm:FSLStatsCollection,
+        prov:Entity ;
+    niiri:309d8e72-b3dd-11e9-8750-003ee1ce9545 7586 ;
+    niiri:309f13b4-b3dd-11e9-8750-003ee1ce9545 7.586e+03 ;
+    niiri:30aa233a-b3dd-11e9-8750-003ee1ce9545 3192 ;
+    niiri:30ab9df0-b3dd-11e9-8750-003ee1ce9545 3.192e+03 ;
+    niiri:30b4830c-b3dd-11e9-8750-003ee1ce9545 4318 ;
+    niiri:30b604f2-b3dd-11e9-8750-003ee1ce9545 4.318e+03 ;
+    niiri:30bed244-b3dd-11e9-8750-003ee1ce9545 1728 ;
+    niiri:30c0407a-b3dd-11e9-8750-003ee1ce9545 1.728e+03 ;
+    niiri:30e87dd8-b3dd-11e9-8750-003ee1ce9545 2835 ;
+    niiri:30e9e736-b3dd-11e9-8750-003ee1ce9545 2.835e+03 ;
+    niiri:30f2d530-b3dd-11e9-8750-003ee1ce9545 351 ;
+    niiri:30f443f2-b3dd-11e9-8750-003ee1ce9545 3.51e+02 ;
+    niiri:3107f1ae-b3dd-11e9-8750-003ee1ce9545 468 ;
+    niiri:3109c8c6-b3dd-11e9-8750-003ee1ce9545 4.68e+02 ;
+    niiri:3162a8f6-b3dd-11e9-8750-003ee1ce9545 7154 ;
+    niiri:31656ee2-b3dd-11e9-8750-003ee1ce9545 7.154e+03 ;
+    niiri:31711efe-b3dd-11e9-8750-003ee1ce9545 3571 ;
+    niiri:31729cde-b3dd-11e9-8750-003ee1ce9545 3.571e+03 ;
+    niiri:317bc192-b3dd-11e9-8750-003ee1ce9545 5254 ;
+    niiri:317d3dba-b3dd-11e9-8750-003ee1ce9545 5.254e+03 ;
+    niiri:318673b2-b3dd-11e9-8750-003ee1ce9545 1889 ;
+    niiri:31881fb4-b3dd-11e9-8750-003ee1ce9545 1.889e+03 ;
+    niiri:319139f0-b3dd-11e9-8750-003ee1ce9545 3736 ;
+    niiri:3192bd16-b3dd-11e9-8750-003ee1ce9545 3.736e+03 ;
+    niiri:319bde50-b3dd-11e9-8750-003ee1ce9545 1717 ;
+    niiri:319d5438-b3dd-11e9-8750-003ee1ce9545 1.717e+03 ;
+    niiri:31a6d198-b3dd-11e9-8750-003ee1ce9545 340 ;
+    niiri:31a8870e-b3dd-11e9-8750-003ee1ce9545 3.4e+02 ;
+    prov:wasGeneratedBy niiri:692b7c84-c393-11e9-a844-003ee1ce9545 .
+
 niiri:6a987506-b3dd-11e9-9104-003ee1ce9545 a nidm:FSStatsCollection,
         prov:Entity ;
     niiri:306f54bc-b3dd-11e9-8750-003ee1ce9545 "4756" ;
@@ -10901,6 +11989,38 @@ niiri:6d4a1cf4-b3de-11e9-8f05-003ee1ce9545 a nidm:FSStatsCollection,
     niiri:31ed2652-b3dd-11e9-8750-003ee1ce9545 "92.0000" ;
     prov:wasGeneratedBy niiri:6d49ee82-b3de-11e9-8f05-003ee1ce9545 .
 
+niiri:6db622ae-c393-11e9-80a6-003ee1ce9545 a nidm:FSLStatsCollection,
+        prov:Entity ;
+    niiri:309d8e72-b3dd-11e9-8750-003ee1ce9545 7765 ;
+    niiri:309f13b4-b3dd-11e9-8750-003ee1ce9545 7.765e+03 ;
+    niiri:30aa233a-b3dd-11e9-8750-003ee1ce9545 4342 ;
+    niiri:30ab9df0-b3dd-11e9-8750-003ee1ce9545 4.342e+03 ;
+    niiri:30b4830c-b3dd-11e9-8750-003ee1ce9545 5506 ;
+    niiri:30b604f2-b3dd-11e9-8750-003ee1ce9545 5.506e+03 ;
+    niiri:30bed244-b3dd-11e9-8750-003ee1ce9545 1944 ;
+    niiri:30c0407a-b3dd-11e9-8750-003ee1ce9545 1.944e+03 ;
+    niiri:30e87dd8-b3dd-11e9-8750-003ee1ce9545 2714 ;
+    niiri:30e9e736-b3dd-11e9-8750-003ee1ce9545 2.714e+03 ;
+    niiri:30f2d530-b3dd-11e9-8750-003ee1ce9545 1117 ;
+    niiri:30f443f2-b3dd-11e9-8750-003ee1ce9545 1.117e+03 ;
+    niiri:3107f1ae-b3dd-11e9-8750-003ee1ce9545 635 ;
+    niiri:3109c8c6-b3dd-11e9-8750-003ee1ce9545 6.35e+02 ;
+    niiri:3162a8f6-b3dd-11e9-8750-003ee1ce9545 7851 ;
+    niiri:31656ee2-b3dd-11e9-8750-003ee1ce9545 7.851e+03 ;
+    niiri:31711efe-b3dd-11e9-8750-003ee1ce9545 4170 ;
+    niiri:31729cde-b3dd-11e9-8750-003ee1ce9545 4.17e+03 ;
+    niiri:317bc192-b3dd-11e9-8750-003ee1ce9545 5631 ;
+    niiri:317d3dba-b3dd-11e9-8750-003ee1ce9545 5.631e+03 ;
+    niiri:318673b2-b3dd-11e9-8750-003ee1ce9545 2065 ;
+    niiri:31881fb4-b3dd-11e9-8750-003ee1ce9545 2.065e+03 ;
+    niiri:319139f0-b3dd-11e9-8750-003ee1ce9545 2459 ;
+    niiri:3192bd16-b3dd-11e9-8750-003ee1ce9545 2.459e+03 ;
+    niiri:319bde50-b3dd-11e9-8750-003ee1ce9545 1096 ;
+    niiri:319d5438-b3dd-11e9-8750-003ee1ce9545 1.096e+03 ;
+    niiri:31a6d198-b3dd-11e9-8750-003ee1ce9545 468 ;
+    niiri:31a8870e-b3dd-11e9-8750-003ee1ce9545 4.68e+02 ;
+    prov:wasGeneratedBy niiri:6db60c38-c393-11e9-80a6-003ee1ce9545 .
+
 niiri:6f02536e-b3dd-11e9-8d7f-003ee1ce9545 a nidm:FSStatsCollection,
         prov:Entity ;
     niiri:306f54bc-b3dd-11e9-8750-003ee1ce9545 "3951" ;
@@ -11142,6 +12262,38 @@ niiri:6f02536e-b3dd-11e9-8d7f-003ee1ce9545 a nidm:FSStatsCollection,
     niiri:31eb73fc-b3dd-11e9-8750-003ee1ce9545 "122.0000" ;
     niiri:31ed2652-b3dd-11e9-8750-003ee1ce9545 "100.0000" ;
     prov:wasGeneratedBy niiri:6f0225ba-b3dd-11e9-8d7f-003ee1ce9545 .
+
+niiri:72408da0-c393-11e9-9dc3-003ee1ce9545 a nidm:FSLStatsCollection,
+        prov:Entity ;
+    niiri:309d8e72-b3dd-11e9-8750-003ee1ce9545 8000 ;
+    niiri:309f13b4-b3dd-11e9-8750-003ee1ce9545 8e+03 ;
+    niiri:30aa233a-b3dd-11e9-8750-003ee1ce9545 3215 ;
+    niiri:30ab9df0-b3dd-11e9-8750-003ee1ce9545 3.215e+03 ;
+    niiri:30b4830c-b3dd-11e9-8750-003ee1ce9545 4267 ;
+    niiri:30b604f2-b3dd-11e9-8750-003ee1ce9545 4.267e+03 ;
+    niiri:30bed244-b3dd-11e9-8750-003ee1ce9545 1534 ;
+    niiri:30c0407a-b3dd-11e9-8750-003ee1ce9545 1.534e+03 ;
+    niiri:30e87dd8-b3dd-11e9-8750-003ee1ce9545 3002 ;
+    niiri:30e9e736-b3dd-11e9-8750-003ee1ce9545 3.002e+03 ;
+    niiri:30f2d530-b3dd-11e9-8750-003ee1ce9545 1048 ;
+    niiri:30f443f2-b3dd-11e9-8750-003ee1ce9545 1.048e+03 ;
+    niiri:3107f1ae-b3dd-11e9-8750-003ee1ce9545 434 ;
+    niiri:3109c8c6-b3dd-11e9-8750-003ee1ce9545 4.34e+02 ;
+    niiri:3162a8f6-b3dd-11e9-8750-003ee1ce9545 7911 ;
+    niiri:31656ee2-b3dd-11e9-8750-003ee1ce9545 7.911e+03 ;
+    niiri:31711efe-b3dd-11e9-8750-003ee1ce9545 3169 ;
+    niiri:31729cde-b3dd-11e9-8750-003ee1ce9545 3.169e+03 ;
+    niiri:317bc192-b3dd-11e9-8750-003ee1ce9545 4277 ;
+    niiri:317d3dba-b3dd-11e9-8750-003ee1ce9545 4.277e+03 ;
+    niiri:318673b2-b3dd-11e9-8750-003ee1ce9545 1560 ;
+    niiri:31881fb4-b3dd-11e9-8750-003ee1ce9545 1.56e+03 ;
+    niiri:319139f0-b3dd-11e9-8750-003ee1ce9545 3368 ;
+    niiri:3192bd16-b3dd-11e9-8750-003ee1ce9545 3.368e+03 ;
+    niiri:319bde50-b3dd-11e9-8750-003ee1ce9545 961 ;
+    niiri:319d5438-b3dd-11e9-8750-003ee1ce9545 9.61e+02 ;
+    niiri:31a6d198-b3dd-11e9-8750-003ee1ce9545 412 ;
+    niiri:31a8870e-b3dd-11e9-8750-003ee1ce9545 4.12e+02 ;
+    prov:wasGeneratedBy niiri:7240784c-c393-11e9-9dc3-003ee1ce9545 .
 
 niiri:732e1512-b3de-11e9-a624-003ee1ce9545 a nidm:FSStatsCollection,
         prov:Entity ;
@@ -13191,6 +14343,38 @@ niiri:7694cf46-b25f-11e9-9e00-003ee1ce9545 a nidm:AcquisitionObject,
     prov:Location "/datasets.datalad.org/adhd200/RawDataBIDS/Peking_2"^^xsd:string ;
     prov:wasGeneratedBy niiri:7694c78a-b25f-11e9-9e00-003ee1ce9545 .
 
+niiri:76bf8bec-c393-11e9-8160-003ee1ce9545 a nidm:FSLStatsCollection,
+        prov:Entity ;
+    niiri:309d8e72-b3dd-11e9-8750-003ee1ce9545 7308 ;
+    niiri:309f13b4-b3dd-11e9-8750-003ee1ce9545 7.308e+03 ;
+    niiri:30aa233a-b3dd-11e9-8750-003ee1ce9545 3806 ;
+    niiri:30ab9df0-b3dd-11e9-8750-003ee1ce9545 3.806e+03 ;
+    niiri:30b4830c-b3dd-11e9-8750-003ee1ce9545 4603 ;
+    niiri:30b604f2-b3dd-11e9-8750-003ee1ce9545 4.603e+03 ;
+    niiri:30bed244-b3dd-11e9-8750-003ee1ce9545 1407 ;
+    niiri:30c0407a-b3dd-11e9-8750-003ee1ce9545 1.407e+03 ;
+    niiri:30e87dd8-b3dd-11e9-8750-003ee1ce9545 3622 ;
+    niiri:30e9e736-b3dd-11e9-8750-003ee1ce9545 3.622e+03 ;
+    niiri:30f2d530-b3dd-11e9-8750-003ee1ce9545 978 ;
+    niiri:30f443f2-b3dd-11e9-8750-003ee1ce9545 9.78e+02 ;
+    niiri:3107f1ae-b3dd-11e9-8750-003ee1ce9545 500 ;
+    niiri:3109c8c6-b3dd-11e9-8750-003ee1ce9545 5e+02 ;
+    niiri:3162a8f6-b3dd-11e9-8750-003ee1ce9545 7111 ;
+    niiri:31656ee2-b3dd-11e9-8750-003ee1ce9545 7.111e+03 ;
+    niiri:31711efe-b3dd-11e9-8750-003ee1ce9545 2934 ;
+    niiri:31729cde-b3dd-11e9-8750-003ee1ce9545 2.934e+03 ;
+    niiri:317bc192-b3dd-11e9-8750-003ee1ce9545 4930 ;
+    niiri:317d3dba-b3dd-11e9-8750-003ee1ce9545 4.93e+03 ;
+    niiri:318673b2-b3dd-11e9-8750-003ee1ce9545 1591 ;
+    niiri:31881fb4-b3dd-11e9-8750-003ee1ce9545 1.591e+03 ;
+    niiri:319139f0-b3dd-11e9-8750-003ee1ce9545 3867 ;
+    niiri:3192bd16-b3dd-11e9-8750-003ee1ce9545 3.867e+03 ;
+    niiri:319bde50-b3dd-11e9-8750-003ee1ce9545 1120 ;
+    niiri:319d5438-b3dd-11e9-8750-003ee1ce9545 1.12e+03 ;
+    niiri:31a6d198-b3dd-11e9-8750-003ee1ce9545 473 ;
+    niiri:31a8870e-b3dd-11e9-8750-003ee1ce9545 4.73e+02 ;
+    prov:wasGeneratedBy niiri:76bf7936-c393-11e9-8160-003ee1ce9545 .
+
 niiri:76c7626c-b25f-11e9-9e00-003ee1ce9545 a nidm:AcquisitionObject,
         prov:Entity ;
     crypto:sha512 "18df14e950760d096040eec18bd1e98cd2789d184ab1638df464df3adaee49888b72e59936309aca792aa9198a6e0422860ebb77c453e51d591b35450ece2902"^^xsd:string ;
@@ -14074,6 +15258,38 @@ niiri:7b520fda-b25f-11e9-9e00-003ee1ce9545 a nidm:AcquisitionObject,
     prov:Location "/datasets.datalad.org/adhd200/RawDataBIDS/Peking_2"^^xsd:string ;
     prov:wasGeneratedBy niiri:7b5204a4-b25f-11e9-9e00-003ee1ce9545 .
 
+niiri:7b534df6-c393-11e9-9071-003ee1ce9545 a nidm:FSLStatsCollection,
+        prov:Entity ;
+    niiri:309d8e72-b3dd-11e9-8750-003ee1ce9545 8678 ;
+    niiri:309f13b4-b3dd-11e9-8750-003ee1ce9545 8.678e+03 ;
+    niiri:30aa233a-b3dd-11e9-8750-003ee1ce9545 4771 ;
+    niiri:30ab9df0-b3dd-11e9-8750-003ee1ce9545 4.771e+03 ;
+    niiri:30b4830c-b3dd-11e9-8750-003ee1ce9545 6117 ;
+    niiri:30b604f2-b3dd-11e9-8750-003ee1ce9545 6.117e+03 ;
+    niiri:30bed244-b3dd-11e9-8750-003ee1ce9545 2178 ;
+    niiri:30c0407a-b3dd-11e9-8750-003ee1ce9545 2.178e+03 ;
+    niiri:30e87dd8-b3dd-11e9-8750-003ee1ce9545 4156 ;
+    niiri:30e9e736-b3dd-11e9-8750-003ee1ce9545 4.156e+03 ;
+    niiri:30f2d530-b3dd-11e9-8750-003ee1ce9545 1003 ;
+    niiri:30f443f2-b3dd-11e9-8750-003ee1ce9545 1.003e+03 ;
+    niiri:3107f1ae-b3dd-11e9-8750-003ee1ce9545 675 ;
+    niiri:3109c8c6-b3dd-11e9-8750-003ee1ce9545 6.75e+02 ;
+    niiri:3162a8f6-b3dd-11e9-8750-003ee1ce9545 8313 ;
+    niiri:31656ee2-b3dd-11e9-8750-003ee1ce9545 8.313e+03 ;
+    niiri:31711efe-b3dd-11e9-8750-003ee1ce9545 4729 ;
+    niiri:31729cde-b3dd-11e9-8750-003ee1ce9545 4.729e+03 ;
+    niiri:317bc192-b3dd-11e9-8750-003ee1ce9545 6201 ;
+    niiri:317d3dba-b3dd-11e9-8750-003ee1ce9545 6.201e+03 ;
+    niiri:318673b2-b3dd-11e9-8750-003ee1ce9545 2075 ;
+    niiri:31881fb4-b3dd-11e9-8750-003ee1ce9545 2.075e+03 ;
+    niiri:319139f0-b3dd-11e9-8750-003ee1ce9545 4772 ;
+    niiri:3192bd16-b3dd-11e9-8750-003ee1ce9545 4.772e+03 ;
+    niiri:319bde50-b3dd-11e9-8750-003ee1ce9545 1339 ;
+    niiri:319d5438-b3dd-11e9-8750-003ee1ce9545 1.339e+03 ;
+    niiri:31a6d198-b3dd-11e9-8750-003ee1ce9545 417 ;
+    niiri:31a8870e-b3dd-11e9-8750-003ee1ce9545 4.17e+02 ;
+    prov:wasGeneratedBy niiri:7b533a5a-c393-11e9-9071-003ee1ce9545 .
+
 niiri:7b8691a6-b25f-11e9-9e00-003ee1ce9545 a nidm:AcquisitionObject,
         prov:Entity ;
     crypto:sha512 "36dd07f638a072bd8ec9d7266e9f0232525be5b24309e4ecd2581076a8f94fef6705fddbbc7840cec7f6785b84f149a1a0c5c3f5eb292a8ed57779bb08b8f426"^^xsd:string ;
@@ -14682,6 +15898,38 @@ niiri:7fdff698-b25f-11e9-9e00-003ee1ce9545 a nidm:AcquisitionObject,
     nfo:filename "/sub-3856956/ses-1/anat/sub-3856956_ses-1_run-1_T1w.nii.gz"^^xsd:string ;
     prov:Location "/datasets.datalad.org/adhd200/RawDataBIDS/Peking_2"^^xsd:string ;
     prov:wasGeneratedBy niiri:7fdfee6e-b25f-11e9-9e00-003ee1ce9545 .
+
+niiri:7fec917e-c393-11e9-a45c-003ee1ce9545 a nidm:FSLStatsCollection,
+        prov:Entity ;
+    niiri:309d8e72-b3dd-11e9-8750-003ee1ce9545 9246 ;
+    niiri:309f13b4-b3dd-11e9-8750-003ee1ce9545 9.246e+03 ;
+    niiri:30aa233a-b3dd-11e9-8750-003ee1ce9545 3976 ;
+    niiri:30ab9df0-b3dd-11e9-8750-003ee1ce9545 3.976e+03 ;
+    niiri:30b4830c-b3dd-11e9-8750-003ee1ce9545 6192 ;
+    niiri:30b604f2-b3dd-11e9-8750-003ee1ce9545 6.192e+03 ;
+    niiri:30bed244-b3dd-11e9-8750-003ee1ce9545 2095 ;
+    niiri:30c0407a-b3dd-11e9-8750-003ee1ce9545 2.095e+03 ;
+    niiri:30e87dd8-b3dd-11e9-8750-003ee1ce9545 3828 ;
+    niiri:30e9e736-b3dd-11e9-8750-003ee1ce9545 3.828e+03 ;
+    niiri:30f2d530-b3dd-11e9-8750-003ee1ce9545 1429 ;
+    niiri:30f443f2-b3dd-11e9-8750-003ee1ce9545 1.429e+03 ;
+    niiri:3107f1ae-b3dd-11e9-8750-003ee1ce9545 737 ;
+    niiri:3109c8c6-b3dd-11e9-8750-003ee1ce9545 7.37e+02 ;
+    niiri:3162a8f6-b3dd-11e9-8750-003ee1ce9545 9053 ;
+    niiri:31656ee2-b3dd-11e9-8750-003ee1ce9545 9.053e+03 ;
+    niiri:31711efe-b3dd-11e9-8750-003ee1ce9545 4153 ;
+    niiri:31729cde-b3dd-11e9-8750-003ee1ce9545 4.153e+03 ;
+    niiri:317bc192-b3dd-11e9-8750-003ee1ce9545 6259 ;
+    niiri:317d3dba-b3dd-11e9-8750-003ee1ce9545 6.259e+03 ;
+    niiri:318673b2-b3dd-11e9-8750-003ee1ce9545 2292 ;
+    niiri:31881fb4-b3dd-11e9-8750-003ee1ce9545 2.292e+03 ;
+    niiri:319139f0-b3dd-11e9-8750-003ee1ce9545 3383 ;
+    niiri:3192bd16-b3dd-11e9-8750-003ee1ce9545 3.383e+03 ;
+    niiri:319bde50-b3dd-11e9-8750-003ee1ce9545 1202 ;
+    niiri:319d5438-b3dd-11e9-8750-003ee1ce9545 1.202e+03 ;
+    niiri:31a6d198-b3dd-11e9-8750-003ee1ce9545 463 ;
+    niiri:31a8870e-b3dd-11e9-8750-003ee1ce9545 4.63e+02 ;
+    prov:wasGeneratedBy niiri:7fec7cde-c393-11e9-a45c-003ee1ce9545 .
 
 niiri:7fec9588-b25f-11e9-9e00-003ee1ce9545 a nidm:AcquisitionObject,
         prov:Entity ;
@@ -15314,6 +16562,38 @@ niiri:8484f090-b25f-11e9-9e00-003ee1ce9545 a nidm:AcquisitionObject,
     prov:Location "/datasets.datalad.org/adhd200/RawDataBIDS/Peking_2"^^xsd:string ;
     prov:wasGeneratedBy niiri:8484e88e-b25f-11e9-9e00-003ee1ce9545 .
 
+niiri:84870ebc-c393-11e9-ada6-003ee1ce9545 a nidm:FSLStatsCollection,
+        prov:Entity ;
+    niiri:309d8e72-b3dd-11e9-8750-003ee1ce9545 7183 ;
+    niiri:309f13b4-b3dd-11e9-8750-003ee1ce9545 7.183e+03 ;
+    niiri:30aa233a-b3dd-11e9-8750-003ee1ce9545 3870 ;
+    niiri:30ab9df0-b3dd-11e9-8750-003ee1ce9545 3.87e+03 ;
+    niiri:30b4830c-b3dd-11e9-8750-003ee1ce9545 5699 ;
+    niiri:30b604f2-b3dd-11e9-8750-003ee1ce9545 5.699e+03 ;
+    niiri:30bed244-b3dd-11e9-8750-003ee1ce9545 1800 ;
+    niiri:30c0407a-b3dd-11e9-8750-003ee1ce9545 1.8e+03 ;
+    niiri:30e87dd8-b3dd-11e9-8750-003ee1ce9545 3735 ;
+    niiri:30e9e736-b3dd-11e9-8750-003ee1ce9545 3.735e+03 ;
+    niiri:30f2d530-b3dd-11e9-8750-003ee1ce9545 1360 ;
+    niiri:30f443f2-b3dd-11e9-8750-003ee1ce9545 1.36e+03 ;
+    niiri:3107f1ae-b3dd-11e9-8750-003ee1ce9545 537 ;
+    niiri:3109c8c6-b3dd-11e9-8750-003ee1ce9545 5.37e+02 ;
+    niiri:3162a8f6-b3dd-11e9-8750-003ee1ce9545 7521 ;
+    niiri:31656ee2-b3dd-11e9-8750-003ee1ce9545 7.521e+03 ;
+    niiri:31711efe-b3dd-11e9-8750-003ee1ce9545 4022 ;
+    niiri:31729cde-b3dd-11e9-8750-003ee1ce9545 4.022e+03 ;
+    niiri:317bc192-b3dd-11e9-8750-003ee1ce9545 5465 ;
+    niiri:317d3dba-b3dd-11e9-8750-003ee1ce9545 5.465e+03 ;
+    niiri:318673b2-b3dd-11e9-8750-003ee1ce9545 1836 ;
+    niiri:31881fb4-b3dd-11e9-8750-003ee1ce9545 1.836e+03 ;
+    niiri:319139f0-b3dd-11e9-8750-003ee1ce9545 4414 ;
+    niiri:3192bd16-b3dd-11e9-8750-003ee1ce9545 4.414e+03 ;
+    niiri:319bde50-b3dd-11e9-8750-003ee1ce9545 1125 ;
+    niiri:319d5438-b3dd-11e9-8750-003ee1ce9545 1.125e+03 ;
+    niiri:31a6d198-b3dd-11e9-8750-003ee1ce9545 353 ;
+    niiri:31a8870e-b3dd-11e9-8750-003ee1ce9545 3.53e+02 ;
+    prov:wasGeneratedBy niiri:8486fa08-c393-11e9-ada6-003ee1ce9545 .
+
 niiri:84b9a2b8-b25f-11e9-9e00-003ee1ce9545 a nidm:AcquisitionObject,
         prov:Entity ;
     crypto:sha512 "63e65a9d039774b3a9b86091aabef17391b4141c4dd5c4f21bf6fc73f5fc663321846c07d46f2f4cc1fe17dc4dbf363042d6b4b4a580c89d6a4d0bc63bf1506c"^^xsd:string ;
@@ -15598,6 +16878,38 @@ niiri:85209c78-b3dd-11e9-97ae-003ee1ce9545 a nidm:FSStatsCollection,
     niiri:31ed2652-b3dd-11e9-8750-003ee1ce9545 "98.0000" ;
     prov:wasGeneratedBy niiri:85207194-b3dd-11e9-97ae-003ee1ce9545 .
 
+niiri:890903f0-c393-11e9-a5c3-003ee1ce9545 a nidm:FSLStatsCollection,
+        prov:Entity ;
+    niiri:309d8e72-b3dd-11e9-8750-003ee1ce9545 8875 ;
+    niiri:309f13b4-b3dd-11e9-8750-003ee1ce9545 8.875e+03 ;
+    niiri:30aa233a-b3dd-11e9-8750-003ee1ce9545 4430 ;
+    niiri:30ab9df0-b3dd-11e9-8750-003ee1ce9545 4.43e+03 ;
+    niiri:30b4830c-b3dd-11e9-8750-003ee1ce9545 6593 ;
+    niiri:30b604f2-b3dd-11e9-8750-003ee1ce9545 6.593e+03 ;
+    niiri:30bed244-b3dd-11e9-8750-003ee1ce9545 2117 ;
+    niiri:30c0407a-b3dd-11e9-8750-003ee1ce9545 2.117e+03 ;
+    niiri:30e87dd8-b3dd-11e9-8750-003ee1ce9545 2614 ;
+    niiri:30e9e736-b3dd-11e9-8750-003ee1ce9545 2.614e+03 ;
+    niiri:30f2d530-b3dd-11e9-8750-003ee1ce9545 1362 ;
+    niiri:30f443f2-b3dd-11e9-8750-003ee1ce9545 1.362e+03 ;
+    niiri:3107f1ae-b3dd-11e9-8750-003ee1ce9545 621 ;
+    niiri:3109c8c6-b3dd-11e9-8750-003ee1ce9545 6.21e+02 ;
+    niiri:3162a8f6-b3dd-11e9-8750-003ee1ce9545 8282 ;
+    niiri:31656ee2-b3dd-11e9-8750-003ee1ce9545 8.282e+03 ;
+    niiri:31711efe-b3dd-11e9-8750-003ee1ce9545 4345 ;
+    niiri:31729cde-b3dd-11e9-8750-003ee1ce9545 4.345e+03 ;
+    niiri:317bc192-b3dd-11e9-8750-003ee1ce9545 6638 ;
+    niiri:317d3dba-b3dd-11e9-8750-003ee1ce9545 6.638e+03 ;
+    niiri:318673b2-b3dd-11e9-8750-003ee1ce9545 2064 ;
+    niiri:31881fb4-b3dd-11e9-8750-003ee1ce9545 2.064e+03 ;
+    niiri:319139f0-b3dd-11e9-8750-003ee1ce9545 3256 ;
+    niiri:3192bd16-b3dd-11e9-8750-003ee1ce9545 3.256e+03 ;
+    niiri:319bde50-b3dd-11e9-8750-003ee1ce9545 1804 ;
+    niiri:319d5438-b3dd-11e9-8750-003ee1ce9545 1.804e+03 ;
+    niiri:31a6d198-b3dd-11e9-8750-003ee1ce9545 595 ;
+    niiri:31a8870e-b3dd-11e9-8750-003ee1ce9545 5.95e+02 ;
+    prov:wasGeneratedBy niiri:8908eef6-c393-11e9-a5c3-003ee1ce9545 .
+
 niiri:89c4fe22-b3dd-11e9-9184-003ee1ce9545 a nidm:FSStatsCollection,
         prov:Entity ;
     niiri:306f54bc-b3dd-11e9-8750-003ee1ce9545 "3861" ;
@@ -15839,6 +17151,38 @@ niiri:89c4fe22-b3dd-11e9-9184-003ee1ce9545 a nidm:FSStatsCollection,
     niiri:31eb73fc-b3dd-11e9-8750-003ee1ce9545 "133.0000" ;
     niiri:31ed2652-b3dd-11e9-8750-003ee1ce9545 "115.0000" ;
     prov:wasGeneratedBy niiri:89c4cd08-b3dd-11e9-9184-003ee1ce9545 .
+
+niiri:8dab19b6-c393-11e9-8584-003ee1ce9545 a nidm:FSLStatsCollection,
+        prov:Entity ;
+    niiri:309d8e72-b3dd-11e9-8750-003ee1ce9545 7696 ;
+    niiri:309f13b4-b3dd-11e9-8750-003ee1ce9545 7.696e+03 ;
+    niiri:30aa233a-b3dd-11e9-8750-003ee1ce9545 4004 ;
+    niiri:30ab9df0-b3dd-11e9-8750-003ee1ce9545 4.004e+03 ;
+    niiri:30b4830c-b3dd-11e9-8750-003ee1ce9545 5649 ;
+    niiri:30b604f2-b3dd-11e9-8750-003ee1ce9545 5.649e+03 ;
+    niiri:30bed244-b3dd-11e9-8750-003ee1ce9545 1917 ;
+    niiri:30c0407a-b3dd-11e9-8750-003ee1ce9545 1.917e+03 ;
+    niiri:30e87dd8-b3dd-11e9-8750-003ee1ce9545 3872 ;
+    niiri:30e9e736-b3dd-11e9-8750-003ee1ce9545 3.872e+03 ;
+    niiri:30f2d530-b3dd-11e9-8750-003ee1ce9545 1228 ;
+    niiri:30f443f2-b3dd-11e9-8750-003ee1ce9545 1.228e+03 ;
+    niiri:3107f1ae-b3dd-11e9-8750-003ee1ce9545 508 ;
+    niiri:3109c8c6-b3dd-11e9-8750-003ee1ce9545 5.08e+02 ;
+    niiri:3162a8f6-b3dd-11e9-8750-003ee1ce9545 7405 ;
+    niiri:31656ee2-b3dd-11e9-8750-003ee1ce9545 7.405e+03 ;
+    niiri:31711efe-b3dd-11e9-8750-003ee1ce9545 3974 ;
+    niiri:31729cde-b3dd-11e9-8750-003ee1ce9545 3.974e+03 ;
+    niiri:317bc192-b3dd-11e9-8750-003ee1ce9545 5729 ;
+    niiri:317d3dba-b3dd-11e9-8750-003ee1ce9545 5.729e+03 ;
+    niiri:318673b2-b3dd-11e9-8750-003ee1ce9545 1879 ;
+    niiri:31881fb4-b3dd-11e9-8750-003ee1ce9545 1.879e+03 ;
+    niiri:319139f0-b3dd-11e9-8750-003ee1ce9545 3997 ;
+    niiri:3192bd16-b3dd-11e9-8750-003ee1ce9545 3.997e+03 ;
+    niiri:319bde50-b3dd-11e9-8750-003ee1ce9545 1265 ;
+    niiri:319d5438-b3dd-11e9-8750-003ee1ce9545 1.265e+03 ;
+    niiri:31a6d198-b3dd-11e9-8750-003ee1ce9545 495 ;
+    niiri:31a8870e-b3dd-11e9-8750-003ee1ce9545 4.95e+02 ;
+    prov:wasGeneratedBy niiri:8dab05b6-c393-11e9-8584-003ee1ce9545 .
 
 niiri:8e49c3f6-b3dd-11e9-a197-003ee1ce9545 a nidm:FSStatsCollection,
         prov:Entity ;
@@ -16082,6 +17426,38 @@ niiri:8e49c3f6-b3dd-11e9-a197-003ee1ce9545 a nidm:FSStatsCollection,
     niiri:31ed2652-b3dd-11e9-8750-003ee1ce9545 "85.0000" ;
     prov:wasGeneratedBy niiri:8e499836-b3dd-11e9-a197-003ee1ce9545 .
 
+niiri:9248ca18-c393-11e9-b620-003ee1ce9545 a nidm:FSLStatsCollection,
+        prov:Entity ;
+    niiri:309d8e72-b3dd-11e9-8750-003ee1ce9545 8208 ;
+    niiri:309f13b4-b3dd-11e9-8750-003ee1ce9545 8.208e+03 ;
+    niiri:30aa233a-b3dd-11e9-8750-003ee1ce9545 3803 ;
+    niiri:30ab9df0-b3dd-11e9-8750-003ee1ce9545 3.803e+03 ;
+    niiri:30b4830c-b3dd-11e9-8750-003ee1ce9545 4990 ;
+    niiri:30b604f2-b3dd-11e9-8750-003ee1ce9545 4.99e+03 ;
+    niiri:30bed244-b3dd-11e9-8750-003ee1ce9545 1942 ;
+    niiri:30c0407a-b3dd-11e9-8750-003ee1ce9545 1.942e+03 ;
+    niiri:30e87dd8-b3dd-11e9-8750-003ee1ce9545 3466 ;
+    niiri:30e9e736-b3dd-11e9-8750-003ee1ce9545 3.466e+03 ;
+    niiri:30f2d530-b3dd-11e9-8750-003ee1ce9545 1516 ;
+    niiri:30f443f2-b3dd-11e9-8750-003ee1ce9545 1.516e+03 ;
+    niiri:3107f1ae-b3dd-11e9-8750-003ee1ce9545 504 ;
+    niiri:3109c8c6-b3dd-11e9-8750-003ee1ce9545 5.04e+02 ;
+    niiri:3162a8f6-b3dd-11e9-8750-003ee1ce9545 8113 ;
+    niiri:31656ee2-b3dd-11e9-8750-003ee1ce9545 8.113e+03 ;
+    niiri:31711efe-b3dd-11e9-8750-003ee1ce9545 3672 ;
+    niiri:31729cde-b3dd-11e9-8750-003ee1ce9545 3.672e+03 ;
+    niiri:317bc192-b3dd-11e9-8750-003ee1ce9545 5160 ;
+    niiri:317d3dba-b3dd-11e9-8750-003ee1ce9545 5.16e+03 ;
+    niiri:318673b2-b3dd-11e9-8750-003ee1ce9545 1842 ;
+    niiri:31881fb4-b3dd-11e9-8750-003ee1ce9545 1.842e+03 ;
+    niiri:319139f0-b3dd-11e9-8750-003ee1ce9545 4125 ;
+    niiri:3192bd16-b3dd-11e9-8750-003ee1ce9545 4.125e+03 ;
+    niiri:319bde50-b3dd-11e9-8750-003ee1ce9545 1238 ;
+    niiri:319d5438-b3dd-11e9-8750-003ee1ce9545 1.238e+03 ;
+    niiri:31a6d198-b3dd-11e9-8750-003ee1ce9545 398 ;
+    niiri:31a8870e-b3dd-11e9-8750-003ee1ce9545 3.98e+02 ;
+    prov:wasGeneratedBy niiri:9248b564-c393-11e9-b620-003ee1ce9545 .
+
 niiri:92faf230-b3dd-11e9-87ed-003ee1ce9545 a nidm:FSStatsCollection,
         prov:Entity ;
     niiri:306f54bc-b3dd-11e9-8750-003ee1ce9545 "5873" ;
@@ -16323,6 +17699,38 @@ niiri:92faf230-b3dd-11e9-87ed-003ee1ce9545 a nidm:FSStatsCollection,
     niiri:31eb73fc-b3dd-11e9-8750-003ee1ce9545 "104.0000" ;
     niiri:31ed2652-b3dd-11e9-8750-003ee1ce9545 "94.0000" ;
     prov:wasGeneratedBy niiri:92fac17a-b3dd-11e9-87ed-003ee1ce9545 .
+
+niiri:96e1824a-c393-11e9-906f-003ee1ce9545 a nidm:FSLStatsCollection,
+        prov:Entity ;
+    niiri:309d8e72-b3dd-11e9-8750-003ee1ce9545 7829 ;
+    niiri:309f13b4-b3dd-11e9-8750-003ee1ce9545 7.829e+03 ;
+    niiri:30aa233a-b3dd-11e9-8750-003ee1ce9545 2501 ;
+    niiri:30ab9df0-b3dd-11e9-8750-003ee1ce9545 2.501e+03 ;
+    niiri:30b4830c-b3dd-11e9-8750-003ee1ce9545 4783 ;
+    niiri:30b604f2-b3dd-11e9-8750-003ee1ce9545 4.783e+03 ;
+    niiri:30bed244-b3dd-11e9-8750-003ee1ce9545 1620 ;
+    niiri:30c0407a-b3dd-11e9-8750-003ee1ce9545 1.62e+03 ;
+    niiri:30e87dd8-b3dd-11e9-8750-003ee1ce9545 4116 ;
+    niiri:30e9e736-b3dd-11e9-8750-003ee1ce9545 4.116e+03 ;
+    niiri:30f2d530-b3dd-11e9-8750-003ee1ce9545 829 ;
+    niiri:30f443f2-b3dd-11e9-8750-003ee1ce9545 8.29e+02 ;
+    niiri:3107f1ae-b3dd-11e9-8750-003ee1ce9545 383 ;
+    niiri:3109c8c6-b3dd-11e9-8750-003ee1ce9545 3.83e+02 ;
+    niiri:3162a8f6-b3dd-11e9-8750-003ee1ce9545 7629 ;
+    niiri:31656ee2-b3dd-11e9-8750-003ee1ce9545 7.629e+03 ;
+    niiri:31711efe-b3dd-11e9-8750-003ee1ce9545 2741 ;
+    niiri:31729cde-b3dd-11e9-8750-003ee1ce9545 2.741e+03 ;
+    niiri:317bc192-b3dd-11e9-8750-003ee1ce9545 4822 ;
+    niiri:317d3dba-b3dd-11e9-8750-003ee1ce9545 4.822e+03 ;
+    niiri:318673b2-b3dd-11e9-8750-003ee1ce9545 1652 ;
+    niiri:31881fb4-b3dd-11e9-8750-003ee1ce9545 1.652e+03 ;
+    niiri:319139f0-b3dd-11e9-8750-003ee1ce9545 3937 ;
+    niiri:3192bd16-b3dd-11e9-8750-003ee1ce9545 3.937e+03 ;
+    niiri:319bde50-b3dd-11e9-8750-003ee1ce9545 1525 ;
+    niiri:319d5438-b3dd-11e9-8750-003ee1ce9545 1.525e+03 ;
+    niiri:31a6d198-b3dd-11e9-8750-003ee1ce9545 348 ;
+    niiri:31a8870e-b3dd-11e9-8750-003ee1ce9545 3.48e+02 ;
+    prov:wasGeneratedBy niiri:96e16d46-c393-11e9-906f-003ee1ce9545 .
 
 niiri:978de884-b3dd-11e9-a8b1-003ee1ce9545 a nidm:FSStatsCollection,
         prov:Entity ;
@@ -16566,6 +17974,38 @@ niiri:978de884-b3dd-11e9-a8b1-003ee1ce9545 a nidm:FSStatsCollection,
     niiri:31ed2652-b3dd-11e9-8750-003ee1ce9545 "113.0000" ;
     prov:wasGeneratedBy niiri:978db436-b3dd-11e9-a8b1-003ee1ce9545 .
 
+niiri:9b757b7c-c393-11e9-9452-003ee1ce9545 a nidm:FSLStatsCollection,
+        prov:Entity ;
+    niiri:309d8e72-b3dd-11e9-8750-003ee1ce9545 9638 ;
+    niiri:309f13b4-b3dd-11e9-8750-003ee1ce9545 9.638e+03 ;
+    niiri:30aa233a-b3dd-11e9-8750-003ee1ce9545 4988 ;
+    niiri:30ab9df0-b3dd-11e9-8750-003ee1ce9545 4.988e+03 ;
+    niiri:30b4830c-b3dd-11e9-8750-003ee1ce9545 6176 ;
+    niiri:30b604f2-b3dd-11e9-8750-003ee1ce9545 6.176e+03 ;
+    niiri:30bed244-b3dd-11e9-8750-003ee1ce9545 2415 ;
+    niiri:30c0407a-b3dd-11e9-8750-003ee1ce9545 2.415e+03 ;
+    niiri:30e87dd8-b3dd-11e9-8750-003ee1ce9545 4422 ;
+    niiri:30e9e736-b3dd-11e9-8750-003ee1ce9545 4.422e+03 ;
+    niiri:30f2d530-b3dd-11e9-8750-003ee1ce9545 903 ;
+    niiri:30f443f2-b3dd-11e9-8750-003ee1ce9545 9.03e+02 ;
+    niiri:3107f1ae-b3dd-11e9-8750-003ee1ce9545 838 ;
+    niiri:3109c8c6-b3dd-11e9-8750-003ee1ce9545 8.38e+02 ;
+    niiri:3162a8f6-b3dd-11e9-8750-003ee1ce9545 9747 ;
+    niiri:31656ee2-b3dd-11e9-8750-003ee1ce9545 9.747e+03 ;
+    niiri:31711efe-b3dd-11e9-8750-003ee1ce9545 4759 ;
+    niiri:31729cde-b3dd-11e9-8750-003ee1ce9545 4.759e+03 ;
+    niiri:317bc192-b3dd-11e9-8750-003ee1ce9545 6369 ;
+    niiri:317d3dba-b3dd-11e9-8750-003ee1ce9545 6.369e+03 ;
+    niiri:318673b2-b3dd-11e9-8750-003ee1ce9545 2319 ;
+    niiri:31881fb4-b3dd-11e9-8750-003ee1ce9545 2.319e+03 ;
+    niiri:319139f0-b3dd-11e9-8750-003ee1ce9545 5383 ;
+    niiri:3192bd16-b3dd-11e9-8750-003ee1ce9545 5.383e+03 ;
+    niiri:319bde50-b3dd-11e9-8750-003ee1ce9545 1897 ;
+    niiri:319d5438-b3dd-11e9-8750-003ee1ce9545 1.897e+03 ;
+    niiri:31a6d198-b3dd-11e9-8750-003ee1ce9545 610 ;
+    niiri:31a8870e-b3dd-11e9-8750-003ee1ce9545 6.1e+02 ;
+    prov:wasGeneratedBy niiri:9b756498-c393-11e9-9452-003ee1ce9545 .
+
 niiri:9c60950a-b3dd-11e9-a766-003ee1ce9545 a nidm:FSStatsCollection,
         prov:Entity ;
     niiri:306f54bc-b3dd-11e9-8750-003ee1ce9545 "16475" ;
@@ -16807,6 +18247,38 @@ niiri:9c60950a-b3dd-11e9-a766-003ee1ce9545 a nidm:FSStatsCollection,
     niiri:31eb73fc-b3dd-11e9-8750-003ee1ce9545 "111.0000" ;
     niiri:31ed2652-b3dd-11e9-8750-003ee1ce9545 "100.0000" ;
     prov:wasGeneratedBy niiri:9c606490-b3dd-11e9-a766-003ee1ce9545 .
+
+niiri:a010f3f0-c393-11e9-a538-003ee1ce9545 a nidm:FSLStatsCollection,
+        prov:Entity ;
+    niiri:309d8e72-b3dd-11e9-8750-003ee1ce9545 7515 ;
+    niiri:309f13b4-b3dd-11e9-8750-003ee1ce9545 7.515e+03 ;
+    niiri:30aa233a-b3dd-11e9-8750-003ee1ce9545 3453 ;
+    niiri:30ab9df0-b3dd-11e9-8750-003ee1ce9545 3.453e+03 ;
+    niiri:30b4830c-b3dd-11e9-8750-003ee1ce9545 4962 ;
+    niiri:30b604f2-b3dd-11e9-8750-003ee1ce9545 4.962e+03 ;
+    niiri:30bed244-b3dd-11e9-8750-003ee1ce9545 1776 ;
+    niiri:30c0407a-b3dd-11e9-8750-003ee1ce9545 1.776e+03 ;
+    niiri:30e87dd8-b3dd-11e9-8750-003ee1ce9545 2999 ;
+    niiri:30e9e736-b3dd-11e9-8750-003ee1ce9545 2.999e+03 ;
+    niiri:30f2d530-b3dd-11e9-8750-003ee1ce9545 1136 ;
+    niiri:30f443f2-b3dd-11e9-8750-003ee1ce9545 1.136e+03 ;
+    niiri:3107f1ae-b3dd-11e9-8750-003ee1ce9545 515 ;
+    niiri:3109c8c6-b3dd-11e9-8750-003ee1ce9545 5.15e+02 ;
+    niiri:3162a8f6-b3dd-11e9-8750-003ee1ce9545 6944 ;
+    niiri:31656ee2-b3dd-11e9-8750-003ee1ce9545 6.944e+03 ;
+    niiri:31711efe-b3dd-11e9-8750-003ee1ce9545 3642 ;
+    niiri:31729cde-b3dd-11e9-8750-003ee1ce9545 3.642e+03 ;
+    niiri:317bc192-b3dd-11e9-8750-003ee1ce9545 4663 ;
+    niiri:317d3dba-b3dd-11e9-8750-003ee1ce9545 4.663e+03 ;
+    niiri:318673b2-b3dd-11e9-8750-003ee1ce9545 1656 ;
+    niiri:31881fb4-b3dd-11e9-8750-003ee1ce9545 1.656e+03 ;
+    niiri:319139f0-b3dd-11e9-8750-003ee1ce9545 2840 ;
+    niiri:3192bd16-b3dd-11e9-8750-003ee1ce9545 2.84e+03 ;
+    niiri:319bde50-b3dd-11e9-8750-003ee1ce9545 789 ;
+    niiri:319d5438-b3dd-11e9-8750-003ee1ce9545 7.89e+02 ;
+    niiri:31a6d198-b3dd-11e9-8750-003ee1ce9545 330 ;
+    niiri:31a8870e-b3dd-11e9-8750-003ee1ce9545 3.3e+02 ;
+    prov:wasGeneratedBy niiri:a010e068-c393-11e9-a538-003ee1ce9545 .
 
 niiri:a10af2e4-b3dd-11e9-bc7f-003ee1ce9545 a nidm:FSStatsCollection,
         prov:Entity ;
@@ -17050,6 +18522,38 @@ niiri:a10af2e4-b3dd-11e9-bc7f-003ee1ce9545 a nidm:FSStatsCollection,
     niiri:31ed2652-b3dd-11e9-8750-003ee1ce9545 "98.0000" ;
     prov:wasGeneratedBy niiri:a10ac620-b3dd-11e9-bc7f-003ee1ce9545 .
 
+niiri:a4ac89c4-c393-11e9-9beb-003ee1ce9545 a nidm:FSLStatsCollection,
+        prov:Entity ;
+    niiri:309d8e72-b3dd-11e9-8750-003ee1ce9545 8171 ;
+    niiri:309f13b4-b3dd-11e9-8750-003ee1ce9545 8.171e+03 ;
+    niiri:30aa233a-b3dd-11e9-8750-003ee1ce9545 3817 ;
+    niiri:30ab9df0-b3dd-11e9-8750-003ee1ce9545 3.817e+03 ;
+    niiri:30b4830c-b3dd-11e9-8750-003ee1ce9545 5878 ;
+    niiri:30b604f2-b3dd-11e9-8750-003ee1ce9545 5.878e+03 ;
+    niiri:30bed244-b3dd-11e9-8750-003ee1ce9545 1902 ;
+    niiri:30c0407a-b3dd-11e9-8750-003ee1ce9545 1.902e+03 ;
+    niiri:30e87dd8-b3dd-11e9-8750-003ee1ce9545 3804 ;
+    niiri:30e9e736-b3dd-11e9-8750-003ee1ce9545 3.804e+03 ;
+    niiri:30f2d530-b3dd-11e9-8750-003ee1ce9545 1200 ;
+    niiri:30f443f2-b3dd-11e9-8750-003ee1ce9545 1.2e+03 ;
+    niiri:3107f1ae-b3dd-11e9-8750-003ee1ce9545 575 ;
+    niiri:3109c8c6-b3dd-11e9-8750-003ee1ce9545 5.75e+02 ;
+    niiri:3162a8f6-b3dd-11e9-8750-003ee1ce9545 7764 ;
+    niiri:31656ee2-b3dd-11e9-8750-003ee1ce9545 7.764e+03 ;
+    niiri:31711efe-b3dd-11e9-8750-003ee1ce9545 4769 ;
+    niiri:31729cde-b3dd-11e9-8750-003ee1ce9545 4.769e+03 ;
+    niiri:317bc192-b3dd-11e9-8750-003ee1ce9545 5811 ;
+    niiri:317d3dba-b3dd-11e9-8750-003ee1ce9545 5.811e+03 ;
+    niiri:318673b2-b3dd-11e9-8750-003ee1ce9545 1902 ;
+    niiri:31881fb4-b3dd-11e9-8750-003ee1ce9545 1.902e+03 ;
+    niiri:319139f0-b3dd-11e9-8750-003ee1ce9545 3579 ;
+    niiri:3192bd16-b3dd-11e9-8750-003ee1ce9545 3.579e+03 ;
+    niiri:319bde50-b3dd-11e9-8750-003ee1ce9545 835 ;
+    niiri:319d5438-b3dd-11e9-8750-003ee1ce9545 8.35e+02 ;
+    niiri:31a6d198-b3dd-11e9-8750-003ee1ce9545 362 ;
+    niiri:31a8870e-b3dd-11e9-8750-003ee1ce9545 3.62e+02 ;
+    prov:wasGeneratedBy niiri:a4ac74ac-c393-11e9-9beb-003ee1ce9545 .
+
 niiri:a5ca8768-b3dd-11e9-9b17-003ee1ce9545 a nidm:FSStatsCollection,
         prov:Entity ;
     niiri:306f54bc-b3dd-11e9-8750-003ee1ce9545 "5644" ;
@@ -17291,6 +18795,38 @@ niiri:a5ca8768-b3dd-11e9-9b17-003ee1ce9545 a nidm:FSStatsCollection,
     niiri:31eb73fc-b3dd-11e9-8750-003ee1ce9545 "107.0000" ;
     niiri:31ed2652-b3dd-11e9-8750-003ee1ce9545 "101.0000" ;
     prov:wasGeneratedBy niiri:a5ca5928-b3dd-11e9-9b17-003ee1ce9545 .
+
+niiri:a936d558-c393-11e9-a916-003ee1ce9545 a nidm:FSLStatsCollection,
+        prov:Entity ;
+    niiri:309d8e72-b3dd-11e9-8750-003ee1ce9545 7810 ;
+    niiri:309f13b4-b3dd-11e9-8750-003ee1ce9545 7.81e+03 ;
+    niiri:30aa233a-b3dd-11e9-8750-003ee1ce9545 3654 ;
+    niiri:30ab9df0-b3dd-11e9-8750-003ee1ce9545 3.654e+03 ;
+    niiri:30b4830c-b3dd-11e9-8750-003ee1ce9545 4911 ;
+    niiri:30b604f2-b3dd-11e9-8750-003ee1ce9545 4.911e+03 ;
+    niiri:30bed244-b3dd-11e9-8750-003ee1ce9545 1648 ;
+    niiri:30c0407a-b3dd-11e9-8750-003ee1ce9545 1.648e+03 ;
+    niiri:30e87dd8-b3dd-11e9-8750-003ee1ce9545 3630 ;
+    niiri:30e9e736-b3dd-11e9-8750-003ee1ce9545 3.63e+03 ;
+    niiri:30f2d530-b3dd-11e9-8750-003ee1ce9545 1337 ;
+    niiri:30f443f2-b3dd-11e9-8750-003ee1ce9545 1.337e+03 ;
+    niiri:3107f1ae-b3dd-11e9-8750-003ee1ce9545 458 ;
+    niiri:3109c8c6-b3dd-11e9-8750-003ee1ce9545 4.58e+02 ;
+    niiri:3162a8f6-b3dd-11e9-8750-003ee1ce9545 7816 ;
+    niiri:31656ee2-b3dd-11e9-8750-003ee1ce9545 7.816e+03 ;
+    niiri:31711efe-b3dd-11e9-8750-003ee1ce9545 3791 ;
+    niiri:31729cde-b3dd-11e9-8750-003ee1ce9545 3.791e+03 ;
+    niiri:317bc192-b3dd-11e9-8750-003ee1ce9545 4763 ;
+    niiri:317d3dba-b3dd-11e9-8750-003ee1ce9545 4.763e+03 ;
+    niiri:318673b2-b3dd-11e9-8750-003ee1ce9545 1531 ;
+    niiri:31881fb4-b3dd-11e9-8750-003ee1ce9545 1.531e+03 ;
+    niiri:319139f0-b3dd-11e9-8750-003ee1ce9545 3823 ;
+    niiri:3192bd16-b3dd-11e9-8750-003ee1ce9545 3.823e+03 ;
+    niiri:319bde50-b3dd-11e9-8750-003ee1ce9545 1120 ;
+    niiri:319d5438-b3dd-11e9-8750-003ee1ce9545 1.12e+03 ;
+    niiri:31a6d198-b3dd-11e9-8750-003ee1ce9545 312 ;
+    niiri:31a8870e-b3dd-11e9-8750-003ee1ce9545 3.12e+02 ;
+    prov:wasGeneratedBy niiri:a936c202-c393-11e9-a916-003ee1ce9545 .
 
 niiri:aa8b6c18-b3dd-11e9-9b8e-003ee1ce9545 a nidm:FSStatsCollection,
         prov:Entity ;
@@ -17534,6 +19070,38 @@ niiri:aa8b6c18-b3dd-11e9-9b8e-003ee1ce9545 a nidm:FSStatsCollection,
     niiri:31ed2652-b3dd-11e9-8750-003ee1ce9545 "98.0000" ;
     prov:wasGeneratedBy niiri:aa8b3ae0-b3dd-11e9-9b8e-003ee1ce9545 .
 
+niiri:adde8600-c393-11e9-824a-003ee1ce9545 a nidm:FSLStatsCollection,
+        prov:Entity ;
+    niiri:309d8e72-b3dd-11e9-8750-003ee1ce9545 8673 ;
+    niiri:309f13b4-b3dd-11e9-8750-003ee1ce9545 8.673002e+03 ;
+    niiri:30aa233a-b3dd-11e9-8750-003ee1ce9545 4812 ;
+    niiri:30ab9df0-b3dd-11e9-8750-003ee1ce9545 4.812001e+03 ;
+    niiri:30b4830c-b3dd-11e9-8750-003ee1ce9545 5645 ;
+    niiri:30b604f2-b3dd-11e9-8750-003ee1ce9545 5.645001e+03 ;
+    niiri:30bed244-b3dd-11e9-8750-003ee1ce9545 1887 ;
+    niiri:30c0407a-b3dd-11e9-8750-003ee1ce9545 1.887e+03 ;
+    niiri:30e87dd8-b3dd-11e9-8750-003ee1ce9545 2850 ;
+    niiri:30e9e736-b3dd-11e9-8750-003ee1ce9545 2.850001e+03 ;
+    niiri:30f2d530-b3dd-11e9-8750-003ee1ce9545 1199 ;
+    niiri:30f443f2-b3dd-11e9-8750-003ee1ce9545 1.199e+03 ;
+    niiri:3107f1ae-b3dd-11e9-8750-003ee1ce9545 635 ;
+    niiri:3109c8c6-b3dd-11e9-8750-003ee1ce9545 6.350002e+02 ;
+    niiri:3162a8f6-b3dd-11e9-8750-003ee1ce9545 8275 ;
+    niiri:31656ee2-b3dd-11e9-8750-003ee1ce9545 8.275002e+03 ;
+    niiri:31711efe-b3dd-11e9-8750-003ee1ce9545 5139 ;
+    niiri:31729cde-b3dd-11e9-8750-003ee1ce9545 5.139001e+03 ;
+    niiri:317bc192-b3dd-11e9-8750-003ee1ce9545 5643 ;
+    niiri:317d3dba-b3dd-11e9-8750-003ee1ce9545 5.643001e+03 ;
+    niiri:318673b2-b3dd-11e9-8750-003ee1ce9545 1836 ;
+    niiri:31881fb4-b3dd-11e9-8750-003ee1ce9545 1.836e+03 ;
+    niiri:319139f0-b3dd-11e9-8750-003ee1ce9545 3672 ;
+    niiri:3192bd16-b3dd-11e9-8750-003ee1ce9545 3.672001e+03 ;
+    niiri:319bde50-b3dd-11e9-8750-003ee1ce9545 1036 ;
+    niiri:319d5438-b3dd-11e9-8750-003ee1ce9545 1.036e+03 ;
+    niiri:31a6d198-b3dd-11e9-8750-003ee1ce9545 448 ;
+    niiri:31a8870e-b3dd-11e9-8750-003ee1ce9545 4.480001e+02 ;
+    prov:wasGeneratedBy niiri:adde6ef4-c393-11e9-824a-003ee1ce9545 .
+
 niiri:af49ccea-b3dd-11e9-9b46-003ee1ce9545 a nidm:FSStatsCollection,
         prov:Entity ;
     niiri:306f54bc-b3dd-11e9-8750-003ee1ce9545 "16078" ;
@@ -17775,6 +19343,38 @@ niiri:af49ccea-b3dd-11e9-9b46-003ee1ce9545 a nidm:FSStatsCollection,
     niiri:31eb73fc-b3dd-11e9-8750-003ee1ce9545 "132.0000" ;
     niiri:31ed2652-b3dd-11e9-8750-003ee1ce9545 "119.0000" ;
     prov:wasGeneratedBy niiri:af49a170-b3dd-11e9-9b46-003ee1ce9545 .
+
+niiri:b2740a50-c393-11e9-883a-003ee1ce9545 a nidm:FSLStatsCollection,
+        prov:Entity ;
+    niiri:309d8e72-b3dd-11e9-8750-003ee1ce9545 8612 ;
+    niiri:309f13b4-b3dd-11e9-8750-003ee1ce9545 8.612e+03 ;
+    niiri:30aa233a-b3dd-11e9-8750-003ee1ce9545 3838 ;
+    niiri:30ab9df0-b3dd-11e9-8750-003ee1ce9545 3.838e+03 ;
+    niiri:30b4830c-b3dd-11e9-8750-003ee1ce9545 5483 ;
+    niiri:30b604f2-b3dd-11e9-8750-003ee1ce9545 5.483e+03 ;
+    niiri:30bed244-b3dd-11e9-8750-003ee1ce9545 2048 ;
+    niiri:30c0407a-b3dd-11e9-8750-003ee1ce9545 2.048e+03 ;
+    niiri:30e87dd8-b3dd-11e9-8750-003ee1ce9545 2873 ;
+    niiri:30e9e736-b3dd-11e9-8750-003ee1ce9545 2.873e+03 ;
+    niiri:30f2d530-b3dd-11e9-8750-003ee1ce9545 1237 ;
+    niiri:30f443f2-b3dd-11e9-8750-003ee1ce9545 1.237e+03 ;
+    niiri:3107f1ae-b3dd-11e9-8750-003ee1ce9545 406 ;
+    niiri:3109c8c6-b3dd-11e9-8750-003ee1ce9545 4.06e+02 ;
+    niiri:3162a8f6-b3dd-11e9-8750-003ee1ce9545 8073 ;
+    niiri:31656ee2-b3dd-11e9-8750-003ee1ce9545 8.073e+03 ;
+    niiri:31711efe-b3dd-11e9-8750-003ee1ce9545 4430 ;
+    niiri:31729cde-b3dd-11e9-8750-003ee1ce9545 4.43e+03 ;
+    niiri:317bc192-b3dd-11e9-8750-003ee1ce9545 5581 ;
+    niiri:317d3dba-b3dd-11e9-8750-003ee1ce9545 5.581e+03 ;
+    niiri:318673b2-b3dd-11e9-8750-003ee1ce9545 1898 ;
+    niiri:31881fb4-b3dd-11e9-8750-003ee1ce9545 1.898e+03 ;
+    niiri:319139f0-b3dd-11e9-8750-003ee1ce9545 4200 ;
+    niiri:3192bd16-b3dd-11e9-8750-003ee1ce9545 4.2e+03 ;
+    niiri:319bde50-b3dd-11e9-8750-003ee1ce9545 1602 ;
+    niiri:319d5438-b3dd-11e9-8750-003ee1ce9545 1.602e+03 ;
+    niiri:31a6d198-b3dd-11e9-8750-003ee1ce9545 579 ;
+    niiri:31a8870e-b3dd-11e9-8750-003ee1ce9545 5.79e+02 ;
+    prov:wasGeneratedBy niiri:b273f6a0-c393-11e9-883a-003ee1ce9545 .
 
 niiri:b4266d5e-b3dd-11e9-98ce-003ee1ce9545 a nidm:FSStatsCollection,
         prov:Entity ;
@@ -18018,6 +19618,38 @@ niiri:b4266d5e-b3dd-11e9-98ce-003ee1ce9545 a nidm:FSStatsCollection,
     niiri:31ed2652-b3dd-11e9-8750-003ee1ce9545 "81.0000" ;
     prov:wasGeneratedBy niiri:b4263ce4-b3dd-11e9-98ce-003ee1ce9545 .
 
+niiri:b71224f2-c393-11e9-b4d1-003ee1ce9545 a nidm:FSLStatsCollection,
+        prov:Entity ;
+    niiri:309d8e72-b3dd-11e9-8750-003ee1ce9545 8850 ;
+    niiri:309f13b4-b3dd-11e9-8750-003ee1ce9545 8.85e+03 ;
+    niiri:30aa233a-b3dd-11e9-8750-003ee1ce9545 4435 ;
+    niiri:30ab9df0-b3dd-11e9-8750-003ee1ce9545 4.435e+03 ;
+    niiri:30b4830c-b3dd-11e9-8750-003ee1ce9545 6113 ;
+    niiri:30b604f2-b3dd-11e9-8750-003ee1ce9545 6.113e+03 ;
+    niiri:30bed244-b3dd-11e9-8750-003ee1ce9545 2043 ;
+    niiri:30c0407a-b3dd-11e9-8750-003ee1ce9545 2.043e+03 ;
+    niiri:30e87dd8-b3dd-11e9-8750-003ee1ce9545 4334 ;
+    niiri:30e9e736-b3dd-11e9-8750-003ee1ce9545 4.334e+03 ;
+    niiri:30f2d530-b3dd-11e9-8750-003ee1ce9545 1107 ;
+    niiri:30f443f2-b3dd-11e9-8750-003ee1ce9545 1.107e+03 ;
+    niiri:3107f1ae-b3dd-11e9-8750-003ee1ce9545 610 ;
+    niiri:3109c8c6-b3dd-11e9-8750-003ee1ce9545 6.1e+02 ;
+    niiri:3162a8f6-b3dd-11e9-8750-003ee1ce9545 8741 ;
+    niiri:31656ee2-b3dd-11e9-8750-003ee1ce9545 8.741e+03 ;
+    niiri:31711efe-b3dd-11e9-8750-003ee1ce9545 4477 ;
+    niiri:31729cde-b3dd-11e9-8750-003ee1ce9545 4.477e+03 ;
+    niiri:317bc192-b3dd-11e9-8750-003ee1ce9545 5903 ;
+    niiri:317d3dba-b3dd-11e9-8750-003ee1ce9545 5.903e+03 ;
+    niiri:318673b2-b3dd-11e9-8750-003ee1ce9545 2158 ;
+    niiri:31881fb4-b3dd-11e9-8750-003ee1ce9545 2.158e+03 ;
+    niiri:319139f0-b3dd-11e9-8750-003ee1ce9545 4132 ;
+    niiri:3192bd16-b3dd-11e9-8750-003ee1ce9545 4.132e+03 ;
+    niiri:319bde50-b3dd-11e9-8750-003ee1ce9545 2016 ;
+    niiri:319d5438-b3dd-11e9-8750-003ee1ce9545 2.016e+03 ;
+    niiri:31a6d198-b3dd-11e9-8750-003ee1ce9545 447 ;
+    niiri:31a8870e-b3dd-11e9-8750-003ee1ce9545 4.47e+02 ;
+    prov:wasGeneratedBy niiri:b7120b34-c393-11e9-b4d1-003ee1ce9545 .
+
 niiri:b91e09c0-b3dd-11e9-8f2c-003ee1ce9545 a nidm:FSStatsCollection,
         prov:Entity ;
     niiri:306f54bc-b3dd-11e9-8750-003ee1ce9545 "6393" ;
@@ -18259,6 +19891,38 @@ niiri:b91e09c0-b3dd-11e9-8f2c-003ee1ce9545 a nidm:FSStatsCollection,
     niiri:31eb73fc-b3dd-11e9-8750-003ee1ce9545 "120.0000" ;
     niiri:31ed2652-b3dd-11e9-8750-003ee1ce9545 "108.0000" ;
     prov:wasGeneratedBy niiri:b91ddc20-b3dd-11e9-8f2c-003ee1ce9545 .
+
+niiri:bbabd238-c393-11e9-9d32-003ee1ce9545 a nidm:FSLStatsCollection,
+        prov:Entity ;
+    niiri:309d8e72-b3dd-11e9-8750-003ee1ce9545 8147 ;
+    niiri:309f13b4-b3dd-11e9-8750-003ee1ce9545 8.147e+03 ;
+    niiri:30aa233a-b3dd-11e9-8750-003ee1ce9545 3918 ;
+    niiri:30ab9df0-b3dd-11e9-8750-003ee1ce9545 3.918e+03 ;
+    niiri:30b4830c-b3dd-11e9-8750-003ee1ce9545 5780 ;
+    niiri:30b604f2-b3dd-11e9-8750-003ee1ce9545 5.78e+03 ;
+    niiri:30bed244-b3dd-11e9-8750-003ee1ce9545 1608 ;
+    niiri:30c0407a-b3dd-11e9-8750-003ee1ce9545 1.608e+03 ;
+    niiri:30e87dd8-b3dd-11e9-8750-003ee1ce9545 3626 ;
+    niiri:30e9e736-b3dd-11e9-8750-003ee1ce9545 3.626e+03 ;
+    niiri:30f2d530-b3dd-11e9-8750-003ee1ce9545 801 ;
+    niiri:30f443f2-b3dd-11e9-8750-003ee1ce9545 8.01e+02 ;
+    niiri:3107f1ae-b3dd-11e9-8750-003ee1ce9545 576 ;
+    niiri:3109c8c6-b3dd-11e9-8750-003ee1ce9545 5.76e+02 ;
+    niiri:3162a8f6-b3dd-11e9-8750-003ee1ce9545 8068 ;
+    niiri:31656ee2-b3dd-11e9-8750-003ee1ce9545 8.068e+03 ;
+    niiri:31711efe-b3dd-11e9-8750-003ee1ce9545 3879 ;
+    niiri:31729cde-b3dd-11e9-8750-003ee1ce9545 3.879e+03 ;
+    niiri:317bc192-b3dd-11e9-8750-003ee1ce9545 5930 ;
+    niiri:317d3dba-b3dd-11e9-8750-003ee1ce9545 5.93e+03 ;
+    niiri:318673b2-b3dd-11e9-8750-003ee1ce9545 1751 ;
+    niiri:31881fb4-b3dd-11e9-8750-003ee1ce9545 1.751e+03 ;
+    niiri:319139f0-b3dd-11e9-8750-003ee1ce9545 3293 ;
+    niiri:3192bd16-b3dd-11e9-8750-003ee1ce9545 3.293e+03 ;
+    niiri:319bde50-b3dd-11e9-8750-003ee1ce9545 1454 ;
+    niiri:319d5438-b3dd-11e9-8750-003ee1ce9545 1.454e+03 ;
+    niiri:31a6d198-b3dd-11e9-8750-003ee1ce9545 333 ;
+    niiri:31a8870e-b3dd-11e9-8750-003ee1ce9545 3.33e+02 ;
+    prov:wasGeneratedBy niiri:bbabbdfc-c393-11e9-9d32-003ee1ce9545 .
 
 niiri:bdfcda70-b3dd-11e9-a3e7-003ee1ce9545 a nidm:FSStatsCollection,
         prov:Entity ;
@@ -18502,6 +20166,38 @@ niiri:bdfcda70-b3dd-11e9-a3e7-003ee1ce9545 a nidm:FSStatsCollection,
     niiri:31ed2652-b3dd-11e9-8750-003ee1ce9545 "84.0000" ;
     prov:wasGeneratedBy niiri:bdfcaa82-b3dd-11e9-a3e7-003ee1ce9545 .
 
+niiri:c04520b0-c393-11e9-bcc4-003ee1ce9545 a nidm:FSLStatsCollection,
+        prov:Entity ;
+    niiri:309d8e72-b3dd-11e9-8750-003ee1ce9545 8001 ;
+    niiri:309f13b4-b3dd-11e9-8750-003ee1ce9545 8.001e+03 ;
+    niiri:30aa233a-b3dd-11e9-8750-003ee1ce9545 3936 ;
+    niiri:30ab9df0-b3dd-11e9-8750-003ee1ce9545 3.936e+03 ;
+    niiri:30b4830c-b3dd-11e9-8750-003ee1ce9545 5383 ;
+    niiri:30b604f2-b3dd-11e9-8750-003ee1ce9545 5.383e+03 ;
+    niiri:30bed244-b3dd-11e9-8750-003ee1ce9545 1816 ;
+    niiri:30c0407a-b3dd-11e9-8750-003ee1ce9545 1.816e+03 ;
+    niiri:30e87dd8-b3dd-11e9-8750-003ee1ce9545 3293 ;
+    niiri:30e9e736-b3dd-11e9-8750-003ee1ce9545 3.293e+03 ;
+    niiri:30f2d530-b3dd-11e9-8750-003ee1ce9545 851 ;
+    niiri:30f443f2-b3dd-11e9-8750-003ee1ce9545 8.51e+02 ;
+    niiri:3107f1ae-b3dd-11e9-8750-003ee1ce9545 469 ;
+    niiri:3109c8c6-b3dd-11e9-8750-003ee1ce9545 4.69e+02 ;
+    niiri:3162a8f6-b3dd-11e9-8750-003ee1ce9545 7476 ;
+    niiri:31656ee2-b3dd-11e9-8750-003ee1ce9545 7.476e+03 ;
+    niiri:31711efe-b3dd-11e9-8750-003ee1ce9545 4222 ;
+    niiri:31729cde-b3dd-11e9-8750-003ee1ce9545 4.222e+03 ;
+    niiri:317bc192-b3dd-11e9-8750-003ee1ce9545 5712 ;
+    niiri:317d3dba-b3dd-11e9-8750-003ee1ce9545 5.712e+03 ;
+    niiri:318673b2-b3dd-11e9-8750-003ee1ce9545 1940 ;
+    niiri:31881fb4-b3dd-11e9-8750-003ee1ce9545 1.94e+03 ;
+    niiri:319139f0-b3dd-11e9-8750-003ee1ce9545 3489 ;
+    niiri:3192bd16-b3dd-11e9-8750-003ee1ce9545 3.489e+03 ;
+    niiri:319bde50-b3dd-11e9-8750-003ee1ce9545 792 ;
+    niiri:319d5438-b3dd-11e9-8750-003ee1ce9545 7.92e+02 ;
+    niiri:31a6d198-b3dd-11e9-8750-003ee1ce9545 353 ;
+    niiri:31a8870e-b3dd-11e9-8750-003ee1ce9545 3.53e+02 ;
+    prov:wasGeneratedBy niiri:c0450e22-c393-11e9-bcc4-003ee1ce9545 .
+
 niiri:c2ff297e-b3dd-11e9-a3ca-003ee1ce9545 a nidm:FSStatsCollection,
         prov:Entity ;
     niiri:306f54bc-b3dd-11e9-8750-003ee1ce9545 "8183" ;
@@ -18743,6 +20439,38 @@ niiri:c2ff297e-b3dd-11e9-a3ca-003ee1ce9545 a nidm:FSStatsCollection,
     niiri:31eb73fc-b3dd-11e9-8750-003ee1ce9545 "116.0000" ;
     niiri:31ed2652-b3dd-11e9-8750-003ee1ce9545 "113.0000" ;
     prov:wasGeneratedBy niiri:c2fef788-b3dd-11e9-a3ca-003ee1ce9545 .
+
+niiri:c4ead3d0-c393-11e9-bd2a-003ee1ce9545 a nidm:FSLStatsCollection,
+        prov:Entity ;
+    niiri:309d8e72-b3dd-11e9-8750-003ee1ce9545 7980 ;
+    niiri:309f13b4-b3dd-11e9-8750-003ee1ce9545 7.98e+03 ;
+    niiri:30aa233a-b3dd-11e9-8750-003ee1ce9545 3629 ;
+    niiri:30ab9df0-b3dd-11e9-8750-003ee1ce9545 3.629e+03 ;
+    niiri:30b4830c-b3dd-11e9-8750-003ee1ce9545 5677 ;
+    niiri:30b604f2-b3dd-11e9-8750-003ee1ce9545 5.677e+03 ;
+    niiri:30bed244-b3dd-11e9-8750-003ee1ce9545 1932 ;
+    niiri:30c0407a-b3dd-11e9-8750-003ee1ce9545 1.932e+03 ;
+    niiri:30e87dd8-b3dd-11e9-8750-003ee1ce9545 4065 ;
+    niiri:30e9e736-b3dd-11e9-8750-003ee1ce9545 4.065e+03 ;
+    niiri:30f2d530-b3dd-11e9-8750-003ee1ce9545 1000 ;
+    niiri:30f443f2-b3dd-11e9-8750-003ee1ce9545 1e+03 ;
+    niiri:3107f1ae-b3dd-11e9-8750-003ee1ce9545 557 ;
+    niiri:3109c8c6-b3dd-11e9-8750-003ee1ce9545 5.57e+02 ;
+    niiri:3162a8f6-b3dd-11e9-8750-003ee1ce9545 7647 ;
+    niiri:31656ee2-b3dd-11e9-8750-003ee1ce9545 7.647e+03 ;
+    niiri:31711efe-b3dd-11e9-8750-003ee1ce9545 3483 ;
+    niiri:31729cde-b3dd-11e9-8750-003ee1ce9545 3.483e+03 ;
+    niiri:317bc192-b3dd-11e9-8750-003ee1ce9545 5662 ;
+    niiri:317d3dba-b3dd-11e9-8750-003ee1ce9545 5.662e+03 ;
+    niiri:318673b2-b3dd-11e9-8750-003ee1ce9545 1911 ;
+    niiri:31881fb4-b3dd-11e9-8750-003ee1ce9545 1.911e+03 ;
+    niiri:319139f0-b3dd-11e9-8750-003ee1ce9545 4889 ;
+    niiri:3192bd16-b3dd-11e9-8750-003ee1ce9545 4.889e+03 ;
+    niiri:319bde50-b3dd-11e9-8750-003ee1ce9545 1379 ;
+    niiri:319d5438-b3dd-11e9-8750-003ee1ce9545 1.379e+03 ;
+    niiri:31a6d198-b3dd-11e9-8750-003ee1ce9545 491 ;
+    niiri:31a8870e-b3dd-11e9-8750-003ee1ce9545 4.91e+02 ;
+    prov:wasGeneratedBy niiri:c4eac084-c393-11e9-bd2a-003ee1ce9545 .
 
 niiri:c8100d7a-b3dd-11e9-a8a1-003ee1ce9545 a nidm:FSStatsCollection,
         prov:Entity ;
@@ -18986,6 +20714,38 @@ niiri:c8100d7a-b3dd-11e9-a8a1-003ee1ce9545 a nidm:FSStatsCollection,
     niiri:31ed2652-b3dd-11e9-8750-003ee1ce9545 "96.0000" ;
     prov:wasGeneratedBy niiri:c80fdd3c-b3dd-11e9-a8a1-003ee1ce9545 .
 
+niiri:c985b5f4-c393-11e9-9a74-003ee1ce9545 a nidm:FSLStatsCollection,
+        prov:Entity ;
+    niiri:309d8e72-b3dd-11e9-8750-003ee1ce9545 7640 ;
+    niiri:309f13b4-b3dd-11e9-8750-003ee1ce9545 7.64e+03 ;
+    niiri:30aa233a-b3dd-11e9-8750-003ee1ce9545 3873 ;
+    niiri:30ab9df0-b3dd-11e9-8750-003ee1ce9545 3.873e+03 ;
+    niiri:30b4830c-b3dd-11e9-8750-003ee1ce9545 6114 ;
+    niiri:30b604f2-b3dd-11e9-8750-003ee1ce9545 6.114e+03 ;
+    niiri:30bed244-b3dd-11e9-8750-003ee1ce9545 2050 ;
+    niiri:30c0407a-b3dd-11e9-8750-003ee1ce9545 2.05e+03 ;
+    niiri:30e87dd8-b3dd-11e9-8750-003ee1ce9545 3743 ;
+    niiri:30e9e736-b3dd-11e9-8750-003ee1ce9545 3.743e+03 ;
+    niiri:30f2d530-b3dd-11e9-8750-003ee1ce9545 871 ;
+    niiri:30f443f2-b3dd-11e9-8750-003ee1ce9545 8.71e+02 ;
+    niiri:3107f1ae-b3dd-11e9-8750-003ee1ce9545 493 ;
+    niiri:3109c8c6-b3dd-11e9-8750-003ee1ce9545 4.93e+02 ;
+    niiri:3162a8f6-b3dd-11e9-8750-003ee1ce9545 7012 ;
+    niiri:31656ee2-b3dd-11e9-8750-003ee1ce9545 7.012e+03 ;
+    niiri:31711efe-b3dd-11e9-8750-003ee1ce9545 3885 ;
+    niiri:31729cde-b3dd-11e9-8750-003ee1ce9545 3.885e+03 ;
+    niiri:317bc192-b3dd-11e9-8750-003ee1ce9545 6511 ;
+    niiri:317d3dba-b3dd-11e9-8750-003ee1ce9545 6.511e+03 ;
+    niiri:318673b2-b3dd-11e9-8750-003ee1ce9545 2088 ;
+    niiri:31881fb4-b3dd-11e9-8750-003ee1ce9545 2.088e+03 ;
+    niiri:319139f0-b3dd-11e9-8750-003ee1ce9545 4336 ;
+    niiri:3192bd16-b3dd-11e9-8750-003ee1ce9545 4.336e+03 ;
+    niiri:319bde50-b3dd-11e9-8750-003ee1ce9545 1397 ;
+    niiri:319d5438-b3dd-11e9-8750-003ee1ce9545 1.397e+03 ;
+    niiri:31a6d198-b3dd-11e9-8750-003ee1ce9545 323 ;
+    niiri:31a8870e-b3dd-11e9-8750-003ee1ce9545 3.23e+02 ;
+    prov:wasGeneratedBy niiri:c9859f56-c393-11e9-9a74-003ee1ce9545 .
+
 niiri:cd1396e8-b3dd-11e9-a023-003ee1ce9545 a nidm:FSStatsCollection,
         prov:Entity ;
     niiri:306f54bc-b3dd-11e9-8750-003ee1ce9545 "10417" ;
@@ -19227,6 +20987,38 @@ niiri:cd1396e8-b3dd-11e9-a023-003ee1ce9545 a nidm:FSStatsCollection,
     niiri:31eb73fc-b3dd-11e9-8750-003ee1ce9545 "112.0000" ;
     niiri:31ed2652-b3dd-11e9-8750-003ee1ce9545 "97.0000" ;
     prov:wasGeneratedBy niiri:cd136c40-b3dd-11e9-a023-003ee1ce9545 .
+
+niiri:ce305bb8-c393-11e9-88a1-003ee1ce9545 a nidm:FSLStatsCollection,
+        prov:Entity ;
+    niiri:309d8e72-b3dd-11e9-8750-003ee1ce9545 8117 ;
+    niiri:309f13b4-b3dd-11e9-8750-003ee1ce9545 8.117e+03 ;
+    niiri:30aa233a-b3dd-11e9-8750-003ee1ce9545 4048 ;
+    niiri:30ab9df0-b3dd-11e9-8750-003ee1ce9545 4.048e+03 ;
+    niiri:30b4830c-b3dd-11e9-8750-003ee1ce9545 5431 ;
+    niiri:30b604f2-b3dd-11e9-8750-003ee1ce9545 5.431e+03 ;
+    niiri:30bed244-b3dd-11e9-8750-003ee1ce9545 2046 ;
+    niiri:30c0407a-b3dd-11e9-8750-003ee1ce9545 2.046e+03 ;
+    niiri:30e87dd8-b3dd-11e9-8750-003ee1ce9545 3642 ;
+    niiri:30e9e736-b3dd-11e9-8750-003ee1ce9545 3.642e+03 ;
+    niiri:30f2d530-b3dd-11e9-8750-003ee1ce9545 1208 ;
+    niiri:30f443f2-b3dd-11e9-8750-003ee1ce9545 1.208e+03 ;
+    niiri:3107f1ae-b3dd-11e9-8750-003ee1ce9545 561 ;
+    niiri:3109c8c6-b3dd-11e9-8750-003ee1ce9545 5.61e+02 ;
+    niiri:3162a8f6-b3dd-11e9-8750-003ee1ce9545 8656 ;
+    niiri:31656ee2-b3dd-11e9-8750-003ee1ce9545 8.656e+03 ;
+    niiri:31711efe-b3dd-11e9-8750-003ee1ce9545 4278 ;
+    niiri:31729cde-b3dd-11e9-8750-003ee1ce9545 4.278e+03 ;
+    niiri:317bc192-b3dd-11e9-8750-003ee1ce9545 5867 ;
+    niiri:317d3dba-b3dd-11e9-8750-003ee1ce9545 5.867e+03 ;
+    niiri:318673b2-b3dd-11e9-8750-003ee1ce9545 2063 ;
+    niiri:31881fb4-b3dd-11e9-8750-003ee1ce9545 2.063e+03 ;
+    niiri:319139f0-b3dd-11e9-8750-003ee1ce9545 4298 ;
+    niiri:3192bd16-b3dd-11e9-8750-003ee1ce9545 4.298e+03 ;
+    niiri:319bde50-b3dd-11e9-8750-003ee1ce9545 1125 ;
+    niiri:319d5438-b3dd-11e9-8750-003ee1ce9545 1.125e+03 ;
+    niiri:31a6d198-b3dd-11e9-8750-003ee1ce9545 481 ;
+    niiri:31a8870e-b3dd-11e9-8750-003ee1ce9545 4.81e+02 ;
+    prov:wasGeneratedBy niiri:ce304722-c393-11e9-88a1-003ee1ce9545 .
 
 niiri:d2309c5c-b3dd-11e9-8738-003ee1ce9545 a nidm:FSStatsCollection,
         prov:Entity ;
@@ -19470,6 +21262,38 @@ niiri:d2309c5c-b3dd-11e9-8738-003ee1ce9545 a nidm:FSStatsCollection,
     niiri:31ed2652-b3dd-11e9-8750-003ee1ce9545 "83.0000" ;
     prov:wasGeneratedBy niiri:d2306fd4-b3dd-11e9-8738-003ee1ce9545 .
 
+niiri:d2ef3750-c393-11e9-9a74-003ee1ce9545 a nidm:FSLStatsCollection,
+        prov:Entity ;
+    niiri:309d8e72-b3dd-11e9-8750-003ee1ce9545 7688 ;
+    niiri:309f13b4-b3dd-11e9-8750-003ee1ce9545 7.688e+03 ;
+    niiri:30aa233a-b3dd-11e9-8750-003ee1ce9545 3961 ;
+    niiri:30ab9df0-b3dd-11e9-8750-003ee1ce9545 3.961e+03 ;
+    niiri:30b4830c-b3dd-11e9-8750-003ee1ce9545 5908 ;
+    niiri:30b604f2-b3dd-11e9-8750-003ee1ce9545 5.908e+03 ;
+    niiri:30bed244-b3dd-11e9-8750-003ee1ce9545 1644 ;
+    niiri:30c0407a-b3dd-11e9-8750-003ee1ce9545 1.644e+03 ;
+    niiri:30e87dd8-b3dd-11e9-8750-003ee1ce9545 3740 ;
+    niiri:30e9e736-b3dd-11e9-8750-003ee1ce9545 3.74e+03 ;
+    niiri:30f2d530-b3dd-11e9-8750-003ee1ce9545 1174 ;
+    niiri:30f443f2-b3dd-11e9-8750-003ee1ce9545 1.174e+03 ;
+    niiri:3107f1ae-b3dd-11e9-8750-003ee1ce9545 654 ;
+    niiri:3109c8c6-b3dd-11e9-8750-003ee1ce9545 6.54e+02 ;
+    niiri:3162a8f6-b3dd-11e9-8750-003ee1ce9545 7608 ;
+    niiri:31656ee2-b3dd-11e9-8750-003ee1ce9545 7.608e+03 ;
+    niiri:31711efe-b3dd-11e9-8750-003ee1ce9545 4150 ;
+    niiri:31729cde-b3dd-11e9-8750-003ee1ce9545 4.15e+03 ;
+    niiri:317bc192-b3dd-11e9-8750-003ee1ce9545 5719 ;
+    niiri:317d3dba-b3dd-11e9-8750-003ee1ce9545 5.719e+03 ;
+    niiri:318673b2-b3dd-11e9-8750-003ee1ce9545 1845 ;
+    niiri:31881fb4-b3dd-11e9-8750-003ee1ce9545 1.845e+03 ;
+    niiri:319139f0-b3dd-11e9-8750-003ee1ce9545 3605 ;
+    niiri:3192bd16-b3dd-11e9-8750-003ee1ce9545 3.605e+03 ;
+    niiri:319bde50-b3dd-11e9-8750-003ee1ce9545 1096 ;
+    niiri:319d5438-b3dd-11e9-8750-003ee1ce9545 1.096e+03 ;
+    niiri:31a6d198-b3dd-11e9-8750-003ee1ce9545 291 ;
+    niiri:31a8870e-b3dd-11e9-8750-003ee1ce9545 2.91e+02 ;
+    prov:wasGeneratedBy niiri:d2ef2238-c393-11e9-9a74-003ee1ce9545 .
+
 niiri:d7451c9a-b3dd-11e9-8889-003ee1ce9545 a nidm:FSStatsCollection,
         prov:Entity ;
     niiri:306f54bc-b3dd-11e9-8750-003ee1ce9545 "5693" ;
@@ -19711,6 +21535,38 @@ niiri:d7451c9a-b3dd-11e9-8889-003ee1ce9545 a nidm:FSStatsCollection,
     niiri:31eb73fc-b3dd-11e9-8750-003ee1ce9545 "123.0000" ;
     niiri:31ed2652-b3dd-11e9-8750-003ee1ce9545 "94.0000" ;
     prov:wasGeneratedBy niiri:d744e8ba-b3dd-11e9-8889-003ee1ce9545 .
+
+niiri:d7ada6d2-c393-11e9-aaec-003ee1ce9545 a nidm:FSLStatsCollection,
+        prov:Entity ;
+    niiri:309d8e72-b3dd-11e9-8750-003ee1ce9545 7693 ;
+    niiri:309f13b4-b3dd-11e9-8750-003ee1ce9545 7.693e+03 ;
+    niiri:30aa233a-b3dd-11e9-8750-003ee1ce9545 3080 ;
+    niiri:30ab9df0-b3dd-11e9-8750-003ee1ce9545 3.08e+03 ;
+    niiri:30b4830c-b3dd-11e9-8750-003ee1ce9545 5512 ;
+    niiri:30b604f2-b3dd-11e9-8750-003ee1ce9545 5.512e+03 ;
+    niiri:30bed244-b3dd-11e9-8750-003ee1ce9545 1863 ;
+    niiri:30c0407a-b3dd-11e9-8750-003ee1ce9545 1.863e+03 ;
+    niiri:30e87dd8-b3dd-11e9-8750-003ee1ce9545 2248 ;
+    niiri:30e9e736-b3dd-11e9-8750-003ee1ce9545 2.248e+03 ;
+    niiri:30f2d530-b3dd-11e9-8750-003ee1ce9545 1487 ;
+    niiri:30f443f2-b3dd-11e9-8750-003ee1ce9545 1.487e+03 ;
+    niiri:3107f1ae-b3dd-11e9-8750-003ee1ce9545 461 ;
+    niiri:3109c8c6-b3dd-11e9-8750-003ee1ce9545 4.61e+02 ;
+    niiri:3162a8f6-b3dd-11e9-8750-003ee1ce9545 8310 ;
+    niiri:31656ee2-b3dd-11e9-8750-003ee1ce9545 8.31e+03 ;
+    niiri:31711efe-b3dd-11e9-8750-003ee1ce9545 3857 ;
+    niiri:31729cde-b3dd-11e9-8750-003ee1ce9545 3.857e+03 ;
+    niiri:317bc192-b3dd-11e9-8750-003ee1ce9545 5563 ;
+    niiri:317d3dba-b3dd-11e9-8750-003ee1ce9545 5.563e+03 ;
+    niiri:318673b2-b3dd-11e9-8750-003ee1ce9545 1993 ;
+    niiri:31881fb4-b3dd-11e9-8750-003ee1ce9545 1.993e+03 ;
+    niiri:319139f0-b3dd-11e9-8750-003ee1ce9545 4461 ;
+    niiri:3192bd16-b3dd-11e9-8750-003ee1ce9545 4.461e+03 ;
+    niiri:319bde50-b3dd-11e9-8750-003ee1ce9545 1272 ;
+    niiri:319d5438-b3dd-11e9-8750-003ee1ce9545 1.272e+03 ;
+    niiri:31a6d198-b3dd-11e9-8750-003ee1ce9545 334 ;
+    niiri:31a8870e-b3dd-11e9-8750-003ee1ce9545 3.34e+02 ;
+    prov:wasGeneratedBy niiri:d7ad9264-c393-11e9-aaec-003ee1ce9545 .
 
 niiri:dc55d1ca-b3dd-11e9-992b-003ee1ce9545 a nidm:FSStatsCollection,
         prov:Entity ;
@@ -19954,6 +21810,70 @@ niiri:dc55d1ca-b3dd-11e9-992b-003ee1ce9545 a nidm:FSStatsCollection,
     niiri:31ed2652-b3dd-11e9-8750-003ee1ce9545 "110.0000" ;
     prov:wasGeneratedBy niiri:dc55a498-b3dd-11e9-992b-003ee1ce9545 .
 
+niiri:dc7a7046-c393-11e9-a17f-003ee1ce9545 a nidm:FSLStatsCollection,
+        prov:Entity ;
+    niiri:309d8e72-b3dd-11e9-8750-003ee1ce9545 8068 ;
+    niiri:309f13b4-b3dd-11e9-8750-003ee1ce9545 8.068e+03 ;
+    niiri:30aa233a-b3dd-11e9-8750-003ee1ce9545 3507 ;
+    niiri:30ab9df0-b3dd-11e9-8750-003ee1ce9545 3.507e+03 ;
+    niiri:30b4830c-b3dd-11e9-8750-003ee1ce9545 4973 ;
+    niiri:30b604f2-b3dd-11e9-8750-003ee1ce9545 4.973e+03 ;
+    niiri:30bed244-b3dd-11e9-8750-003ee1ce9545 1712 ;
+    niiri:30c0407a-b3dd-11e9-8750-003ee1ce9545 1.712e+03 ;
+    niiri:30e87dd8-b3dd-11e9-8750-003ee1ce9545 3250 ;
+    niiri:30e9e736-b3dd-11e9-8750-003ee1ce9545 3.25e+03 ;
+    niiri:30f2d530-b3dd-11e9-8750-003ee1ce9545 802 ;
+    niiri:30f443f2-b3dd-11e9-8750-003ee1ce9545 8.02e+02 ;
+    niiri:3107f1ae-b3dd-11e9-8750-003ee1ce9545 467 ;
+    niiri:3109c8c6-b3dd-11e9-8750-003ee1ce9545 4.67e+02 ;
+    niiri:3162a8f6-b3dd-11e9-8750-003ee1ce9545 7729 ;
+    niiri:31656ee2-b3dd-11e9-8750-003ee1ce9545 7.729e+03 ;
+    niiri:31711efe-b3dd-11e9-8750-003ee1ce9545 3678 ;
+    niiri:31729cde-b3dd-11e9-8750-003ee1ce9545 3.678e+03 ;
+    niiri:317bc192-b3dd-11e9-8750-003ee1ce9545 5250 ;
+    niiri:317d3dba-b3dd-11e9-8750-003ee1ce9545 5.25e+03 ;
+    niiri:318673b2-b3dd-11e9-8750-003ee1ce9545 1800 ;
+    niiri:31881fb4-b3dd-11e9-8750-003ee1ce9545 1.8e+03 ;
+    niiri:319139f0-b3dd-11e9-8750-003ee1ce9545 3777 ;
+    niiri:3192bd16-b3dd-11e9-8750-003ee1ce9545 3.777e+03 ;
+    niiri:319bde50-b3dd-11e9-8750-003ee1ce9545 840 ;
+    niiri:319d5438-b3dd-11e9-8750-003ee1ce9545 8.4e+02 ;
+    niiri:31a6d198-b3dd-11e9-8750-003ee1ce9545 337 ;
+    niiri:31a8870e-b3dd-11e9-8750-003ee1ce9545 3.37e+02 ;
+    prov:wasGeneratedBy niiri:dc7a5ce6-c393-11e9-a17f-003ee1ce9545 .
+
+niiri:e137199a-c393-11e9-ac50-003ee1ce9545 a nidm:FSLStatsCollection,
+        prov:Entity ;
+    niiri:309d8e72-b3dd-11e9-8750-003ee1ce9545 7430 ;
+    niiri:309f13b4-b3dd-11e9-8750-003ee1ce9545 7.430007e+03 ;
+    niiri:30aa233a-b3dd-11e9-8750-003ee1ce9545 3185 ;
+    niiri:30ab9df0-b3dd-11e9-8750-003ee1ce9545 3.185003e+03 ;
+    niiri:30b4830c-b3dd-11e9-8750-003ee1ce9545 3618 ;
+    niiri:30b604f2-b3dd-11e9-8750-003ee1ce9545 3.618003e+03 ;
+    niiri:30bed244-b3dd-11e9-8750-003ee1ce9545 1503 ;
+    niiri:30c0407a-b3dd-11e9-8750-003ee1ce9545 1.503001e+03 ;
+    niiri:30e87dd8-b3dd-11e9-8750-003ee1ce9545 3265 ;
+    niiri:30e9e736-b3dd-11e9-8750-003ee1ce9545 3.265003e+03 ;
+    niiri:30f2d530-b3dd-11e9-8750-003ee1ce9545 557 ;
+    niiri:30f443f2-b3dd-11e9-8750-003ee1ce9545 5.570005e+02 ;
+    niiri:3107f1ae-b3dd-11e9-8750-003ee1ce9545 444 ;
+    niiri:3109c8c6-b3dd-11e9-8750-003ee1ce9545 4.440004e+02 ;
+    niiri:3162a8f6-b3dd-11e9-8750-003ee1ce9545 6907 ;
+    niiri:31656ee2-b3dd-11e9-8750-003ee1ce9545 6.907007e+03 ;
+    niiri:31711efe-b3dd-11e9-8750-003ee1ce9545 3310 ;
+    niiri:31729cde-b3dd-11e9-8750-003ee1ce9545 3.310003e+03 ;
+    niiri:317bc192-b3dd-11e9-8750-003ee1ce9545 3186 ;
+    niiri:317d3dba-b3dd-11e9-8750-003ee1ce9545 3.186003e+03 ;
+    niiri:318673b2-b3dd-11e9-8750-003ee1ce9545 1686 ;
+    niiri:31881fb4-b3dd-11e9-8750-003ee1ce9545 1.686002e+03 ;
+    niiri:319139f0-b3dd-11e9-8750-003ee1ce9545 3590 ;
+    niiri:3192bd16-b3dd-11e9-8750-003ee1ce9545 3.590003e+03 ;
+    niiri:319bde50-b3dd-11e9-8750-003ee1ce9545 641 ;
+    niiri:319d5438-b3dd-11e9-8750-003ee1ce9545 6.410006e+02 ;
+    niiri:31a6d198-b3dd-11e9-8750-003ee1ce9545 457 ;
+    niiri:31a8870e-b3dd-11e9-8750-003ee1ce9545 4.570004e+02 ;
+    prov:wasGeneratedBy niiri:e13703f6-c393-11e9-ac50-003ee1ce9545 .
+
 niiri:e18ef77a-b3dd-11e9-81b1-003ee1ce9545 a nidm:FSStatsCollection,
         prov:Entity ;
     niiri:306f54bc-b3dd-11e9-8750-003ee1ce9545 "6425" ;
@@ -20195,6 +22115,38 @@ niiri:e18ef77a-b3dd-11e9-81b1-003ee1ce9545 a nidm:FSStatsCollection,
     niiri:31eb73fc-b3dd-11e9-8750-003ee1ce9545 "116.0000" ;
     niiri:31ed2652-b3dd-11e9-8750-003ee1ce9545 "93.0000" ;
     prov:wasGeneratedBy niiri:e18ecc5a-b3dd-11e9-81b1-003ee1ce9545 .
+
+niiri:e5f6471c-c393-11e9-a789-003ee1ce9545 a nidm:FSLStatsCollection,
+        prov:Entity ;
+    niiri:309d8e72-b3dd-11e9-8750-003ee1ce9545 7507 ;
+    niiri:309f13b4-b3dd-11e9-8750-003ee1ce9545 7.507e+03 ;
+    niiri:30aa233a-b3dd-11e9-8750-003ee1ce9545 2915 ;
+    niiri:30ab9df0-b3dd-11e9-8750-003ee1ce9545 2.915e+03 ;
+    niiri:30b4830c-b3dd-11e9-8750-003ee1ce9545 4760 ;
+    niiri:30b604f2-b3dd-11e9-8750-003ee1ce9545 4.76e+03 ;
+    niiri:30bed244-b3dd-11e9-8750-003ee1ce9545 1450 ;
+    niiri:30c0407a-b3dd-11e9-8750-003ee1ce9545 1.45e+03 ;
+    niiri:30e87dd8-b3dd-11e9-8750-003ee1ce9545 3583 ;
+    niiri:30e9e736-b3dd-11e9-8750-003ee1ce9545 3.583e+03 ;
+    niiri:30f2d530-b3dd-11e9-8750-003ee1ce9545 1215 ;
+    niiri:30f443f2-b3dd-11e9-8750-003ee1ce9545 1.215e+03 ;
+    niiri:3107f1ae-b3dd-11e9-8750-003ee1ce9545 457 ;
+    niiri:3109c8c6-b3dd-11e9-8750-003ee1ce9545 4.57e+02 ;
+    niiri:3162a8f6-b3dd-11e9-8750-003ee1ce9545 6990 ;
+    niiri:31656ee2-b3dd-11e9-8750-003ee1ce9545 6.99e+03 ;
+    niiri:31711efe-b3dd-11e9-8750-003ee1ce9545 2975 ;
+    niiri:31729cde-b3dd-11e9-8750-003ee1ce9545 2.975e+03 ;
+    niiri:317bc192-b3dd-11e9-8750-003ee1ce9545 4375 ;
+    niiri:317d3dba-b3dd-11e9-8750-003ee1ce9545 4.375e+03 ;
+    niiri:318673b2-b3dd-11e9-8750-003ee1ce9545 1589 ;
+    niiri:31881fb4-b3dd-11e9-8750-003ee1ce9545 1.589e+03 ;
+    niiri:319139f0-b3dd-11e9-8750-003ee1ce9545 4137 ;
+    niiri:3192bd16-b3dd-11e9-8750-003ee1ce9545 4.137e+03 ;
+    niiri:319bde50-b3dd-11e9-8750-003ee1ce9545 921 ;
+    niiri:319d5438-b3dd-11e9-8750-003ee1ce9545 9.21e+02 ;
+    niiri:31a6d198-b3dd-11e9-8750-003ee1ce9545 371 ;
+    niiri:31a8870e-b3dd-11e9-8750-003ee1ce9545 3.71e+02 ;
+    prov:wasGeneratedBy niiri:e5f6304c-c393-11e9-a789-003ee1ce9545 .
 
 niiri:e6c532c2-b3dd-11e9-b30b-003ee1ce9545 a nidm:FSStatsCollection,
         prov:Entity ;
@@ -20438,6 +22390,38 @@ niiri:e6c532c2-b3dd-11e9-b30b-003ee1ce9545 a nidm:FSStatsCollection,
     niiri:31ed2652-b3dd-11e9-8750-003ee1ce9545 "82.0000" ;
     prov:wasGeneratedBy niiri:e6c50018-b3dd-11e9-b30b-003ee1ce9545 .
 
+niiri:eab22352-c393-11e9-8648-003ee1ce9545 a nidm:FSLStatsCollection,
+        prov:Entity ;
+    niiri:309d8e72-b3dd-11e9-8750-003ee1ce9545 8180 ;
+    niiri:309f13b4-b3dd-11e9-8750-003ee1ce9545 8.18e+03 ;
+    niiri:30aa233a-b3dd-11e9-8750-003ee1ce9545 3602 ;
+    niiri:30ab9df0-b3dd-11e9-8750-003ee1ce9545 3.602e+03 ;
+    niiri:30b4830c-b3dd-11e9-8750-003ee1ce9545 5304 ;
+    niiri:30b604f2-b3dd-11e9-8750-003ee1ce9545 5.304e+03 ;
+    niiri:30bed244-b3dd-11e9-8750-003ee1ce9545 1901 ;
+    niiri:30c0407a-b3dd-11e9-8750-003ee1ce9545 1.901e+03 ;
+    niiri:30e87dd8-b3dd-11e9-8750-003ee1ce9545 4080 ;
+    niiri:30e9e736-b3dd-11e9-8750-003ee1ce9545 4.08e+03 ;
+    niiri:30f2d530-b3dd-11e9-8750-003ee1ce9545 1013 ;
+    niiri:30f443f2-b3dd-11e9-8750-003ee1ce9545 1.013e+03 ;
+    niiri:3107f1ae-b3dd-11e9-8750-003ee1ce9545 562 ;
+    niiri:3109c8c6-b3dd-11e9-8750-003ee1ce9545 5.62e+02 ;
+    niiri:3162a8f6-b3dd-11e9-8750-003ee1ce9545 8196 ;
+    niiri:31656ee2-b3dd-11e9-8750-003ee1ce9545 8.196e+03 ;
+    niiri:31711efe-b3dd-11e9-8750-003ee1ce9545 3816 ;
+    niiri:31729cde-b3dd-11e9-8750-003ee1ce9545 3.816e+03 ;
+    niiri:317bc192-b3dd-11e9-8750-003ee1ce9545 5452 ;
+    niiri:317d3dba-b3dd-11e9-8750-003ee1ce9545 5.452e+03 ;
+    niiri:318673b2-b3dd-11e9-8750-003ee1ce9545 1786 ;
+    niiri:31881fb4-b3dd-11e9-8750-003ee1ce9545 1.786e+03 ;
+    niiri:319139f0-b3dd-11e9-8750-003ee1ce9545 4243 ;
+    niiri:3192bd16-b3dd-11e9-8750-003ee1ce9545 4.243e+03 ;
+    niiri:319bde50-b3dd-11e9-8750-003ee1ce9545 1765 ;
+    niiri:319d5438-b3dd-11e9-8750-003ee1ce9545 1.765e+03 ;
+    niiri:31a6d198-b3dd-11e9-8750-003ee1ce9545 434 ;
+    niiri:31a8870e-b3dd-11e9-8750-003ee1ce9545 4.34e+02 ;
+    prov:wasGeneratedBy niiri:eab21024-c393-11e9-8648-003ee1ce9545 .
+
 niiri:ec2e8fec-b3dd-11e9-9210-003ee1ce9545 a nidm:FSStatsCollection,
         prov:Entity ;
     niiri:306f54bc-b3dd-11e9-8750-003ee1ce9545 "8295" ;
@@ -20679,6 +22663,38 @@ niiri:ec2e8fec-b3dd-11e9-9210-003ee1ce9545 a nidm:FSStatsCollection,
     niiri:31eb73fc-b3dd-11e9-8750-003ee1ce9545 "119.0000" ;
     niiri:31ed2652-b3dd-11e9-8750-003ee1ce9545 "107.0000" ;
     prov:wasGeneratedBy niiri:ec2e6166-b3dd-11e9-9210-003ee1ce9545 .
+
+niiri:ef7a84b0-c393-11e9-bcc4-003ee1ce9545 a nidm:FSLStatsCollection,
+        prov:Entity ;
+    niiri:309d8e72-b3dd-11e9-8750-003ee1ce9545 8213 ;
+    niiri:309f13b4-b3dd-11e9-8750-003ee1ce9545 8.213008e+03 ;
+    niiri:30aa233a-b3dd-11e9-8750-003ee1ce9545 3971 ;
+    niiri:30ab9df0-b3dd-11e9-8750-003ee1ce9545 3.971004e+03 ;
+    niiri:30b4830c-b3dd-11e9-8750-003ee1ce9545 5651 ;
+    niiri:30b604f2-b3dd-11e9-8750-003ee1ce9545 5.651005e+03 ;
+    niiri:30bed244-b3dd-11e9-8750-003ee1ce9545 1723 ;
+    niiri:30c0407a-b3dd-11e9-8750-003ee1ce9545 1.723002e+03 ;
+    niiri:30e87dd8-b3dd-11e9-8750-003ee1ce9545 4191 ;
+    niiri:30e9e736-b3dd-11e9-8750-003ee1ce9545 4.191004e+03 ;
+    niiri:30f2d530-b3dd-11e9-8750-003ee1ce9545 1302 ;
+    niiri:30f443f2-b3dd-11e9-8750-003ee1ce9545 1.302001e+03 ;
+    niiri:3107f1ae-b3dd-11e9-8750-003ee1ce9545 566 ;
+    niiri:3109c8c6-b3dd-11e9-8750-003ee1ce9545 5.660005e+02 ;
+    niiri:3162a8f6-b3dd-11e9-8750-003ee1ce9545 8314 ;
+    niiri:31656ee2-b3dd-11e9-8750-003ee1ce9545 8.314008e+03 ;
+    niiri:31711efe-b3dd-11e9-8750-003ee1ce9545 4095 ;
+    niiri:31729cde-b3dd-11e9-8750-003ee1ce9545 4.095004e+03 ;
+    niiri:317bc192-b3dd-11e9-8750-003ee1ce9545 5631 ;
+    niiri:317d3dba-b3dd-11e9-8750-003ee1ce9545 5.631005e+03 ;
+    niiri:318673b2-b3dd-11e9-8750-003ee1ce9545 1912 ;
+    niiri:31881fb4-b3dd-11e9-8750-003ee1ce9545 1.912002e+03 ;
+    niiri:319139f0-b3dd-11e9-8750-003ee1ce9545 4551 ;
+    niiri:3192bd16-b3dd-11e9-8750-003ee1ce9545 4.551004e+03 ;
+    niiri:319bde50-b3dd-11e9-8750-003ee1ce9545 1170 ;
+    niiri:319d5438-b3dd-11e9-8750-003ee1ce9545 1.170001e+03 ;
+    niiri:31a6d198-b3dd-11e9-8750-003ee1ce9545 447 ;
+    niiri:31a8870e-b3dd-11e9-8750-003ee1ce9545 4.470004e+02 ;
+    prov:wasGeneratedBy niiri:ef7a6f52-c393-11e9-bcc4-003ee1ce9545 .
 
 niiri:f18cf6fe-b3dd-11e9-9d58-003ee1ce9545 a nidm:FSStatsCollection,
         prov:Entity ;
@@ -20922,6 +22938,38 @@ niiri:f18cf6fe-b3dd-11e9-9d58-003ee1ce9545 a nidm:FSStatsCollection,
     niiri:31ed2652-b3dd-11e9-8750-003ee1ce9545 "69.0000" ;
     prov:wasGeneratedBy niiri:f18ccc06-b3dd-11e9-9d58-003ee1ce9545 .
 
+niiri:f44f9e1c-c393-11e9-806d-003ee1ce9545 a nidm:FSLStatsCollection,
+        prov:Entity ;
+    niiri:309d8e72-b3dd-11e9-8750-003ee1ce9545 8694 ;
+    niiri:309f13b4-b3dd-11e9-8750-003ee1ce9545 8.694e+03 ;
+    niiri:30aa233a-b3dd-11e9-8750-003ee1ce9545 3458 ;
+    niiri:30ab9df0-b3dd-11e9-8750-003ee1ce9545 3.458e+03 ;
+    niiri:30b4830c-b3dd-11e9-8750-003ee1ce9545 5713 ;
+    niiri:30b604f2-b3dd-11e9-8750-003ee1ce9545 5.713e+03 ;
+    niiri:30bed244-b3dd-11e9-8750-003ee1ce9545 1859 ;
+    niiri:30c0407a-b3dd-11e9-8750-003ee1ce9545 1.859e+03 ;
+    niiri:30e87dd8-b3dd-11e9-8750-003ee1ce9545 4235 ;
+    niiri:30e9e736-b3dd-11e9-8750-003ee1ce9545 4.235e+03 ;
+    niiri:30f2d530-b3dd-11e9-8750-003ee1ce9545 1331 ;
+    niiri:30f443f2-b3dd-11e9-8750-003ee1ce9545 1.331e+03 ;
+    niiri:3107f1ae-b3dd-11e9-8750-003ee1ce9545 724 ;
+    niiri:3109c8c6-b3dd-11e9-8750-003ee1ce9545 7.24e+02 ;
+    niiri:3162a8f6-b3dd-11e9-8750-003ee1ce9545 8406 ;
+    niiri:31656ee2-b3dd-11e9-8750-003ee1ce9545 8.406e+03 ;
+    niiri:31711efe-b3dd-11e9-8750-003ee1ce9545 3664 ;
+    niiri:31729cde-b3dd-11e9-8750-003ee1ce9545 3.664e+03 ;
+    niiri:317bc192-b3dd-11e9-8750-003ee1ce9545 5768 ;
+    niiri:317d3dba-b3dd-11e9-8750-003ee1ce9545 5.768e+03 ;
+    niiri:318673b2-b3dd-11e9-8750-003ee1ce9545 1889 ;
+    niiri:31881fb4-b3dd-11e9-8750-003ee1ce9545 1.889e+03 ;
+    niiri:319139f0-b3dd-11e9-8750-003ee1ce9545 4637 ;
+    niiri:3192bd16-b3dd-11e9-8750-003ee1ce9545 4.637e+03 ;
+    niiri:319bde50-b3dd-11e9-8750-003ee1ce9545 1401 ;
+    niiri:319d5438-b3dd-11e9-8750-003ee1ce9545 1.401e+03 ;
+    niiri:31a6d198-b3dd-11e9-8750-003ee1ce9545 526 ;
+    niiri:31a8870e-b3dd-11e9-8750-003ee1ce9545 5.26e+02 ;
+    prov:wasGeneratedBy niiri:f44f8832-c393-11e9-806d-003ee1ce9545 .
+
 niiri:f6d967d2-b3dd-11e9-ba6f-003ee1ce9545 a nidm:FSStatsCollection,
         prov:Entity ;
     niiri:306f54bc-b3dd-11e9-8750-003ee1ce9545 "5802" ;
@@ -21163,6 +23211,38 @@ niiri:f6d967d2-b3dd-11e9-ba6f-003ee1ce9545 a nidm:FSStatsCollection,
     niiri:31eb73fc-b3dd-11e9-8750-003ee1ce9545 "112.0000" ;
     niiri:31ed2652-b3dd-11e9-8750-003ee1ce9545 "96.0000" ;
     prov:wasGeneratedBy niiri:f6d93cf8-b3dd-11e9-ba6f-003ee1ce9545 .
+
+niiri:f91c2a8c-c393-11e9-913a-003ee1ce9545 a nidm:FSLStatsCollection,
+        prov:Entity ;
+    niiri:309d8e72-b3dd-11e9-8750-003ee1ce9545 7635 ;
+    niiri:309f13b4-b3dd-11e9-8750-003ee1ce9545 7.635e+03 ;
+    niiri:30aa233a-b3dd-11e9-8750-003ee1ce9545 4917 ;
+    niiri:30ab9df0-b3dd-11e9-8750-003ee1ce9545 4.917e+03 ;
+    niiri:30b4830c-b3dd-11e9-8750-003ee1ce9545 6385 ;
+    niiri:30b604f2-b3dd-11e9-8750-003ee1ce9545 6.385e+03 ;
+    niiri:30bed244-b3dd-11e9-8750-003ee1ce9545 2198 ;
+    niiri:30c0407a-b3dd-11e9-8750-003ee1ce9545 2.198e+03 ;
+    niiri:30e87dd8-b3dd-11e9-8750-003ee1ce9545 4595 ;
+    niiri:30e9e736-b3dd-11e9-8750-003ee1ce9545 4.595e+03 ;
+    niiri:30f2d530-b3dd-11e9-8750-003ee1ce9545 1044 ;
+    niiri:30f443f2-b3dd-11e9-8750-003ee1ce9545 1.044e+03 ;
+    niiri:3107f1ae-b3dd-11e9-8750-003ee1ce9545 651 ;
+    niiri:3109c8c6-b3dd-11e9-8750-003ee1ce9545 6.51e+02 ;
+    niiri:3162a8f6-b3dd-11e9-8750-003ee1ce9545 8933 ;
+    niiri:31656ee2-b3dd-11e9-8750-003ee1ce9545 8.933e+03 ;
+    niiri:31711efe-b3dd-11e9-8750-003ee1ce9545 5207 ;
+    niiri:31729cde-b3dd-11e9-8750-003ee1ce9545 5.207e+03 ;
+    niiri:317bc192-b3dd-11e9-8750-003ee1ce9545 6905 ;
+    niiri:317d3dba-b3dd-11e9-8750-003ee1ce9545 6.905e+03 ;
+    niiri:318673b2-b3dd-11e9-8750-003ee1ce9545 2380 ;
+    niiri:31881fb4-b3dd-11e9-8750-003ee1ce9545 2.38e+03 ;
+    niiri:319139f0-b3dd-11e9-8750-003ee1ce9545 4574 ;
+    niiri:3192bd16-b3dd-11e9-8750-003ee1ce9545 4.574e+03 ;
+    niiri:319bde50-b3dd-11e9-8750-003ee1ce9545 850 ;
+    niiri:319d5438-b3dd-11e9-8750-003ee1ce9545 8.5e+02 ;
+    niiri:31a6d198-b3dd-11e9-8750-003ee1ce9545 657 ;
+    niiri:31a8870e-b3dd-11e9-8750-003ee1ce9545 6.57e+02 ;
+    prov:wasGeneratedBy niiri:f91c1344-c393-11e9-913a-003ee1ce9545 .
 
 niiri:fc2aadd6-b3dd-11e9-820a-003ee1ce9545 a nidm:FSStatsCollection,
         prov:Entity ;
@@ -21406,6 +23486,70 @@ niiri:fc2aadd6-b3dd-11e9-820a-003ee1ce9545 a nidm:FSStatsCollection,
     niiri:31ed2652-b3dd-11e9-8750-003ee1ce9545 "105.0000" ;
     prov:wasGeneratedBy niiri:fc2a7bd6-b3dd-11e9-820a-003ee1ce9545 .
 
+niiri:fd583c9a-c392-11e9-8804-003ee1ce9545 a nidm:FSLStatsCollection,
+        prov:Entity ;
+    niiri:309d8e72-b3dd-11e9-8750-003ee1ce9545 9671 ;
+    niiri:309f13b4-b3dd-11e9-8750-003ee1ce9545 9.671e+03 ;
+    niiri:30aa233a-b3dd-11e9-8750-003ee1ce9545 4043 ;
+    niiri:30ab9df0-b3dd-11e9-8750-003ee1ce9545 4.043e+03 ;
+    niiri:30b4830c-b3dd-11e9-8750-003ee1ce9545 6370 ;
+    niiri:30b604f2-b3dd-11e9-8750-003ee1ce9545 6.37e+03 ;
+    niiri:30bed244-b3dd-11e9-8750-003ee1ce9545 2090 ;
+    niiri:30c0407a-b3dd-11e9-8750-003ee1ce9545 2.09e+03 ;
+    niiri:30e87dd8-b3dd-11e9-8750-003ee1ce9545 4525 ;
+    niiri:30e9e736-b3dd-11e9-8750-003ee1ce9545 4.525e+03 ;
+    niiri:30f2d530-b3dd-11e9-8750-003ee1ce9545 1000 ;
+    niiri:30f443f2-b3dd-11e9-8750-003ee1ce9545 1e+03 ;
+    niiri:3107f1ae-b3dd-11e9-8750-003ee1ce9545 571 ;
+    niiri:3109c8c6-b3dd-11e9-8750-003ee1ce9545 5.71e+02 ;
+    niiri:3162a8f6-b3dd-11e9-8750-003ee1ce9545 8792 ;
+    niiri:31656ee2-b3dd-11e9-8750-003ee1ce9545 8.792e+03 ;
+    niiri:31711efe-b3dd-11e9-8750-003ee1ce9545 4084 ;
+    niiri:31729cde-b3dd-11e9-8750-003ee1ce9545 4.084e+03 ;
+    niiri:317bc192-b3dd-11e9-8750-003ee1ce9545 6166 ;
+    niiri:317d3dba-b3dd-11e9-8750-003ee1ce9545 6.166e+03 ;
+    niiri:318673b2-b3dd-11e9-8750-003ee1ce9545 2072 ;
+    niiri:31881fb4-b3dd-11e9-8750-003ee1ce9545 2.072e+03 ;
+    niiri:319139f0-b3dd-11e9-8750-003ee1ce9545 4384 ;
+    niiri:3192bd16-b3dd-11e9-8750-003ee1ce9545 4.384e+03 ;
+    niiri:319bde50-b3dd-11e9-8750-003ee1ce9545 1305 ;
+    niiri:319d5438-b3dd-11e9-8750-003ee1ce9545 1.305e+03 ;
+    niiri:31a6d198-b3dd-11e9-8750-003ee1ce9545 550 ;
+    niiri:31a8870e-b3dd-11e9-8750-003ee1ce9545 5.5e+02 ;
+    prov:wasGeneratedBy niiri:fd582836-c392-11e9-8804-003ee1ce9545 .
+
+niiri:fde22f26-c393-11e9-a6bf-003ee1ce9545 a nidm:FSLStatsCollection,
+        prov:Entity ;
+    niiri:309d8e72-b3dd-11e9-8750-003ee1ce9545 8525 ;
+    niiri:309f13b4-b3dd-11e9-8750-003ee1ce9545 8.525e+03 ;
+    niiri:30aa233a-b3dd-11e9-8750-003ee1ce9545 4383 ;
+    niiri:30ab9df0-b3dd-11e9-8750-003ee1ce9545 4.383e+03 ;
+    niiri:30b4830c-b3dd-11e9-8750-003ee1ce9545 5969 ;
+    niiri:30b604f2-b3dd-11e9-8750-003ee1ce9545 5.969e+03 ;
+    niiri:30bed244-b3dd-11e9-8750-003ee1ce9545 1951 ;
+    niiri:30c0407a-b3dd-11e9-8750-003ee1ce9545 1.951e+03 ;
+    niiri:30e87dd8-b3dd-11e9-8750-003ee1ce9545 3789 ;
+    niiri:30e9e736-b3dd-11e9-8750-003ee1ce9545 3.789e+03 ;
+    niiri:30f2d530-b3dd-11e9-8750-003ee1ce9545 1089 ;
+    niiri:30f443f2-b3dd-11e9-8750-003ee1ce9545 1.089e+03 ;
+    niiri:3107f1ae-b3dd-11e9-8750-003ee1ce9545 813 ;
+    niiri:3109c8c6-b3dd-11e9-8750-003ee1ce9545 8.13e+02 ;
+    niiri:3162a8f6-b3dd-11e9-8750-003ee1ce9545 8165 ;
+    niiri:31656ee2-b3dd-11e9-8750-003ee1ce9545 8.165e+03 ;
+    niiri:31711efe-b3dd-11e9-8750-003ee1ce9545 4479 ;
+    niiri:31729cde-b3dd-11e9-8750-003ee1ce9545 4.479e+03 ;
+    niiri:317bc192-b3dd-11e9-8750-003ee1ce9545 5945 ;
+    niiri:317d3dba-b3dd-11e9-8750-003ee1ce9545 5.945e+03 ;
+    niiri:318673b2-b3dd-11e9-8750-003ee1ce9545 1933 ;
+    niiri:31881fb4-b3dd-11e9-8750-003ee1ce9545 1.933e+03 ;
+    niiri:319139f0-b3dd-11e9-8750-003ee1ce9545 4178 ;
+    niiri:3192bd16-b3dd-11e9-8750-003ee1ce9545 4.178e+03 ;
+    niiri:319bde50-b3dd-11e9-8750-003ee1ce9545 1361 ;
+    niiri:319d5438-b3dd-11e9-8750-003ee1ce9545 1.361e+03 ;
+    niiri:31a6d198-b3dd-11e9-8750-003ee1ce9545 455 ;
+    niiri:31a8870e-b3dd-11e9-8750-003ee1ce9545 4.55e+02 ;
+    prov:wasGeneratedBy niiri:fde21b4e-c393-11e9-a6bf-003ee1ce9545 .
+
 niiri:01935aac-b3de-11e9-90aa-003ee1ce9545 a prov:Activity ;
     dct:description "Freesurfer segmentation statistics" ;
     prov:qualifiedAssociation [ a prov:Agent ;
@@ -21443,6 +23587,45 @@ niiri:01935aac-b3de-11e9-90aa-003ee1ce9545 a prov:Activity ;
 niiri:01937ea6-b3de-11e9-90aa-003ee1ce9545 a prov:Agent,
         prov:SoftwareAgent ;
     nidm:NIDM_0000164 freesurfer: .
+
+niiri:01dd7c8a-c393-11e9-a1c5-003ee1ce9545 a prov:Activity ;
+    dct:description "FSL FAST/FIRST segmentation statistics" ;
+    prov:qualifiedAssociation [ a prov:Agent ;
+            prov:hadRole nidm:NIDM_0000164 ;
+            prov:wasAssociatedWith niiri:01dd82ca-c393-11e9-a1c5-003ee1ce9545 ],
+        [ a prov:Agent ;
+            prov:hadRole sio:Subject ;
+            prov:wasAssociatedWith niiri:73f79d40-b25f-11e9-9e00-003ee1ce9545 ] .
+
+niiri:01dd82ca-c393-11e9-a1c5-003ee1ce9545 a prov:Agent,
+        prov:SoftwareAgent ;
+    nidm:NIDM_0000164 fsl: .
+
+niiri:02b5e2fe-c394-11e9-8caf-003ee1ce9545 a prov:Activity ;
+    dct:description "FSL FAST/FIRST segmentation statistics" ;
+    prov:qualifiedAssociation [ a prov:Agent ;
+            prov:hadRole sio:Subject ;
+            prov:wasAssociatedWith niiri:73f7c39c-b25f-11e9-9e00-003ee1ce9545 ],
+        [ a prov:Agent ;
+            prov:hadRole nidm:NIDM_0000164 ;
+            prov:wasAssociatedWith niiri:02b5e86c-c394-11e9-8caf-003ee1ce9545 ] .
+
+niiri:02b5e86c-c394-11e9-8caf-003ee1ce9545 a prov:Agent,
+        prov:SoftwareAgent ;
+    nidm:NIDM_0000164 fsl: .
+
+niiri:0664b99e-c393-11e9-948c-003ee1ce9545 a prov:Activity ;
+    dct:description "FSL FAST/FIRST segmentation statistics" ;
+    prov:qualifiedAssociation [ a prov:Agent ;
+            prov:hadRole sio:Subject ;
+            prov:wasAssociatedWith niiri:73f6039a-b25f-11e9-9e00-003ee1ce9545 ],
+        [ a prov:Agent ;
+            prov:hadRole nidm:NIDM_0000164 ;
+            prov:wasAssociatedWith niiri:0664bf7a-c393-11e9-948c-003ee1ce9545 ] .
+
+niiri:0664bf7a-c393-11e9-948c-003ee1ce9545 a prov:Agent,
+        prov:SoftwareAgent ;
+    nidm:NIDM_0000164 fsl: .
 
 niiri:070ba868-b3de-11e9-9cf0-003ee1ce9545 a prov:Activity ;
     dct:description "Freesurfer segmentation statistics" ;
@@ -21482,6 +23665,45 @@ niiri:070bc9e2-b3de-11e9-9cf0-003ee1ce9545 a prov:Agent,
         prov:SoftwareAgent ;
     nidm:NIDM_0000164 freesurfer: .
 
+niiri:07819c6a-c394-11e9-8eb2-003ee1ce9545 a prov:Activity ;
+    dct:description "FSL FAST/FIRST segmentation statistics" ;
+    prov:qualifiedAssociation [ a prov:Agent ;
+            prov:hadRole nidm:NIDM_0000164 ;
+            prov:wasAssociatedWith niiri:0781a2d2-c394-11e9-8eb2-003ee1ce9545 ],
+        [ a prov:Agent ;
+            prov:hadRole sio:Subject ;
+            prov:wasAssociatedWith niiri:73f63ca2-b25f-11e9-9e00-003ee1ce9545 ] .
+
+niiri:0781a2d2-c394-11e9-8eb2-003ee1ce9545 a prov:Agent,
+        prov:SoftwareAgent ;
+    nidm:NIDM_0000164 fsl: .
+
+niiri:0ae3e9d6-c393-11e9-8542-003ee1ce9545 a prov:Activity ;
+    dct:description "FSL FAST/FIRST segmentation statistics" ;
+    prov:qualifiedAssociation [ a prov:Agent ;
+            prov:hadRole nidm:NIDM_0000164 ;
+            prov:wasAssociatedWith niiri:0ae3eee0-c393-11e9-8542-003ee1ce9545 ],
+        [ a prov:Agent ;
+            prov:hadRole sio:Subject ;
+            prov:wasAssociatedWith niiri:73f1d5cc-b25f-11e9-9e00-003ee1ce9545 ] .
+
+niiri:0ae3eee0-c393-11e9-8542-003ee1ce9545 a prov:Agent,
+        prov:SoftwareAgent ;
+    nidm:NIDM_0000164 fsl: .
+
+niiri:0c3bfd04-c394-11e9-ba72-003ee1ce9545 a prov:Activity ;
+    dct:description "FSL FAST/FIRST segmentation statistics" ;
+    prov:qualifiedAssociation [ a prov:Agent ;
+            prov:hadRole nidm:NIDM_0000164 ;
+            prov:wasAssociatedWith niiri:0c3c025e-c394-11e9-ba72-003ee1ce9545 ],
+        [ a prov:Agent ;
+            prov:hadRole sio:Subject ;
+            prov:wasAssociatedWith niiri:73f57934-b25f-11e9-9e00-003ee1ce9545 ] .
+
+niiri:0c3c025e-c394-11e9-ba72-003ee1ce9545 a prov:Agent,
+        prov:SoftwareAgent ;
+    nidm:NIDM_0000164 fsl: .
+
 niiri:0c9caaf2-b3de-11e9-8eef-003ee1ce9545 a prov:Activity ;
     dct:description "Freesurfer segmentation statistics" ;
     prov:qualifiedAssociation [ a prov:Agent ;
@@ -21519,6 +23741,32 @@ niiri:0c9caaf2-b3de-11e9-8eef-003ee1ce9545 a prov:Activity ;
 niiri:0c9ccc12-b3de-11e9-8eef-003ee1ce9545 a prov:Agent,
         prov:SoftwareAgent ;
     nidm:NIDM_0000164 freesurfer: .
+
+niiri:0f5effe6-c393-11e9-8fe8-003ee1ce9545 a prov:Activity ;
+    dct:description "FSL FAST/FIRST segmentation statistics" ;
+    prov:qualifiedAssociation [ a prov:Agent ;
+            prov:hadRole nidm:NIDM_0000164 ;
+            prov:wasAssociatedWith niiri:0f5f0536-c393-11e9-8fe8-003ee1ce9545 ],
+        [ a prov:Agent ;
+            prov:hadRole sio:Subject ;
+            prov:wasAssociatedWith niiri:73f32a9e-b25f-11e9-9e00-003ee1ce9545 ] .
+
+niiri:0f5f0536-c393-11e9-8fe8-003ee1ce9545 a prov:Agent,
+        prov:SoftwareAgent ;
+    nidm:NIDM_0000164 fsl: .
+
+niiri:1100b780-c394-11e9-a578-003ee1ce9545 a prov:Activity ;
+    dct:description "FSL FAST/FIRST segmentation statistics" ;
+    prov:qualifiedAssociation [ a prov:Agent ;
+            prov:hadRole nidm:NIDM_0000164 ;
+            prov:wasAssociatedWith niiri:1100be56-c394-11e9-a578-003ee1ce9545 ],
+        [ a prov:Agent ;
+            prov:hadRole sio:Subject ;
+            prov:wasAssociatedWith niiri:73f1bc5e-b25f-11e9-9e00-003ee1ce9545 ] .
+
+niiri:1100be56-c394-11e9-a578-003ee1ce9545 a prov:Agent,
+        prov:SoftwareAgent ;
+    nidm:NIDM_0000164 fsl: .
 
 niiri:11f477c8-b3de-11e9-89b6-003ee1ce9545 a prov:Activity ;
     dct:description "Freesurfer segmentation statistics" ;
@@ -21558,6 +23806,32 @@ niiri:11f49726-b3de-11e9-89b6-003ee1ce9545 a prov:Agent,
         prov:SoftwareAgent ;
     nidm:NIDM_0000164 freesurfer: .
 
+niiri:13db0df8-c393-11e9-b45b-003ee1ce9545 a prov:Activity ;
+    dct:description "FSL FAST/FIRST segmentation statistics" ;
+    prov:qualifiedAssociation [ a prov:Agent ;
+            prov:hadRole sio:Subject ;
+            prov:wasAssociatedWith niiri:73f5cb46-b25f-11e9-9e00-003ee1ce9545 ],
+        [ a prov:Agent ;
+            prov:hadRole nidm:NIDM_0000164 ;
+            prov:wasAssociatedWith niiri:13db14b0-c393-11e9-b45b-003ee1ce9545 ] .
+
+niiri:13db14b0-c393-11e9-b45b-003ee1ce9545 a prov:Agent,
+        prov:SoftwareAgent ;
+    nidm:NIDM_0000164 fsl: .
+
+niiri:15c425b8-c394-11e9-95c3-003ee1ce9545 a prov:Activity ;
+    dct:description "FSL FAST/FIRST segmentation statistics" ;
+    prov:qualifiedAssociation [ a prov:Agent ;
+            prov:hadRole sio:Subject ;
+            prov:wasAssociatedWith niiri:73f2808a-b25f-11e9-9e00-003ee1ce9545 ],
+        [ a prov:Agent ;
+            prov:hadRole nidm:NIDM_0000164 ;
+            prov:wasAssociatedWith niiri:15c42bc6-c394-11e9-95c3-003ee1ce9545 ] .
+
+niiri:15c42bc6-c394-11e9-95c3-003ee1ce9545 a prov:Agent,
+        prov:SoftwareAgent ;
+    nidm:NIDM_0000164 fsl: .
+
 niiri:17965e9e-b3de-11e9-8c01-003ee1ce9545 a prov:Activity ;
     dct:description "Freesurfer segmentation statistics" ;
     prov:qualifiedAssociation [ a prov:Agent ;
@@ -21595,6 +23869,45 @@ niiri:17965e9e-b3de-11e9-8c01-003ee1ce9545 a prov:Activity ;
 niiri:17967fc8-b3de-11e9-8c01-003ee1ce9545 a prov:Agent,
         prov:SoftwareAgent ;
     nidm:NIDM_0000164 freesurfer: .
+
+niiri:1846a38e-c393-11e9-acad-003ee1ce9545 a prov:Activity ;
+    dct:description "FSL FAST/FIRST segmentation statistics" ;
+    prov:qualifiedAssociation [ a prov:Agent ;
+            prov:hadRole sio:Subject ;
+            prov:wasAssociatedWith niiri:73f0dbea-b25f-11e9-9e00-003ee1ce9545 ],
+        [ a prov:Agent ;
+            prov:hadRole nidm:NIDM_0000164 ;
+            prov:wasAssociatedWith niiri:1846a988-c393-11e9-acad-003ee1ce9545 ] .
+
+niiri:1846a988-c393-11e9-acad-003ee1ce9545 a prov:Agent,
+        prov:SoftwareAgent ;
+    nidm:NIDM_0000164 fsl: .
+
+niiri:1a85249e-c394-11e9-9f95-003ee1ce9545 a prov:Activity ;
+    dct:description "FSL FAST/FIRST segmentation statistics" ;
+    prov:qualifiedAssociation [ a prov:Agent ;
+            prov:hadRole nidm:NIDM_0000164 ;
+            prov:wasAssociatedWith niiri:1a852b42-c394-11e9-9f95-003ee1ce9545 ],
+        [ a prov:Agent ;
+            prov:hadRole sio:Subject ;
+            prov:wasAssociatedWith niiri:73f3cb2a-b25f-11e9-9e00-003ee1ce9545 ] .
+
+niiri:1a852b42-c394-11e9-9f95-003ee1ce9545 a prov:Agent,
+        prov:SoftwareAgent ;
+    nidm:NIDM_0000164 fsl: .
+
+niiri:1cbb875e-c393-11e9-9704-003ee1ce9545 a prov:Activity ;
+    dct:description "FSL FAST/FIRST segmentation statistics" ;
+    prov:qualifiedAssociation [ a prov:Agent ;
+            prov:hadRole nidm:NIDM_0000164 ;
+            prov:wasAssociatedWith niiri:1cbb8e52-c393-11e9-9704-003ee1ce9545 ],
+        [ a prov:Agent ;
+            prov:hadRole sio:Subject ;
+            prov:wasAssociatedWith niiri:73f43786-b25f-11e9-9e00-003ee1ce9545 ] .
+
+niiri:1cbb8e52-c393-11e9-9704-003ee1ce9545 a prov:Agent,
+        prov:SoftwareAgent ;
+    nidm:NIDM_0000164 fsl: .
 
 niiri:1d252f52-b3de-11e9-88d7-003ee1ce9545 a prov:Activity ;
     dct:description "Freesurfer segmentation statistics" ;
@@ -21634,6 +23947,32 @@ niiri:1d254dac-b3de-11e9-88d7-003ee1ce9545 a prov:Agent,
         prov:SoftwareAgent ;
     nidm:NIDM_0000164 freesurfer: .
 
+niiri:1f442138-c394-11e9-8681-003ee1ce9545 a prov:Activity ;
+    dct:description "FSL FAST/FIRST segmentation statistics" ;
+    prov:qualifiedAssociation [ a prov:Agent ;
+            prov:hadRole sio:Subject ;
+            prov:wasAssociatedWith niiri:73f45112-b25f-11e9-9e00-003ee1ce9545 ],
+        [ a prov:Agent ;
+            prov:hadRole nidm:NIDM_0000164 ;
+            prov:wasAssociatedWith niiri:1f4426e2-c394-11e9-8681-003ee1ce9545 ] .
+
+niiri:1f4426e2-c394-11e9-8681-003ee1ce9545 a prov:Agent,
+        prov:SoftwareAgent ;
+    nidm:NIDM_0000164 fsl: .
+
+niiri:212df196-c393-11e9-a438-003ee1ce9545 a prov:Activity ;
+    dct:description "FSL FAST/FIRST segmentation statistics" ;
+    prov:qualifiedAssociation [ a prov:Agent ;
+            prov:hadRole nidm:NIDM_0000164 ;
+            prov:wasAssociatedWith niiri:212df9ca-c393-11e9-a438-003ee1ce9545 ],
+        [ a prov:Agent ;
+            prov:hadRole sio:Subject ;
+            prov:wasAssociatedWith niiri:73f4aad6-b25f-11e9-9e00-003ee1ce9545 ] .
+
+niiri:212df9ca-c393-11e9-a438-003ee1ce9545 a prov:Agent,
+        prov:SoftwareAgent ;
+    nidm:NIDM_0000164 fsl: .
+
 niiri:22ba5eb0-b3de-11e9-ab5c-003ee1ce9545 a prov:Activity ;
     dct:description "Freesurfer segmentation statistics" ;
     prov:qualifiedAssociation [ a prov:Agent ;
@@ -21671,6 +24010,32 @@ niiri:22ba5eb0-b3de-11e9-ab5c-003ee1ce9545 a prov:Activity ;
 niiri:22ba7fc6-b3de-11e9-ab5c-003ee1ce9545 a prov:Agent,
         prov:SoftwareAgent ;
     nidm:NIDM_0000164 freesurfer: .
+
+niiri:240b0c0e-c394-11e9-9900-003ee1ce9545 a prov:Activity ;
+    dct:description "FSL FAST/FIRST segmentation statistics" ;
+    prov:qualifiedAssociation [ a prov:Agent ;
+            prov:hadRole sio:Subject ;
+            prov:wasAssociatedWith niiri:73f48ace-b25f-11e9-9e00-003ee1ce9545 ],
+        [ a prov:Agent ;
+            prov:hadRole nidm:NIDM_0000164 ;
+            prov:wasAssociatedWith niiri:240b119a-c394-11e9-9900-003ee1ce9545 ] .
+
+niiri:240b119a-c394-11e9-9900-003ee1ce9545 a prov:Agent,
+        prov:SoftwareAgent ;
+    nidm:NIDM_0000164 fsl: .
+
+niiri:25998b6e-c393-11e9-8c08-003ee1ce9545 a prov:Activity ;
+    dct:description "FSL FAST/FIRST segmentation statistics" ;
+    prov:qualifiedAssociation [ a prov:Agent ;
+            prov:hadRole sio:Subject ;
+            prov:wasAssociatedWith niiri:73f6e6ac-b25f-11e9-9e00-003ee1ce9545 ],
+        [ a prov:Agent ;
+            prov:hadRole nidm:NIDM_0000164 ;
+            prov:wasAssociatedWith niiri:25999082-c393-11e9-8c08-003ee1ce9545 ] .
+
+niiri:25999082-c393-11e9-8c08-003ee1ce9545 a prov:Agent,
+        prov:SoftwareAgent ;
+    nidm:NIDM_0000164 fsl: .
 
 niiri:282d17a2-b3de-11e9-81a6-003ee1ce9545 a prov:Activity ;
     dct:description "Freesurfer segmentation statistics" ;
@@ -21710,6 +24075,45 @@ niiri:282d38e0-b3de-11e9-81a6-003ee1ce9545 a prov:Agent,
         prov:SoftwareAgent ;
     nidm:NIDM_0000164 freesurfer: .
 
+niiri:28cc6986-c394-11e9-866e-003ee1ce9545 a prov:Activity ;
+    dct:description "FSL FAST/FIRST segmentation statistics" ;
+    prov:qualifiedAssociation [ a prov:Agent ;
+            prov:hadRole nidm:NIDM_0000164 ;
+            prov:wasAssociatedWith niiri:28cc6ef4-c394-11e9-866e-003ee1ce9545 ],
+        [ a prov:Agent ;
+            prov:hadRole sio:Subject ;
+            prov:wasAssociatedWith niiri:73f121ae-b25f-11e9-9e00-003ee1ce9545 ] .
+
+niiri:28cc6ef4-c394-11e9-866e-003ee1ce9545 a prov:Agent,
+        prov:SoftwareAgent ;
+    nidm:NIDM_0000164 fsl: .
+
+niiri:2a005e12-c393-11e9-a8be-003ee1ce9545 a prov:Activity ;
+    dct:description "FSL FAST/FIRST segmentation statistics" ;
+    prov:qualifiedAssociation [ a prov:Agent ;
+            prov:hadRole nidm:NIDM_0000164 ;
+            prov:wasAssociatedWith niiri:2a0064c0-c393-11e9-a8be-003ee1ce9545 ],
+        [ a prov:Agent ;
+            prov:hadRole sio:Subject ;
+            prov:wasAssociatedWith niiri:73f7817a-b25f-11e9-9e00-003ee1ce9545 ] .
+
+niiri:2a0064c0-c393-11e9-a8be-003ee1ce9545 a prov:Agent,
+        prov:SoftwareAgent ;
+    nidm:NIDM_0000164 fsl: .
+
+niiri:2d8383ce-c394-11e9-b4fb-003ee1ce9545 a prov:Activity ;
+    dct:description "FSL FAST/FIRST segmentation statistics" ;
+    prov:qualifiedAssociation [ a prov:Agent ;
+            prov:hadRole nidm:NIDM_0000164 ;
+            prov:wasAssociatedWith niiri:2d838982-c394-11e9-b4fb-003ee1ce9545 ],
+        [ a prov:Agent ;
+            prov:hadRole sio:Subject ;
+            prov:wasAssociatedWith niiri:73f74926-b25f-11e9-9e00-003ee1ce9545 ] .
+
+niiri:2d838982-c394-11e9-b4fb-003ee1ce9545 a prov:Agent,
+        prov:SoftwareAgent ;
+    nidm:NIDM_0000164 fsl: .
+
 niiri:2dcd44d4-b3de-11e9-ba6b-003ee1ce9545 a prov:Activity ;
     dct:description "Freesurfer segmentation statistics" ;
     prov:qualifiedAssociation [ a prov:Agent ;
@@ -21748,6 +24152,19 @@ niiri:2dcd6450-b3de-11e9-ba6b-003ee1ce9545 a prov:Agent,
         prov:SoftwareAgent ;
     nidm:NIDM_0000164 freesurfer: .
 
+niiri:2e6a0b42-c393-11e9-8b79-003ee1ce9545 a prov:Activity ;
+    dct:description "FSL FAST/FIRST segmentation statistics" ;
+    prov:qualifiedAssociation [ a prov:Agent ;
+            prov:hadRole nidm:NIDM_0000164 ;
+            prov:wasAssociatedWith niiri:2e6a11a0-c393-11e9-8b79-003ee1ce9545 ],
+        [ a prov:Agent ;
+            prov:hadRole sio:Subject ;
+            prov:wasAssociatedWith niiri:73f80d52-b25f-11e9-9e00-003ee1ce9545 ] .
+
+niiri:2e6a11a0-c393-11e9-8b79-003ee1ce9545 a prov:Agent,
+        prov:SoftwareAgent ;
+    nidm:NIDM_0000164 fsl: .
+
 niiri:306dadce-b3dd-11e9-8750-003ee1ce9545 a prov:Activity ;
     dct:description "Freesurfer segmentation statistics" ;
     prov:qualifiedAssociation [ a prov:Agent ;
@@ -21785,6 +24202,19 @@ niiri:306dadce-b3dd-11e9-8750-003ee1ce9545 a prov:Activity ;
 niiri:306dd13c-b3dd-11e9-8750-003ee1ce9545 a prov:Agent,
         prov:SoftwareAgent ;
     nidm:NIDM_0000164 freesurfer: .
+
+niiri:32e24612-c393-11e9-8c9f-003ee1ce9545 a prov:Activity ;
+    dct:description "FSL FAST/FIRST segmentation statistics" ;
+    prov:qualifiedAssociation [ a prov:Agent ;
+            prov:hadRole sio:Subject ;
+            prov:wasAssociatedWith niiri:73f343b2-b25f-11e9-9e00-003ee1ce9545 ],
+        [ a prov:Agent ;
+            prov:hadRole nidm:NIDM_0000164 ;
+            prov:wasAssociatedWith niiri:32e24bb2-c393-11e9-8c9f-003ee1ce9545 ] .
+
+niiri:32e24bb2-c393-11e9-8c9f-003ee1ce9545 a prov:Agent,
+        prov:SoftwareAgent ;
+    nidm:NIDM_0000164 fsl: .
 
 niiri:33681b12-b3de-11e9-8d5a-003ee1ce9545 a prov:Activity ;
     dct:description "Freesurfer segmentation statistics" ;
@@ -21862,6 +24292,19 @@ niiri:344a62c0-b3dd-11e9-96be-003ee1ce9545 a prov:Agent,
         prov:SoftwareAgent ;
     nidm:NIDM_0000164 freesurfer: .
 
+niiri:37679764-c393-11e9-9b25-003ee1ce9545 a prov:Activity ;
+    dct:description "FSL FAST/FIRST segmentation statistics" ;
+    prov:qualifiedAssociation [ a prov:Agent ;
+            prov:hadRole sio:Subject ;
+            prov:wasAssociatedWith niiri:73f82fd0-b25f-11e9-9e00-003ee1ce9545 ],
+        [ a prov:Agent ;
+            prov:hadRole nidm:NIDM_0000164 ;
+            prov:wasAssociatedWith niiri:37679c8c-c393-11e9-9b25-003ee1ce9545 ] .
+
+niiri:37679c8c-c393-11e9-9b25-003ee1ce9545 a prov:Agent,
+        prov:SoftwareAgent ;
+    nidm:NIDM_0000164 fsl: .
+
 niiri:38432272-b3dd-11e9-84f7-003ee1ce9545 a prov:Activity ;
     dct:description "Freesurfer segmentation statistics" ;
     prov:qualifiedAssociation [ a prov:Agent ;
@@ -21937,6 +24380,19 @@ niiri:391a63e4-b3de-11e9-8273-003ee1ce9545 a prov:Activity ;
 niiri:391a8752-b3de-11e9-8273-003ee1ce9545 a prov:Agent,
         prov:SoftwareAgent ;
     nidm:NIDM_0000164 freesurfer: .
+
+niiri:3bddc6c4-c393-11e9-aa3f-003ee1ce9545 a prov:Activity ;
+    dct:description "FSL FAST/FIRST segmentation statistics" ;
+    prov:qualifiedAssociation [ a prov:Agent ;
+            prov:hadRole sio:Subject ;
+            prov:wasAssociatedWith niiri:73f3096a-b25f-11e9-9e00-003ee1ce9545 ],
+        [ a prov:Agent ;
+            prov:hadRole nidm:NIDM_0000164 ;
+            prov:wasAssociatedWith niiri:3bddcc6e-c393-11e9-aa3f-003ee1ce9545 ] .
+
+niiri:3bddcc6e-c393-11e9-aa3f-003ee1ce9545 a prov:Agent,
+        prov:SoftwareAgent ;
+    nidm:NIDM_0000164 fsl: .
 
 niiri:3c3947ee-b3dd-11e9-bddb-003ee1ce9545 a prov:Activity ;
     dct:description "Freesurfer segmentation statistics" ;
@@ -22052,6 +24508,19 @@ niiri:4041b1a0-b3dd-11e9-a34a-003ee1ce9545 a prov:Agent,
         prov:SoftwareAgent ;
     nidm:NIDM_0000164 freesurfer: .
 
+niiri:406227bc-c393-11e9-874d-003ee1ce9545 a prov:Activity ;
+    dct:description "FSL FAST/FIRST segmentation statistics" ;
+    prov:qualifiedAssociation [ a prov:Agent ;
+            prov:hadRole nidm:NIDM_0000164 ;
+            prov:wasAssociatedWith niiri:40622ee2-c393-11e9-874d-003ee1ce9545 ],
+        [ a prov:Agent ;
+            prov:hadRole sio:Subject ;
+            prov:wasAssociatedWith niiri:73f1737a-b25f-11e9-9e00-003ee1ce9545 ] .
+
+niiri:40622ee2-c393-11e9-874d-003ee1ce9545 a prov:Agent,
+        prov:SoftwareAgent ;
+    nidm:NIDM_0000164 fsl: .
+
 niiri:4459afc2-b3dd-11e9-8282-003ee1ce9545 a prov:Activity ;
     dct:description "Freesurfer segmentation statistics" ;
     prov:qualifiedAssociation [ a prov:Agent ;
@@ -22128,6 +24597,19 @@ niiri:44b3f378-b3de-11e9-8756-003ee1ce9545 a prov:Agent,
         prov:SoftwareAgent ;
     nidm:NIDM_0000164 freesurfer: .
 
+niiri:44e84a6e-c393-11e9-adf4-003ee1ce9545 a prov:Activity ;
+    dct:description "FSL FAST/FIRST segmentation statistics" ;
+    prov:qualifiedAssociation [ a prov:Agent ;
+            prov:hadRole nidm:NIDM_0000164 ;
+            prov:wasAssociatedWith niiri:44e850b8-c393-11e9-adf4-003ee1ce9545 ],
+        [ a prov:Agent ;
+            prov:hadRole sio:Subject ;
+            prov:wasAssociatedWith niiri:73f390ba-b25f-11e9-9e00-003ee1ce9545 ] .
+
+niiri:44e850b8-c393-11e9-adf4-003ee1ce9545 a prov:Agent,
+        prov:SoftwareAgent ;
+    nidm:NIDM_0000164 fsl: .
+
 niiri:486f7eca-b3dd-11e9-8e07-003ee1ce9545 a prov:Activity ;
     dct:description "Freesurfer segmentation statistics" ;
     prov:qualifiedAssociation [ a prov:Agent ;
@@ -22165,6 +24647,19 @@ niiri:486f7eca-b3dd-11e9-8e07-003ee1ce9545 a prov:Activity ;
 niiri:486fa062-b3dd-11e9-8e07-003ee1ce9545 a prov:Agent,
         prov:SoftwareAgent ;
     nidm:NIDM_0000164 freesurfer: .
+
+niiri:49545430-c393-11e9-8dff-003ee1ce9545 a prov:Activity ;
+    dct:description "FSL FAST/FIRST segmentation statistics" ;
+    prov:qualifiedAssociation [ a prov:Agent ;
+            prov:hadRole sio:Subject ;
+            prov:wasAssociatedWith niiri:73f5452c-b25f-11e9-9e00-003ee1ce9545 ],
+        [ a prov:Agent ;
+            prov:hadRole nidm:NIDM_0000164 ;
+            prov:wasAssociatedWith niiri:495459f8-c393-11e9-8dff-003ee1ce9545 ] .
+
+niiri:495459f8-c393-11e9-8dff-003ee1ce9545 a prov:Agent,
+        prov:SoftwareAgent ;
+    nidm:NIDM_0000164 fsl: .
 
 niiri:4a5602f8-b3de-11e9-8e3b-003ee1ce9545 a prov:Activity ;
     dct:description "Freesurfer segmentation statistics" ;
@@ -22242,6 +24737,19 @@ niiri:4c8ce042-b3dd-11e9-89a3-003ee1ce9545 a prov:Agent,
         prov:SoftwareAgent ;
     nidm:NIDM_0000164 freesurfer: .
 
+niiri:4dd09a6e-c393-11e9-886e-003ee1ce9545 a prov:Activity ;
+    dct:description "FSL FAST/FIRST segmentation statistics" ;
+    prov:qualifiedAssociation [ a prov:Agent ;
+            prov:hadRole nidm:NIDM_0000164 ;
+            prov:wasAssociatedWith niiri:4dd0a068-c393-11e9-886e-003ee1ce9545 ],
+        [ a prov:Agent ;
+            prov:hadRole sio:Subject ;
+            prov:wasAssociatedWith niiri:73f13e28-b25f-11e9-9e00-003ee1ce9545 ] .
+
+niiri:4dd0a068-c393-11e9-886e-003ee1ce9545 a prov:Agent,
+        prov:SoftwareAgent ;
+    nidm:NIDM_0000164 fsl: .
+
 niiri:5018cf7c-b3de-11e9-b098-003ee1ce9545 a prov:Activity ;
     dct:description "Freesurfer segmentation statistics" ;
     prov:qualifiedAssociation [ a prov:Agent ;
@@ -22317,6 +24825,19 @@ niiri:50be29fa-b3dd-11e9-8dc2-003ee1ce9545 a prov:Activity ;
 niiri:50be478c-b3dd-11e9-8dc2-003ee1ce9545 a prov:Agent,
         prov:SoftwareAgent ;
     nidm:NIDM_0000164 freesurfer: .
+
+niiri:524b79ce-c393-11e9-bb67-003ee1ce9545 a prov:Activity ;
+    dct:description "FSL FAST/FIRST segmentation statistics" ;
+    prov:qualifiedAssociation [ a prov:Agent ;
+            prov:hadRole nidm:NIDM_0000164 ;
+            prov:wasAssociatedWith niiri:524b8090-c393-11e9-bb67-003ee1ce9545 ],
+        [ a prov:Agent ;
+            prov:hadRole sio:Subject ;
+            prov:wasAssociatedWith niiri:73f3aac8-b25f-11e9-9e00-003ee1ce9545 ] .
+
+niiri:524b8090-c393-11e9-bb67-003ee1ce9545 a prov:Agent,
+        prov:SoftwareAgent ;
+    nidm:NIDM_0000164 fsl: .
 
 niiri:54ec62c6-b3dd-11e9-83d9-003ee1ce9545 a prov:Activity ;
     dct:description "Freesurfer segmentation statistics" ;
@@ -22394,6 +24915,19 @@ niiri:55db2fcc-b3de-11e9-89f3-003ee1ce9545 a prov:Agent,
         prov:SoftwareAgent ;
     nidm:NIDM_0000164 freesurfer: .
 
+niiri:56f5deb0-c393-11e9-8b8b-003ee1ce9545 a prov:Activity ;
+    dct:description "FSL FAST/FIRST segmentation statistics" ;
+    prov:qualifiedAssociation [ a prov:Agent ;
+            prov:hadRole sio:Subject ;
+            prov:wasAssociatedWith niiri:73f46c56-b25f-11e9-9e00-003ee1ce9545 ],
+        [ a prov:Agent ;
+            prov:hadRole nidm:NIDM_0000164 ;
+            prov:wasAssociatedWith niiri:56f5e5ea-c393-11e9-8b8b-003ee1ce9545 ] .
+
+niiri:56f5e5ea-c393-11e9-8b8b-003ee1ce9545 a prov:Agent,
+        prov:SoftwareAgent ;
+    nidm:NIDM_0000164 fsl: .
+
 niiri:5932bd80-b3dd-11e9-acf2-003ee1ce9545 a prov:Activity ;
     dct:description "Freesurfer segmentation statistics" ;
     prov:qualifiedAssociation [ a prov:Agent ;
@@ -22431,6 +24965,19 @@ niiri:5932bd80-b3dd-11e9-acf2-003ee1ce9545 a prov:Activity ;
 niiri:5932de64-b3dd-11e9-acf2-003ee1ce9545 a prov:Agent,
         prov:SoftwareAgent ;
     nidm:NIDM_0000164 freesurfer: .
+
+niiri:5b921128-c393-11e9-9474-003ee1ce9545 a prov:Activity ;
+    dct:description "FSL FAST/FIRST segmentation statistics" ;
+    prov:qualifiedAssociation [ a prov:Agent ;
+            prov:hadRole sio:Subject ;
+            prov:wasAssociatedWith niiri:73f22784-b25f-11e9-9e00-003ee1ce9545 ],
+        [ a prov:Agent ;
+            prov:hadRole nidm:NIDM_0000164 ;
+            prov:wasAssociatedWith niiri:5b9216c8-c393-11e9-9474-003ee1ce9545 ] .
+
+niiri:5b9216c8-c393-11e9-9474-003ee1ce9545 a prov:Agent,
+        prov:SoftwareAgent ;
+    nidm:NIDM_0000164 fsl: .
 
 niiri:5bb2bfc8-b3de-11e9-bed4-003ee1ce9545 a prov:Activity ;
     dct:description "Freesurfer segmentation statistics" ;
@@ -22508,6 +25055,19 @@ niiri:5d8de260-b3dd-11e9-98c8-003ee1ce9545 a prov:Agent,
         prov:SoftwareAgent ;
     nidm:NIDM_0000164 freesurfer: .
 
+niiri:601e39f6-c393-11e9-acdb-003ee1ce9545 a prov:Activity ;
+    dct:description "FSL FAST/FIRST segmentation statistics" ;
+    prov:qualifiedAssociation [ a prov:Agent ;
+            prov:hadRole nidm:NIDM_0000164 ;
+            prov:wasAssociatedWith niiri:601e3fc8-c393-11e9-acdb-003ee1ce9545 ],
+        [ a prov:Agent ;
+            prov:hadRole sio:Subject ;
+            prov:wasAssociatedWith niiri:73f5e77a-b25f-11e9-9e00-003ee1ce9545 ] .
+
+niiri:601e3fc8-c393-11e9-acdb-003ee1ce9545 a prov:Agent,
+        prov:SoftwareAgent ;
+    nidm:NIDM_0000164 fsl: .
+
 niiri:619efd7a-b3de-11e9-bde6-003ee1ce9545 a prov:Activity ;
     dct:description "Freesurfer segmentation statistics" ;
     prov:qualifiedAssociation [ a prov:Agent ;
@@ -22583,6 +25143,19 @@ niiri:61fa6d96-b3dd-11e9-a7ea-003ee1ce9545 a prov:Activity ;
 niiri:61fa8eb6-b3dd-11e9-a7ea-003ee1ce9545 a prov:Agent,
         prov:SoftwareAgent ;
     nidm:NIDM_0000164 freesurfer: .
+
+niiri:64a498d0-c393-11e9-9460-003ee1ce9545 a prov:Activity ;
+    dct:description "FSL FAST/FIRST segmentation statistics" ;
+    prov:qualifiedAssociation [ a prov:Agent ;
+            prov:hadRole nidm:NIDM_0000164 ;
+            prov:wasAssociatedWith niiri:64a49ed4-c393-11e9-9460-003ee1ce9545 ],
+        [ a prov:Agent ;
+            prov:hadRole sio:Subject ;
+            prov:wasAssociatedWith niiri:73f1566a-b25f-11e9-9e00-003ee1ce9545 ] .
+
+niiri:64a49ed4-c393-11e9-9460-003ee1ce9545 a prov:Agent,
+        prov:SoftwareAgent ;
+    nidm:NIDM_0000164 fsl: .
 
 niiri:6649ddbe-b3dd-11e9-b4be-003ee1ce9545 a prov:Activity ;
     dct:description "Freesurfer segmentation statistics" ;
@@ -22660,6 +25233,19 @@ niiri:6777279a-b3de-11e9-9e7d-003ee1ce9545 a prov:Agent,
         prov:SoftwareAgent ;
     nidm:NIDM_0000164 freesurfer: .
 
+niiri:692b7c84-c393-11e9-a844-003ee1ce9545 a prov:Activity ;
+    dct:description "FSL FAST/FIRST segmentation statistics" ;
+    prov:qualifiedAssociation [ a prov:Agent ;
+            prov:hadRole nidm:NIDM_0000164 ;
+            prov:wasAssociatedWith niiri:692b838c-c393-11e9-a844-003ee1ce9545 ],
+        [ a prov:Agent ;
+            prov:hadRole sio:Subject ;
+            prov:wasAssociatedWith niiri:73f3e470-b25f-11e9-9e00-003ee1ce9545 ] .
+
+niiri:692b838c-c393-11e9-a844-003ee1ce9545 a prov:Agent,
+        prov:SoftwareAgent ;
+    nidm:NIDM_0000164 fsl: .
+
 niiri:6a9849aa-b3dd-11e9-9104-003ee1ce9545 a prov:Activity ;
     dct:description "Freesurfer segmentation statistics" ;
     prov:qualifiedAssociation [ a prov:Agent ;
@@ -22736,6 +25322,19 @@ niiri:6d4a1074-b3de-11e9-8f05-003ee1ce9545 a prov:Agent,
         prov:SoftwareAgent ;
     nidm:NIDM_0000164 freesurfer: .
 
+niiri:6db60c38-c393-11e9-80a6-003ee1ce9545 a prov:Activity ;
+    dct:description "FSL FAST/FIRST segmentation statistics" ;
+    prov:qualifiedAssociation [ a prov:Agent ;
+            prov:hadRole sio:Subject ;
+            prov:wasAssociatedWith niiri:73f10958-b25f-11e9-9e00-003ee1ce9545 ],
+        [ a prov:Agent ;
+            prov:hadRole nidm:NIDM_0000164 ;
+            prov:wasAssociatedWith niiri:6db61322-c393-11e9-80a6-003ee1ce9545 ] .
+
+niiri:6db61322-c393-11e9-80a6-003ee1ce9545 a prov:Agent,
+        prov:SoftwareAgent ;
+    nidm:NIDM_0000164 fsl: .
+
 niiri:6f0225ba-b3dd-11e9-8d7f-003ee1ce9545 a prov:Activity ;
     dct:description "Freesurfer segmentation statistics" ;
     prov:qualifiedAssociation [ a prov:Agent ;
@@ -22773,6 +25372,19 @@ niiri:6f0225ba-b3dd-11e9-8d7f-003ee1ce9545 a prov:Activity ;
 niiri:6f0245d6-b3dd-11e9-8d7f-003ee1ce9545 a prov:Agent,
         prov:SoftwareAgent ;
     nidm:NIDM_0000164 freesurfer: .
+
+niiri:7240784c-c393-11e9-9dc3-003ee1ce9545 a prov:Activity ;
+    dct:description "FSL FAST/FIRST segmentation statistics" ;
+    prov:qualifiedAssociation [ a prov:Agent ;
+            prov:hadRole nidm:NIDM_0000164 ;
+            prov:wasAssociatedWith niiri:72407ed2-c393-11e9-9dc3-003ee1ce9545 ],
+        [ a prov:Agent ;
+            prov:hadRole sio:Subject ;
+            prov:wasAssociatedWith niiri:73f7e548-b25f-11e9-9e00-003ee1ce9545 ] .
+
+niiri:72407ed2-c393-11e9-9dc3-003ee1ce9545 a prov:Agent,
+        prov:SoftwareAgent ;
+    nidm:NIDM_0000164 fsl: .
 
 niiri:732de59c-b3de-11e9-a624-003ee1ce9545 a prov:Activity ;
     dct:description "Freesurfer segmentation statistics" ;
@@ -23613,6 +26225,19 @@ niiri:7694c78a-b25f-11e9-9e00-003ee1ce9545 a nidm:Acquisition,
             prov:hadRole sio:Subject ] ;
     prov:wasAssociatedWith niiri:73f2ef84-b25f-11e9-9e00-003ee1ce9545 .
 
+niiri:76bf7936-c393-11e9-8160-003ee1ce9545 a prov:Activity ;
+    dct:description "FSL FAST/FIRST segmentation statistics" ;
+    prov:qualifiedAssociation [ a prov:Agent ;
+            prov:hadRole nidm:NIDM_0000164 ;
+            prov:wasAssociatedWith niiri:76bf7e86-c393-11e9-8160-003ee1ce9545 ],
+        [ a prov:Agent ;
+            prov:hadRole sio:Subject ;
+            prov:wasAssociatedWith niiri:73f2ef84-b25f-11e9-9e00-003ee1ce9545 ] .
+
+niiri:76bf7e86-c393-11e9-8160-003ee1ce9545 a prov:Agent,
+        prov:SoftwareAgent ;
+    nidm:NIDM_0000164 fsl: .
+
 niiri:76c759de-b25f-11e9-9e00-003ee1ce9545 a nidm:Acquisition,
         prov:Activity ;
     dct:isPartOf niiri:73f5f904-b25f-11e9-9e00-003ee1ce9545 ;
@@ -23993,6 +26618,19 @@ niiri:7b5204a4-b25f-11e9-9e00-003ee1ce9545 a nidm:Acquisition,
             prov:hadRole sio:Subject ] ;
     prov:wasAssociatedWith niiri:73f121ae-b25f-11e9-9e00-003ee1ce9545 .
 
+niiri:7b533a5a-c393-11e9-9071-003ee1ce9545 a prov:Activity ;
+    dct:description "FSL FAST/FIRST segmentation statistics" ;
+    prov:qualifiedAssociation [ a prov:Agent ;
+            prov:hadRole nidm:NIDM_0000164 ;
+            prov:wasAssociatedWith niiri:7b534040-c393-11e9-9071-003ee1ce9545 ],
+        [ a prov:Agent ;
+            prov:hadRole sio:Subject ;
+            prov:wasAssociatedWith niiri:73f69116-b25f-11e9-9e00-003ee1ce9545 ] .
+
+niiri:7b534040-c393-11e9-9071-003ee1ce9545 a prov:Agent,
+        prov:SoftwareAgent ;
+    nidm:NIDM_0000164 fsl: .
+
 niiri:7b868954-b25f-11e9-9e00-003ee1ce9545 a nidm:Acquisition,
         prov:Activity ;
     dct:isPartOf niiri:73f4dd62-b25f-11e9-9e00-003ee1ce9545 ;
@@ -24310,6 +26948,19 @@ niiri:7fdfee6e-b25f-11e9-9e00-003ee1ce9545 a nidm:Acquisition,
             prov:agent niiri:73f65908-b25f-11e9-9e00-003ee1ce9545 ;
             prov:hadRole sio:Subject ] ;
     prov:wasAssociatedWith niiri:73f65908-b25f-11e9-9e00-003ee1ce9545 .
+
+niiri:7fec7cde-c393-11e9-a45c-003ee1ce9545 a prov:Activity ;
+    dct:description "FSL FAST/FIRST segmentation statistics" ;
+    prov:qualifiedAssociation [ a prov:Agent ;
+            prov:hadRole nidm:NIDM_0000164 ;
+            prov:wasAssociatedWith niiri:7fec82ba-c393-11e9-a45c-003ee1ce9545 ],
+        [ a prov:Agent ;
+            prov:hadRole sio:Subject ;
+            prov:wasAssociatedWith niiri:73f20ace-b25f-11e9-9e00-003ee1ce9545 ] .
+
+niiri:7fec82ba-c393-11e9-a45c-003ee1ce9545 a prov:Agent,
+        prov:SoftwareAgent ;
+    nidm:NIDM_0000164 fsl: .
 
 niiri:7fec8c46-b25f-11e9-9e00-003ee1ce9545 a nidm:Acquisition,
         prov:Activity ;
@@ -24645,6 +27296,19 @@ niiri:8484e88e-b25f-11e9-9e00-003ee1ce9545 a nidm:Acquisition,
             prov:hadRole sio:Subject ] ;
     prov:wasAssociatedWith niiri:73f6e6ac-b25f-11e9-9e00-003ee1ce9545 .
 
+niiri:8486fa08-c393-11e9-ada6-003ee1ce9545 a prov:Activity ;
+    dct:description "FSL FAST/FIRST segmentation statistics" ;
+    prov:qualifiedAssociation [ a prov:Agent ;
+            prov:hadRole sio:Subject ;
+            prov:wasAssociatedWith niiri:73f4cbce-b25f-11e9-9e00-003ee1ce9545 ],
+        [ a prov:Agent ;
+            prov:hadRole nidm:NIDM_0000164 ;
+            prov:wasAssociatedWith niiri:84870066-c393-11e9-ada6-003ee1ce9545 ] .
+
+niiri:84870066-c393-11e9-ada6-003ee1ce9545 a prov:Agent,
+        prov:SoftwareAgent ;
+    nidm:NIDM_0000164 fsl: .
+
 niiri:84b999f8-b25f-11e9-9e00-003ee1ce9545 a nidm:Acquisition,
         prov:Activity ;
     dct:isPartOf niiri:73f44762-b25f-11e9-9e00-003ee1ce9545 ;
@@ -24715,6 +27379,19 @@ niiri:85208f62-b3dd-11e9-97ae-003ee1ce9545 a prov:Agent,
         prov:SoftwareAgent ;
     nidm:NIDM_0000164 freesurfer: .
 
+niiri:8908eef6-c393-11e9-a5c3-003ee1ce9545 a prov:Activity ;
+    dct:description "FSL FAST/FIRST segmentation statistics" ;
+    prov:qualifiedAssociation [ a prov:Agent ;
+            prov:hadRole nidm:NIDM_0000164 ;
+            prov:wasAssociatedWith niiri:8908f590-c393-11e9-a5c3-003ee1ce9545 ],
+        [ a prov:Agent ;
+            prov:hadRole sio:Subject ;
+            prov:wasAssociatedWith niiri:73f8578a-b25f-11e9-9e00-003ee1ce9545 ] .
+
+niiri:8908f590-c393-11e9-a5c3-003ee1ce9545 a prov:Agent,
+        prov:SoftwareAgent ;
+    nidm:NIDM_0000164 fsl: .
+
 niiri:89c4cd08-b3dd-11e9-9184-003ee1ce9545 a prov:Activity ;
     dct:description "Freesurfer segmentation statistics" ;
     prov:qualifiedAssociation [ a prov:Agent ;
@@ -24752,6 +27429,19 @@ niiri:89c4cd08-b3dd-11e9-9184-003ee1ce9545 a prov:Activity ;
 niiri:89c4eeaa-b3dd-11e9-9184-003ee1ce9545 a prov:Agent,
         prov:SoftwareAgent ;
     nidm:NIDM_0000164 freesurfer: .
+
+niiri:8dab05b6-c393-11e9-8584-003ee1ce9545 a prov:Activity ;
+    dct:description "FSL FAST/FIRST segmentation statistics" ;
+    prov:qualifiedAssociation [ a prov:Agent ;
+            prov:hadRole nidm:NIDM_0000164 ;
+            prov:wasAssociatedWith niiri:8dab0bc4-c393-11e9-8584-003ee1ce9545 ],
+        [ a prov:Agent ;
+            prov:hadRole sio:Subject ;
+            prov:wasAssociatedWith niiri:73f1ee54-b25f-11e9-9e00-003ee1ce9545 ] .
+
+niiri:8dab0bc4-c393-11e9-8584-003ee1ce9545 a prov:Agent,
+        prov:SoftwareAgent ;
+    nidm:NIDM_0000164 fsl: .
 
 niiri:8e499836-b3dd-11e9-a197-003ee1ce9545 a prov:Activity ;
     dct:description "Freesurfer segmentation statistics" ;
@@ -24791,6 +27481,19 @@ niiri:8e49b6fe-b3dd-11e9-a197-003ee1ce9545 a prov:Agent,
         prov:SoftwareAgent ;
     nidm:NIDM_0000164 freesurfer: .
 
+niiri:9248b564-c393-11e9-b620-003ee1ce9545 a prov:Activity ;
+    dct:description "FSL FAST/FIRST segmentation statistics" ;
+    prov:qualifiedAssociation [ a prov:Agent ;
+            prov:hadRole sio:Subject ;
+            prov:wasAssociatedWith niiri:73f674c4-b25f-11e9-9e00-003ee1ce9545 ],
+        [ a prov:Agent ;
+            prov:hadRole nidm:NIDM_0000164 ;
+            prov:wasAssociatedWith niiri:9248babe-c393-11e9-b620-003ee1ce9545 ] .
+
+niiri:9248babe-c393-11e9-b620-003ee1ce9545 a prov:Agent,
+        prov:SoftwareAgent ;
+    nidm:NIDM_0000164 fsl: .
+
 niiri:92fac17a-b3dd-11e9-87ed-003ee1ce9545 a prov:Activity ;
     dct:description "Freesurfer segmentation statistics" ;
     prov:qualifiedAssociation [ a prov:Agent ;
@@ -24828,6 +27531,19 @@ niiri:92fac17a-b3dd-11e9-87ed-003ee1ce9545 a prov:Activity ;
 niiri:92fae3e4-b3dd-11e9-87ed-003ee1ce9545 a prov:Agent,
         prov:SoftwareAgent ;
     nidm:NIDM_0000164 freesurfer: .
+
+niiri:96e16d46-c393-11e9-906f-003ee1ce9545 a prov:Activity ;
+    dct:description "FSL FAST/FIRST segmentation statistics" ;
+    prov:qualifiedAssociation [ a prov:Agent ;
+            prov:hadRole sio:Subject ;
+            prov:wasAssociatedWith niiri:73f40392-b25f-11e9-9e00-003ee1ce9545 ],
+        [ a prov:Agent ;
+            prov:hadRole nidm:NIDM_0000164 ;
+            prov:wasAssociatedWith niiri:96e173e0-c393-11e9-906f-003ee1ce9545 ] .
+
+niiri:96e173e0-c393-11e9-906f-003ee1ce9545 a prov:Agent,
+        prov:SoftwareAgent ;
+    nidm:NIDM_0000164 fsl: .
 
 niiri:978db436-b3dd-11e9-a8b1-003ee1ce9545 a prov:Activity ;
     dct:description "Freesurfer segmentation statistics" ;
@@ -24867,6 +27583,19 @@ niiri:978dd8bc-b3dd-11e9-a8b1-003ee1ce9545 a prov:Agent,
         prov:SoftwareAgent ;
     nidm:NIDM_0000164 freesurfer: .
 
+niiri:9b756498-c393-11e9-9452-003ee1ce9545 a prov:Activity ;
+    dct:description "FSL FAST/FIRST segmentation statistics" ;
+    prov:qualifiedAssociation [ a prov:Agent ;
+            prov:hadRole nidm:NIDM_0000164 ;
+            prov:wasAssociatedWith niiri:9b756ac4-c393-11e9-9452-003ee1ce9545 ],
+        [ a prov:Agent ;
+            prov:hadRole sio:Subject ;
+            prov:wasAssociatedWith niiri:73f87274-b25f-11e9-9e00-003ee1ce9545 ] .
+
+niiri:9b756ac4-c393-11e9-9452-003ee1ce9545 a prov:Agent,
+        prov:SoftwareAgent ;
+    nidm:NIDM_0000164 fsl: .
+
 niiri:9c606490-b3dd-11e9-a766-003ee1ce9545 a prov:Activity ;
     dct:description "Freesurfer segmentation statistics" ;
     prov:qualifiedAssociation [ a prov:Agent ;
@@ -24904,6 +27633,19 @@ niiri:9c606490-b3dd-11e9-a766-003ee1ce9545 a prov:Activity ;
 niiri:9c60870e-b3dd-11e9-a766-003ee1ce9545 a prov:Agent,
         prov:SoftwareAgent ;
     nidm:NIDM_0000164 freesurfer: .
+
+niiri:a010e068-c393-11e9-a538-003ee1ce9545 a prov:Activity ;
+    dct:description "FSL FAST/FIRST segmentation statistics" ;
+    prov:qualifiedAssociation [ a prov:Agent ;
+            prov:hadRole sio:Subject ;
+            prov:wasAssociatedWith niiri:73f88f34-b25f-11e9-9e00-003ee1ce9545 ],
+        [ a prov:Agent ;
+            prov:hadRole nidm:NIDM_0000164 ;
+            prov:wasAssociatedWith niiri:a010e66c-c393-11e9-a538-003ee1ce9545 ] .
+
+niiri:a010e66c-c393-11e9-a538-003ee1ce9545 a prov:Agent,
+        prov:SoftwareAgent ;
+    nidm:NIDM_0000164 fsl: .
 
 niiri:a10ac620-b3dd-11e9-bc7f-003ee1ce9545 a prov:Activity ;
     dct:description "Freesurfer segmentation statistics" ;
@@ -24943,6 +27685,19 @@ niiri:a10ae600-b3dd-11e9-bc7f-003ee1ce9545 a prov:Agent,
         prov:SoftwareAgent ;
     nidm:NIDM_0000164 freesurfer: .
 
+niiri:a4ac74ac-c393-11e9-9beb-003ee1ce9545 a prov:Activity ;
+    dct:description "FSL FAST/FIRST segmentation statistics" ;
+    prov:qualifiedAssociation [ a prov:Agent ;
+            prov:hadRole sio:Subject ;
+            prov:wasAssociatedWith niiri:73f6ab56-b25f-11e9-9e00-003ee1ce9545 ],
+        [ a prov:Agent ;
+            prov:hadRole nidm:NIDM_0000164 ;
+            prov:wasAssociatedWith niiri:a4ac7a4c-c393-11e9-9beb-003ee1ce9545 ] .
+
+niiri:a4ac7a4c-c393-11e9-9beb-003ee1ce9545 a prov:Agent,
+        prov:SoftwareAgent ;
+    nidm:NIDM_0000164 fsl: .
+
 niiri:a5ca5928-b3dd-11e9-9b17-003ee1ce9545 a prov:Activity ;
     dct:description "Freesurfer segmentation statistics" ;
     prov:qualifiedAssociation [ a prov:Agent ;
@@ -24980,6 +27735,19 @@ niiri:a5ca5928-b3dd-11e9-9b17-003ee1ce9545 a prov:Activity ;
 niiri:a5ca794e-b3dd-11e9-9b17-003ee1ce9545 a prov:Agent,
         prov:SoftwareAgent ;
     nidm:NIDM_0000164 freesurfer: .
+
+niiri:a936c202-c393-11e9-a916-003ee1ce9545 a prov:Activity ;
+    dct:description "FSL FAST/FIRST segmentation statistics" ;
+    prov:qualifiedAssociation [ a prov:Agent ;
+            prov:hadRole sio:Subject ;
+            prov:wasAssociatedWith niiri:73f29da4-b25f-11e9-9e00-003ee1ce9545 ],
+        [ a prov:Agent ;
+            prov:hadRole nidm:NIDM_0000164 ;
+            prov:wasAssociatedWith niiri:a936c766-c393-11e9-a916-003ee1ce9545 ] .
+
+niiri:a936c766-c393-11e9-a916-003ee1ce9545 a prov:Agent,
+        prov:SoftwareAgent ;
+    nidm:NIDM_0000164 fsl: .
 
 niiri:aa8b3ae0-b3dd-11e9-9b8e-003ee1ce9545 a prov:Activity ;
     dct:description "Freesurfer segmentation statistics" ;
@@ -25019,6 +27787,19 @@ niiri:aa8b5bce-b3dd-11e9-9b8e-003ee1ce9545 a prov:Agent,
         prov:SoftwareAgent ;
     nidm:NIDM_0000164 freesurfer: .
 
+niiri:adde6ef4-c393-11e9-824a-003ee1ce9545 a prov:Activity ;
+    dct:description "FSL FAST/FIRST segmentation statistics" ;
+    prov:qualifiedAssociation [ a prov:Agent ;
+            prov:hadRole nidm:NIDM_0000164 ;
+            prov:wasAssociatedWith niiri:adde7462-c393-11e9-824a-003ee1ce9545 ],
+        [ a prov:Agent ;
+            prov:hadRole sio:Subject ;
+            prov:wasAssociatedWith niiri:73f35dc0-b25f-11e9-9e00-003ee1ce9545 ] .
+
+niiri:adde7462-c393-11e9-824a-003ee1ce9545 a prov:Agent,
+        prov:SoftwareAgent ;
+    nidm:NIDM_0000164 fsl: .
+
 niiri:af49a170-b3dd-11e9-9b46-003ee1ce9545 a prov:Activity ;
     dct:description "Freesurfer segmentation statistics" ;
     prov:qualifiedAssociation [ a prov:Agent ;
@@ -25056,6 +27837,19 @@ niiri:af49a170-b3dd-11e9-9b46-003ee1ce9545 a prov:Activity ;
 niiri:af49c042-b3dd-11e9-9b46-003ee1ce9545 a prov:Agent,
         prov:SoftwareAgent ;
     nidm:NIDM_0000164 freesurfer: .
+
+niiri:b273f6a0-c393-11e9-883a-003ee1ce9545 a prov:Activity ;
+    dct:description "FSL FAST/FIRST segmentation statistics" ;
+    prov:qualifiedAssociation [ a prov:Agent ;
+            prov:hadRole sio:Subject ;
+            prov:wasAssociatedWith niiri:73f4e8ca-b25f-11e9-9e00-003ee1ce9545 ],
+        [ a prov:Agent ;
+            prov:hadRole nidm:NIDM_0000164 ;
+            prov:wasAssociatedWith niiri:b273fc2c-c393-11e9-883a-003ee1ce9545 ] .
+
+niiri:b273fc2c-c393-11e9-883a-003ee1ce9545 a prov:Agent,
+        prov:SoftwareAgent ;
+    nidm:NIDM_0000164 fsl: .
 
 niiri:b4263ce4-b3dd-11e9-98ce-003ee1ce9545 a prov:Activity ;
     dct:description "Freesurfer segmentation statistics" ;
@@ -25095,6 +27889,19 @@ niiri:b4265ef4-b3dd-11e9-98ce-003ee1ce9545 a prov:Agent,
         prov:SoftwareAgent ;
     nidm:NIDM_0000164 freesurfer: .
 
+niiri:b7120b34-c393-11e9-b4d1-003ee1ce9545 a prov:Activity ;
+    dct:description "FSL FAST/FIRST segmentation statistics" ;
+    prov:qualifiedAssociation [ a prov:Agent ;
+            prov:hadRole nidm:NIDM_0000164 ;
+            prov:wasAssociatedWith niiri:b7121160-c393-11e9-b4d1-003ee1ce9545 ],
+        [ a prov:Agent ;
+            prov:hadRole sio:Subject ;
+            prov:wasAssociatedWith niiri:73f18cfc-b25f-11e9-9e00-003ee1ce9545 ] .
+
+niiri:b7121160-c393-11e9-b4d1-003ee1ce9545 a prov:Agent,
+        prov:SoftwareAgent ;
+    nidm:NIDM_0000164 fsl: .
+
 niiri:b91ddc20-b3dd-11e9-8f2c-003ee1ce9545 a prov:Activity ;
     dct:description "Freesurfer segmentation statistics" ;
     prov:qualifiedAssociation [ a prov:Agent ;
@@ -25132,6 +27939,19 @@ niiri:b91ddc20-b3dd-11e9-8f2c-003ee1ce9545 a prov:Activity ;
 niiri:b91dfbc4-b3dd-11e9-8f2c-003ee1ce9545 a prov:Agent,
         prov:SoftwareAgent ;
     nidm:NIDM_0000164 freesurfer: .
+
+niiri:bbabbdfc-c393-11e9-9d32-003ee1ce9545 a prov:Activity ;
+    dct:description "FSL FAST/FIRST segmentation statistics" ;
+    prov:qualifiedAssociation [ a prov:Agent ;
+            prov:hadRole nidm:NIDM_0000164 ;
+            prov:wasAssociatedWith niiri:bbabc3c4-c393-11e9-9d32-003ee1ce9545 ],
+        [ a prov:Agent ;
+            prov:hadRole sio:Subject ;
+            prov:wasAssociatedWith niiri:73f55e9a-b25f-11e9-9e00-003ee1ce9545 ] .
+
+niiri:bbabc3c4-c393-11e9-9d32-003ee1ce9545 a prov:Agent,
+        prov:SoftwareAgent ;
+    nidm:NIDM_0000164 fsl: .
 
 niiri:bdfcaa82-b3dd-11e9-a3e7-003ee1ce9545 a prov:Activity ;
     dct:description "Freesurfer segmentation statistics" ;
@@ -25171,6 +27991,19 @@ niiri:bdfccb84-b3dd-11e9-a3e7-003ee1ce9545 a prov:Agent,
         prov:SoftwareAgent ;
     nidm:NIDM_0000164 freesurfer: .
 
+niiri:c0450e22-c393-11e9-bcc4-003ee1ce9545 a prov:Activity ;
+    dct:description "FSL FAST/FIRST segmentation statistics" ;
+    prov:qualifiedAssociation [ a prov:Agent ;
+            prov:hadRole sio:Subject ;
+            prov:wasAssociatedWith niiri:73f2d364-b25f-11e9-9e00-003ee1ce9545 ],
+        [ a prov:Agent ;
+            prov:hadRole nidm:NIDM_0000164 ;
+            prov:wasAssociatedWith niiri:c045134a-c393-11e9-bcc4-003ee1ce9545 ] .
+
+niiri:c045134a-c393-11e9-bcc4-003ee1ce9545 a prov:Agent,
+        prov:SoftwareAgent ;
+    nidm:NIDM_0000164 fsl: .
+
 niiri:c2fef788-b3dd-11e9-a3ca-003ee1ce9545 a prov:Activity ;
     dct:description "Freesurfer segmentation statistics" ;
     prov:qualifiedAssociation [ a prov:Agent ;
@@ -25208,6 +28041,19 @@ niiri:c2fef788-b3dd-11e9-a3ca-003ee1ce9545 a prov:Activity ;
 niiri:c2ff1b3c-b3dd-11e9-a3ca-003ee1ce9545 a prov:Agent,
         prov:SoftwareAgent ;
     nidm:NIDM_0000164 freesurfer: .
+
+niiri:c4eac084-c393-11e9-bd2a-003ee1ce9545 a prov:Activity ;
+    dct:description "FSL FAST/FIRST segmentation statistics" ;
+    prov:qualifiedAssociation [ a prov:Agent ;
+            prov:hadRole nidm:NIDM_0000164 ;
+            prov:wasAssociatedWith niiri:c4eac5f2-c393-11e9-bd2a-003ee1ce9545 ],
+        [ a prov:Agent ;
+            prov:hadRole sio:Subject ;
+            prov:wasAssociatedWith niiri:73f7255e-b25f-11e9-9e00-003ee1ce9545 ] .
+
+niiri:c4eac5f2-c393-11e9-bd2a-003ee1ce9545 a prov:Agent,
+        prov:SoftwareAgent ;
+    nidm:NIDM_0000164 fsl: .
 
 niiri:c80fdd3c-b3dd-11e9-a8a1-003ee1ce9545 a prov:Activity ;
     dct:description "Freesurfer segmentation statistics" ;
@@ -25247,6 +28093,19 @@ niiri:c80fff06-b3dd-11e9-a8a1-003ee1ce9545 a prov:Agent,
         prov:SoftwareAgent ;
     nidm:NIDM_0000164 freesurfer: .
 
+niiri:c9859f56-c393-11e9-9a74-003ee1ce9545 a prov:Activity ;
+    dct:description "FSL FAST/FIRST segmentation statistics" ;
+    prov:qualifiedAssociation [ a prov:Agent ;
+            prov:hadRole nidm:NIDM_0000164 ;
+            prov:wasAssociatedWith niiri:c985a550-c393-11e9-9a74-003ee1ce9545 ],
+        [ a prov:Agent ;
+            prov:hadRole sio:Subject ;
+            prov:wasAssociatedWith niiri:73f5ae72-b25f-11e9-9e00-003ee1ce9545 ] .
+
+niiri:c985a550-c393-11e9-9a74-003ee1ce9545 a prov:Agent,
+        prov:SoftwareAgent ;
+    nidm:NIDM_0000164 fsl: .
+
 niiri:cd136c40-b3dd-11e9-a023-003ee1ce9545 a prov:Activity ;
     dct:description "Freesurfer segmentation statistics" ;
     prov:qualifiedAssociation [ a prov:Agent ;
@@ -25284,6 +28143,19 @@ niiri:cd136c40-b3dd-11e9-a023-003ee1ce9545 a prov:Activity ;
 niiri:cd138a7c-b3dd-11e9-a023-003ee1ce9545 a prov:Agent,
         prov:SoftwareAgent ;
     nidm:NIDM_0000164 freesurfer: .
+
+niiri:ce304722-c393-11e9-88a1-003ee1ce9545 a prov:Activity ;
+    dct:description "FSL FAST/FIRST segmentation statistics" ;
+    prov:qualifiedAssociation [ a prov:Agent ;
+            prov:hadRole sio:Subject ;
+            prov:wasAssociatedWith niiri:73f41d1e-b25f-11e9-9e00-003ee1ce9545 ],
+        [ a prov:Agent ;
+            prov:hadRole nidm:NIDM_0000164 ;
+            prov:wasAssociatedWith niiri:ce304cae-c393-11e9-88a1-003ee1ce9545 ] .
+
+niiri:ce304cae-c393-11e9-88a1-003ee1ce9545 a prov:Agent,
+        prov:SoftwareAgent ;
+    nidm:NIDM_0000164 fsl: .
 
 niiri:d2306fd4-b3dd-11e9-8738-003ee1ce9545 a prov:Activity ;
     dct:description "Freesurfer segmentation statistics" ;
@@ -25323,6 +28195,19 @@ niiri:d2308f5a-b3dd-11e9-8738-003ee1ce9545 a prov:Agent,
         prov:SoftwareAgent ;
     nidm:NIDM_0000164 freesurfer: .
 
+niiri:d2ef2238-c393-11e9-9a74-003ee1ce9545 a prov:Activity ;
+    dct:description "FSL FAST/FIRST segmentation statistics" ;
+    prov:qualifiedAssociation [ a prov:Agent ;
+            prov:hadRole nidm:NIDM_0000164 ;
+            prov:wasAssociatedWith niiri:d2ef288c-c393-11e9-9a74-003ee1ce9545 ],
+        [ a prov:Agent ;
+            prov:hadRole sio:Subject ;
+            prov:wasAssociatedWith niiri:73f260a0-b25f-11e9-9e00-003ee1ce9545 ] .
+
+niiri:d2ef288c-c393-11e9-9a74-003ee1ce9545 a prov:Agent,
+        prov:SoftwareAgent ;
+    nidm:NIDM_0000164 fsl: .
+
 niiri:d744e8ba-b3dd-11e9-8889-003ee1ce9545 a prov:Activity ;
     dct:description "Freesurfer segmentation statistics" ;
     prov:qualifiedAssociation [ a prov:Agent ;
@@ -25360,6 +28245,19 @@ niiri:d744e8ba-b3dd-11e9-8889-003ee1ce9545 a prov:Activity ;
 niiri:d7450e6c-b3dd-11e9-8889-003ee1ce9545 a prov:Agent,
         prov:SoftwareAgent ;
     nidm:NIDM_0000164 freesurfer: .
+
+niiri:d7ad9264-c393-11e9-aaec-003ee1ce9545 a prov:Activity ;
+    dct:description "FSL FAST/FIRST segmentation statistics" ;
+    prov:qualifiedAssociation [ a prov:Agent ;
+            prov:hadRole nidm:NIDM_0000164 ;
+            prov:wasAssociatedWith niiri:d7ad980e-c393-11e9-aaec-003ee1ce9545 ],
+        [ a prov:Agent ;
+            prov:hadRole sio:Subject ;
+            prov:wasAssociatedWith niiri:73f70380-b25f-11e9-9e00-003ee1ce9545 ] .
+
+niiri:d7ad980e-c393-11e9-aaec-003ee1ce9545 a prov:Agent,
+        prov:SoftwareAgent ;
+    nidm:NIDM_0000164 fsl: .
 
 niiri:dc55a498-b3dd-11e9-992b-003ee1ce9545 a prov:Activity ;
     dct:description "Freesurfer segmentation statistics" ;
@@ -25399,6 +28297,32 @@ niiri:dc55c482-b3dd-11e9-992b-003ee1ce9545 a prov:Agent,
         prov:SoftwareAgent ;
     nidm:NIDM_0000164 freesurfer: .
 
+niiri:dc7a5ce6-c393-11e9-a17f-003ee1ce9545 a prov:Activity ;
+    dct:description "FSL FAST/FIRST segmentation statistics" ;
+    prov:qualifiedAssociation [ a prov:Agent ;
+            prov:hadRole nidm:NIDM_0000164 ;
+            prov:wasAssociatedWith niiri:dc7a62d6-c393-11e9-a17f-003ee1ce9545 ],
+        [ a prov:Agent ;
+            prov:hadRole sio:Subject ;
+            prov:wasAssociatedWith niiri:73f764f6-b25f-11e9-9e00-003ee1ce9545 ] .
+
+niiri:dc7a62d6-c393-11e9-a17f-003ee1ce9545 a prov:Agent,
+        prov:SoftwareAgent ;
+    nidm:NIDM_0000164 fsl: .
+
+niiri:e13703f6-c393-11e9-ac50-003ee1ce9545 a prov:Activity ;
+    dct:description "FSL FAST/FIRST segmentation statistics" ;
+    prov:qualifiedAssociation [ a prov:Agent ;
+            prov:hadRole sio:Subject ;
+            prov:wasAssociatedWith niiri:73f3772e-b25f-11e9-9e00-003ee1ce9545 ],
+        [ a prov:Agent ;
+            prov:hadRole nidm:NIDM_0000164 ;
+            prov:wasAssociatedWith niiri:e1370ab8-c393-11e9-ac50-003ee1ce9545 ] .
+
+niiri:e1370ab8-c393-11e9-ac50-003ee1ce9545 a prov:Agent,
+        prov:SoftwareAgent ;
+    nidm:NIDM_0000164 fsl: .
+
 niiri:e18ecc5a-b3dd-11e9-81b1-003ee1ce9545 a prov:Activity ;
     dct:description "Freesurfer segmentation statistics" ;
     prov:qualifiedAssociation [ a prov:Agent ;
@@ -25436,6 +28360,19 @@ niiri:e18ecc5a-b3dd-11e9-81b1-003ee1ce9545 a prov:Activity ;
 niiri:e18eeae6-b3dd-11e9-81b1-003ee1ce9545 a prov:Agent,
         prov:SoftwareAgent ;
     nidm:NIDM_0000164 freesurfer: .
+
+niiri:e5f6304c-c393-11e9-a789-003ee1ce9545 a prov:Activity ;
+    dct:description "FSL FAST/FIRST segmentation statistics" ;
+    prov:qualifiedAssociation [ a prov:Agent ;
+            prov:hadRole sio:Subject ;
+            prov:wasAssociatedWith niiri:73f61fb0-b25f-11e9-9e00-003ee1ce9545 ],
+        [ a prov:Agent ;
+            prov:hadRole nidm:NIDM_0000164 ;
+            prov:wasAssociatedWith niiri:e5f63632-c393-11e9-a789-003ee1ce9545 ] .
+
+niiri:e5f63632-c393-11e9-a789-003ee1ce9545 a prov:Agent,
+        prov:SoftwareAgent ;
+    nidm:NIDM_0000164 fsl: .
 
 niiri:e6c50018-b3dd-11e9-b30b-003ee1ce9545 a prov:Activity ;
     dct:description "Freesurfer segmentation statistics" ;
@@ -25475,6 +28412,19 @@ niiri:e6c52458-b3dd-11e9-b30b-003ee1ce9545 a prov:Agent,
         prov:SoftwareAgent ;
     nidm:NIDM_0000164 freesurfer: .
 
+niiri:eab21024-c393-11e9-8648-003ee1ce9545 a prov:Activity ;
+    dct:description "FSL FAST/FIRST segmentation statistics" ;
+    prov:qualifiedAssociation [ a prov:Agent ;
+            prov:hadRole nidm:NIDM_0000164 ;
+            prov:wasAssociatedWith niiri:eab21600-c393-11e9-8648-003ee1ce9545 ],
+        [ a prov:Agent ;
+            prov:hadRole sio:Subject ;
+            prov:wasAssociatedWith niiri:73f2416a-b25f-11e9-9e00-003ee1ce9545 ] .
+
+niiri:eab21600-c393-11e9-8648-003ee1ce9545 a prov:Agent,
+        prov:SoftwareAgent ;
+    nidm:NIDM_0000164 fsl: .
+
 niiri:ec2e6166-b3dd-11e9-9210-003ee1ce9545 a prov:Activity ;
     dct:description "Freesurfer segmentation statistics" ;
     prov:qualifiedAssociation [ a prov:Agent ;
@@ -25512,6 +28462,19 @@ niiri:ec2e6166-b3dd-11e9-9210-003ee1ce9545 a prov:Activity ;
 niiri:ec2e801a-b3dd-11e9-9210-003ee1ce9545 a prov:Agent,
         prov:SoftwareAgent ;
     nidm:NIDM_0000164 freesurfer: .
+
+niiri:ef7a6f52-c393-11e9-bcc4-003ee1ce9545 a prov:Activity ;
+    dct:description "FSL FAST/FIRST segmentation statistics" ;
+    prov:qualifiedAssociation [ a prov:Agent ;
+            prov:hadRole nidm:NIDM_0000164 ;
+            prov:wasAssociatedWith niiri:ef7a7592-c393-11e9-bcc4-003ee1ce9545 ],
+        [ a prov:Agent ;
+            prov:hadRole sio:Subject ;
+            prov:wasAssociatedWith niiri:73f1a458-b25f-11e9-9e00-003ee1ce9545 ] .
+
+niiri:ef7a7592-c393-11e9-bcc4-003ee1ce9545 a prov:Agent,
+        prov:SoftwareAgent ;
+    nidm:NIDM_0000164 fsl: .
 
 niiri:f18ccc06-b3dd-11e9-9d58-003ee1ce9545 a prov:Activity ;
     dct:description "Freesurfer segmentation statistics" ;
@@ -25551,6 +28514,19 @@ niiri:f18cea4c-b3dd-11e9-9d58-003ee1ce9545 a prov:Agent,
         prov:SoftwareAgent ;
     nidm:NIDM_0000164 freesurfer: .
 
+niiri:f44f8832-c393-11e9-806d-003ee1ce9545 a prov:Activity ;
+    dct:description "FSL FAST/FIRST segmentation statistics" ;
+    prov:qualifiedAssociation [ a prov:Agent ;
+            prov:hadRole nidm:NIDM_0000164 ;
+            prov:wasAssociatedWith niiri:f44f8dfa-c393-11e9-806d-003ee1ce9545 ],
+        [ a prov:Agent ;
+            prov:hadRole sio:Subject ;
+            prov:wasAssociatedWith niiri:73f6ca82-b25f-11e9-9e00-003ee1ce9545 ] .
+
+niiri:f44f8dfa-c393-11e9-806d-003ee1ce9545 a prov:Agent,
+        prov:SoftwareAgent ;
+    nidm:NIDM_0000164 fsl: .
+
 niiri:f6d93cf8-b3dd-11e9-ba6f-003ee1ce9545 a prov:Activity ;
     dct:description "Freesurfer segmentation statistics" ;
     prov:qualifiedAssociation [ a prov:Agent ;
@@ -25589,6 +28565,19 @@ niiri:f6d95b66-b3dd-11e9-ba6f-003ee1ce9545 a prov:Agent,
         prov:SoftwareAgent ;
     nidm:NIDM_0000164 freesurfer: .
 
+niiri:f91c1344-c393-11e9-913a-003ee1ce9545 a prov:Activity ;
+    dct:description "FSL FAST/FIRST segmentation statistics" ;
+    prov:qualifiedAssociation [ a prov:Agent ;
+            prov:hadRole sio:Subject ;
+            prov:wasAssociatedWith niiri:73f592c0-b25f-11e9-9e00-003ee1ce9545 ],
+        [ a prov:Agent ;
+            prov:hadRole nidm:NIDM_0000164 ;
+            prov:wasAssociatedWith niiri:f91c19fc-c393-11e9-913a-003ee1ce9545 ] .
+
+niiri:f91c19fc-c393-11e9-913a-003ee1ce9545 a prov:Agent,
+        prov:SoftwareAgent ;
+    nidm:NIDM_0000164 fsl: .
+
 niiri:fc2a7bd6-b3dd-11e9-820a-003ee1ce9545 a prov:Activity ;
     dct:description "Freesurfer segmentation statistics" ;
     prov:qualifiedAssociation [ a prov:Agent ;
@@ -25626,6 +28615,32 @@ niiri:fc2a7bd6-b3dd-11e9-820a-003ee1ce9545 a prov:Activity ;
 niiri:fc2a9d96-b3dd-11e9-820a-003ee1ce9545 a prov:Agent,
         prov:SoftwareAgent ;
     nidm:NIDM_0000164 freesurfer: .
+
+niiri:fd582836-c392-11e9-8804-003ee1ce9545 a prov:Activity ;
+    dct:description "FSL FAST/FIRST segmentation statistics" ;
+    prov:qualifiedAssociation [ a prov:Agent ;
+            prov:hadRole nidm:NIDM_0000164 ;
+            prov:wasAssociatedWith niiri:fd582dfe-c392-11e9-8804-003ee1ce9545 ],
+        [ a prov:Agent ;
+            prov:hadRole sio:Subject ;
+            prov:wasAssociatedWith niiri:73f65908-b25f-11e9-9e00-003ee1ce9545 ] .
+
+niiri:fd582dfe-c392-11e9-8804-003ee1ce9545 a prov:Agent,
+        prov:SoftwareAgent ;
+    nidm:NIDM_0000164 fsl: .
+
+niiri:fde21b4e-c393-11e9-a6bf-003ee1ce9545 a prov:Activity ;
+    dct:description "FSL FAST/FIRST segmentation statistics" ;
+    prov:qualifiedAssociation [ a prov:Agent ;
+            prov:hadRole nidm:NIDM_0000164 ;
+            prov:wasAssociatedWith niiri:fde22134-c393-11e9-a6bf-003ee1ce9545 ],
+        [ a prov:Agent ;
+            prov:hadRole sio:Subject ;
+            prov:wasAssociatedWith niiri:73f2b8e8-b25f-11e9-9e00-003ee1ce9545 ] .
+
+niiri:fde22134-c393-11e9-a6bf-003ee1ce9545 a prov:Agent,
+        prov:SoftwareAgent ;
+    nidm:NIDM_0000164 fsl: .
 
 niiri:73f0cda8-b25f-11e9-9e00-003ee1ce9545 a nidm:Session,
         prov:Activity ;
