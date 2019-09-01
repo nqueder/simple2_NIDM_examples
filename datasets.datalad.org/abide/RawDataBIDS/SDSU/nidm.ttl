@@ -99,6 +99,14 @@
 @prefix nidm: <http://purl.org/nidash/nidm#> .
 @prefix niiri: <http://iri.nidash.org/> .
 @prefix nlx: <http://uri.neuinfo.org/nif/nifstd/> .
+@prefix ns1: <http://iri.nidash.org/59> .
+@prefix ns2: <http://iri.nidash.org/542> .
+@prefix ns3: <http://iri.nidash.org/5456> .
+@prefix ns4: <http://iri.nidash.org/540> .
+@prefix ns5: <http://iri.nidash.org/541> .
+@prefix ns6: <http://iri.nidash.org/54675344-> .
+@prefix ns7: <http://iri.nidash.org/54473> .
+@prefix ns8: <http://iri.nidash.org/543864> .
 @prefix obo: <http://purl.obolibrary.org/obo/> .
 @prefix onli: <http://neurolog.unice.fr/ontoneurolog/v3.0/instrument.owl#> .
 @prefix owl: <http://www.w3.org/2002/07/owl#> .
@@ -112,6 +120,364 @@
 @prefix vc: <http://www.w3.org/2006/vcard/ns#> .
 @prefix xml: <http://www.w3.org/XML/1998/namespace> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://iri.nidash.org/4e2fd8b6-cc90-11e9-b368-8c8590aa91df> a nidm:FSStatsCollection,
+        prov:Entity ;
+    ns4:d4ffc-cc90-11e9-b368-8c8590aa91df "4237" ;
+    ns5:ccc84-cc90-11e9-b368-8c8590aa91df "4123.9" ;
+    ns2:aadc2-cc90-11e9-b368-8c8590aa91df "84.4909" ;
+    ns8:e4-cc90-11e9-b368-8c8590aa91df "12.9014" ;
+    ns7:bb8-cc90-11e9-b368-8c8590aa91df "26.0000" ;
+    ns3:ad78-cc90-11e9-b368-8c8590aa91df "123.0000" ;
+    ns6:cc90-11e9-b368-8c8590aa91df "97.0000" ;
+    ns1:a8892c-cc90-11e9-b368-8c8590aa91df "4180" ;
+    ns1:b6408a-cc90-11e9-b368-8c8590aa91df "4065.3" ;
+    ns1:c61ba4-cc90-11e9-b368-8c8590aa91df "84.8431" ;
+    ns1:d5d6ca-cc90-11e9-b368-8c8590aa91df "12.4263" ;
+    ns1:e369c0-cc90-11e9-b368-8c8590aa91df "35.0000" ;
+    ns1:f121a0-cc90-11e9-b368-8c8590aa91df "123.0000" ;
+    ns1:ff6634-cc90-11e9-b368-8c8590aa91df "88.0000" ;
+    niiri:bf8eae8c-cc00-11e9-90d6-8c8590aa91df "4355" ;
+    niiri:bf8fe2a2-cc00-11e9-90d6-8c8590aa91df "4604.3" ;
+    niiri:bf912f04-cc00-11e9-90d6-8c8590aa91df "27.6427" ;
+    niiri:bf928e62-cc00-11e9-90d6-8c8590aa91df "16.1325" ;
+    niiri:bf93c660-cc00-11e9-90d6-8c8590aa91df "0.0000" ;
+    niiri:bf950386-cc00-11e9-90d6-8c8590aa91df "102.0000" ;
+    niiri:bf965f2e-cc00-11e9-90d6-8c8590aa91df "102.0000" ;
+    niiri:bf978b6a-cc00-11e9-90d6-8c8590aa91df "297" ;
+    niiri:bf98a9f0-cc00-11e9-90d6-8c8590aa91df "298.8" ;
+    niiri:bf99c394-cc00-11e9-90d6-8c8590aa91df "37.2189" ;
+    niiri:bf9ae9e0-cc00-11e9-90d6-8c8590aa91df "15.4645" ;
+    niiri:bf9c2b70-cc00-11e9-90d6-8c8590aa91df "2.0000" ;
+    niiri:bf9d5a9a-cc00-11e9-90d6-8c8590aa91df "75.0000" ;
+    niiri:bf9e891a-cc00-11e9-90d6-8c8590aa91df "73.0000" ;
+    niiri:bf9faf84-cc00-11e9-90d6-8c8590aa91df "11947" ;
+    niiri:bfa0d76a-cc00-11e9-90d6-8c8590aa91df "12298.5" ;
+    niiri:bfa217f6-cc00-11e9-90d6-8c8590aa91df "74.3764" ;
+    niiri:bfa3358c-cc00-11e9-90d6-8c8590aa91df "8.8585" ;
+    niiri:bfa4a2c8-cc00-11e9-90d6-8c8590aa91df "16.0000" ;
+    niiri:bfa6461e-cc00-11e9-90d6-8c8590aa91df "107.0000" ;
+    niiri:bfa7c660-cc00-11e9-90d6-8c8590aa91df "91.0000" ;
+    niiri:bfa967e0-cc00-11e9-90d6-8c8590aa91df "57343" ;
+    niiri:bfaad832-cc00-11e9-90d6-8c8590aa91df "57442.0" ;
+    niiri:bfac10da-cc00-11e9-90d6-8c8590aa91df "49.0463" ;
+    niiri:bfad7218-cc00-11e9-90d6-8c8590aa91df "9.7469" ;
+    niiri:bfaf4ffc-cc00-11e9-90d6-8c8590aa91df "2.0000" ;
+    niiri:bfb18560-cc00-11e9-90d6-8c8590aa91df "92.0000" ;
+    niiri:bfb33644-cc00-11e9-90d6-8c8590aa91df "90.0000" ;
+    niiri:bfb7358c-cc00-11e9-90d6-8c8590aa91df "79.6131" ;
+    niiri:bfb87ae6-cc00-11e9-90d6-8c8590aa91df "11.2000" ;
+    niiri:bfb9ef7a-cc00-11e9-90d6-8c8590aa91df "22.0000" ;
+    niiri:bfbdfb1a-cc00-11e9-90d6-8c8590aa91df "111.0000" ;
+    niiri:bfbf9600-cc00-11e9-90d6-8c8590aa91df "89.0000" ;
+    niiri:bfc37e5a-cc00-11e9-90d6-8c8590aa91df "70.3452" ;
+    niiri:bfc4d8f4-cc00-11e9-90d6-8c8590aa91df "8.3085" ;
+    niiri:bfc61d86-cc00-11e9-90d6-8c8590aa91df "35.0000" ;
+    niiri:bfc75cfa-cc00-11e9-90d6-8c8590aa91df "100.0000" ;
+    niiri:bfc8b9ba-cc00-11e9-90d6-8c8590aa91df "65.0000" ;
+    niiri:bfcc6c7c-cc00-11e9-90d6-8c8590aa91df "72.0327" ;
+    niiri:bfcdb1d6-cc00-11e9-90d6-8c8590aa91df "7.5412" ;
+    niiri:bfcf0c66-cc00-11e9-90d6-8c8590aa91df "21.0000" ;
+    niiri:bfd04252-cc00-11e9-90d6-8c8590aa91df "98.0000" ;
+    niiri:bfd191f2-cc00-11e9-90d6-8c8590aa91df "77.0000" ;
+    niiri:bfd550bc-cc00-11e9-90d6-8c8590aa91df "90.5118" ;
+    niiri:bfd6903a-cc00-11e9-90d6-8c8590aa91df "6.0657" ;
+    niiri:bfd7edae-cc00-11e9-90d6-8c8590aa91df "70.0000" ;
+    niiri:bfd9366e-cc00-11e9-90d6-8c8590aa91df "108.0000" ;
+    niiri:bfda84e2-cc00-11e9-90d6-8c8590aa91df "38.0000" ;
+    niiri:bfdb8478-cc00-11e9-90d6-8c8590aa91df "678" ;
+    niiri:bfdc8d82-cc00-11e9-90d6-8c8590aa91df "711.3" ;
+    niiri:bfddaa6e-cc00-11e9-90d6-8c8590aa91df "34.8923" ;
+    niiri:bfdecc64-cc00-11e9-90d6-8c8590aa91df "16.3257" ;
+    niiri:bfdfdd3e-cc00-11e9-90d6-8c8590aa91df "0.0000" ;
+    niiri:bfe0ea6c-cc00-11e9-90d6-8c8590aa91df "86.0000" ;
+    niiri:bfe1f63c-cc00-11e9-90d6-8c8590aa91df "86.0000" ;
+    niiri:bfe31382-cc00-11e9-90d6-8c8590aa91df "1895" ;
+    niiri:bfe41926-cc00-11e9-90d6-8c8590aa91df "1940.3" ;
+    niiri:bfe53c16-cc00-11e9-90d6-8c8590aa91df "24.4485" ;
+    niiri:bfe64ba6-cc00-11e9-90d6-8c8590aa91df "11.5917" ;
+    niiri:bfe7578a-cc00-11e9-90d6-8c8590aa91df "0.0000" ;
+    niiri:bfe86cce-cc00-11e9-90d6-8c8590aa91df "60.0000" ;
+    niiri:bfe98992-cc00-11e9-90d6-8c8590aa91df "60.0000" ;
+    niiri:bfeaa80e-cc00-11e9-90d6-8c8590aa91df "18227" ;
+    niiri:bfebce8c-cc00-11e9-90d6-8c8590aa91df "18578.1" ;
+    niiri:bfecf1fe-cc00-11e9-90d6-8c8590aa91df "77.0219" ;
+    niiri:bfee107a-cc00-11e9-90d6-8c8590aa91df "10.5932" ;
+    niiri:bfef50ac-cc00-11e9-90d6-8c8590aa91df "11.0000" ;
+    niiri:bff097e6-cc00-11e9-90d6-8c8590aa91df "117.0000" ;
+    niiri:bff29938-cc00-11e9-90d6-8c8590aa91df "106.0000" ;
+    niiri:bff714b8-cc00-11e9-90d6-8c8590aa91df "56.4504" ;
+    niiri:bff8724a-cc00-11e9-90d6-8c8590aa91df "10.7170" ;
+    niiri:bff9eef4-cc00-11e9-90d6-8c8590aa91df "3.0000" ;
+    niiri:bffb3b88-cc00-11e9-90d6-8c8590aa91df "93.0000" ;
+    niiri:bffc9014-cc00-11e9-90d6-8c8590aa91df "90.0000" ;
+    niiri:c0005fbe-cc00-11e9-90d6-8c8590aa91df "55.0475" ;
+    niiri:c001abbc-cc00-11e9-90d6-8c8590aa91df "9.5659" ;
+    niiri:c002faa8-cc00-11e9-90d6-8c8590aa91df "3.0000" ;
+    niiri:c004542a-cc00-11e9-90d6-8c8590aa91df "87.0000" ;
+    niiri:c005af1e-cc00-11e9-90d6-8c8590aa91df "84.0000" ;
+    niiri:c006c908-cc00-11e9-90d6-8c8590aa91df "936" ;
+    niiri:c007fe18-cc00-11e9-90d6-8c8590aa91df "950.5" ;
+    niiri:c0091eba-cc00-11e9-90d6-8c8590aa91df "43.0342" ;
+    niiri:c00a4b3c-cc00-11e9-90d6-8c8590aa91df "15.0587" ;
+    niiri:c00b743a-cc00-11e9-90d6-8c8590aa91df "0.0000" ;
+    niiri:c00c990a-cc00-11e9-90d6-8c8590aa91df "79.0000" ;
+    niiri:c00db740-cc00-11e9-90d6-8c8590aa91df "79.0000" ;
+    niiri:c01200e8-cc00-11e9-90d6-8c8590aa91df "65.9168" ;
+    niiri:c0135f9c-cc00-11e9-90d6-8c8590aa91df "6.8927" ;
+    niiri:c014b6e4-cc00-11e9-90d6-8c8590aa91df "47.0000" ;
+    niiri:c01628b2-cc00-11e9-90d6-8c8590aa91df "87.0000" ;
+    niiri:c0179224-cc00-11e9-90d6-8c8590aa91df "40.0000" ;
+    niiri:c022c6da-cc00-11e9-90d6-8c8590aa91df "14" ;
+    niiri:c02420ac-cc00-11e9-90d6-8c8590aa91df "21.4" ;
+    niiri:c02597c0-cc00-11e9-90d6-8c8590aa91df "47.0000" ;
+    niiri:c0270204-cc00-11e9-90d6-8c8590aa91df "12.9437" ;
+    niiri:c0286d60-cc00-11e9-90d6-8c8590aa91df "25.0000" ;
+    niiri:c029de8e-cc00-11e9-90d6-8c8590aa91df "64.0000" ;
+    niiri:c02b8590-cc00-11e9-90d6-8c8590aa91df "39.0000" ;
+    niiri:c02d54f6-cc00-11e9-90d6-8c8590aa91df "460" ;
+    niiri:c02ee564-cc00-11e9-90d6-8c8590aa91df "391.4" ;
+    niiri:c0305f8e-cc00-11e9-90d6-8c8590aa91df "46.3326" ;
+    niiri:c031cb08-cc00-11e9-90d6-8c8590aa91df "13.9101" ;
+    niiri:c0334546-cc00-11e9-90d6-8c8590aa91df "18.0000" ;
+    niiri:c034f3fa-cc00-11e9-90d6-8c8590aa91df "84.0000" ;
+    niiri:c03695de-cc00-11e9-90d6-8c8590aa91df "66.0000" ;
+    niiri:c037b072-cc00-11e9-90d6-8c8590aa91df "2878" ;
+    niiri:c038d510-cc00-11e9-90d6-8c8590aa91df "3081.2" ;
+    niiri:c039f846-cc00-11e9-90d6-8c8590aa91df "31.7474" ;
+    niiri:c03b3094-cc00-11e9-90d6-8c8590aa91df "16.8285" ;
+    niiri:c03c66b2-cc00-11e9-90d6-8c8590aa91df "0.0000" ;
+    niiri:c03dc2e6-cc00-11e9-90d6-8c8590aa91df "92.0000" ;
+    niiri:c03fafac-cc00-11e9-90d6-8c8590aa91df "92.0000" ;
+    niiri:c0416040-cc00-11e9-90d6-8c8590aa91df "249" ;
+    niiri:c042d196-cc00-11e9-90d6-8c8590aa91df "277.3" ;
+    niiri:c04414ca-cc00-11e9-90d6-8c8590aa91df "39.9157" ;
+    niiri:c0456046-cc00-11e9-90d6-8c8590aa91df "15.0584" ;
+    niiri:c04696fa-cc00-11e9-90d6-8c8590aa91df "3.0000" ;
+    niiri:c047c8a4-cc00-11e9-90d6-8c8590aa91df "78.0000" ;
+    niiri:c0490a3e-cc00-11e9-90d6-8c8590aa91df "75.0000" ;
+    niiri:c04a7964-cc00-11e9-90d6-8c8590aa91df "10335" ;
+    niiri:c04bcef4-cc00-11e9-90d6-8c8590aa91df "10720.6" ;
+    niiri:c04d2e5c-cc00-11e9-90d6-8c8590aa91df "78.3090" ;
+    niiri:c04e70c8-cc00-11e9-90d6-8c8590aa91df "7.8225" ;
+    niiri:c04fad3a-cc00-11e9-90d6-8c8590aa91df "12.0000" ;
+    niiri:c050e43e-cc00-11e9-90d6-8c8590aa91df "105.0000" ;
+    niiri:c0524b76-cc00-11e9-90d6-8c8590aa91df "93.0000" ;
+    niiri:c05391ac-cc00-11e9-90d6-8c8590aa91df "56623" ;
+    niiri:c055233c-cc00-11e9-90d6-8c8590aa91df "56642.7" ;
+    niiri:c0567796-cc00-11e9-90d6-8c8590aa91df "52.7902" ;
+    niiri:c057c358-cc00-11e9-90d6-8c8590aa91df "9.8885" ;
+    niiri:c058fa84-cc00-11e9-90d6-8c8590aa91df "1.0000" ;
+    niiri:c05a38b8-cc00-11e9-90d6-8c8590aa91df "89.0000" ;
+    niiri:c05b866e-cc00-11e9-90d6-8c8590aa91df "88.0000" ;
+    niiri:c05f1a68-cc00-11e9-90d6-8c8590aa91df "80.6795" ;
+    niiri:c0605edc-cc00-11e9-90d6-8c8590aa91df "10.8226" ;
+    niiri:c061af08-cc00-11e9-90d6-8c8590aa91df "30.0000" ;
+    niiri:c062f020-cc00-11e9-90d6-8c8590aa91df "110.0000" ;
+    niiri:c06423aa-cc00-11e9-90d6-8c8590aa91df "80.0000" ;
+    niiri:c067dde2-cc00-11e9-90d6-8c8590aa91df "68.4503" ;
+    niiri:c0693336-cc00-11e9-90d6-8c8590aa91df "8.2068" ;
+    niiri:c06a7714-cc00-11e9-90d6-8c8590aa91df "37.0000" ;
+    niiri:c06bb3c2-cc00-11e9-90d6-8c8590aa91df "94.0000" ;
+    niiri:c06d0024-cc00-11e9-90d6-8c8590aa91df "57.0000" ;
+    niiri:c070d23a-cc00-11e9-90d6-8c8590aa91df "71.2008" ;
+    niiri:c072250e-cc00-11e9-90d6-8c8590aa91df "7.5493" ;
+    niiri:c0736a4a-cc00-11e9-90d6-8c8590aa91df "12.0000" ;
+    niiri:c074bb16-cc00-11e9-90d6-8c8590aa91df "97.0000" ;
+    niiri:c0760b7e-cc00-11e9-90d6-8c8590aa91df "85.0000" ;
+    niiri:c07a7cf4-cc00-11e9-90d6-8c8590aa91df "90.8486" ;
+    niiri:c07bed46-cc00-11e9-90d6-8c8590aa91df "6.2234" ;
+    niiri:c07d4d58-cc00-11e9-90d6-8c8590aa91df "64.0000" ;
+    niiri:c07ee384-cc00-11e9-90d6-8c8590aa91df "111.0000" ;
+    niiri:c08050fc-cc00-11e9-90d6-8c8590aa91df "47.0000" ;
+    niiri:c0841570-cc00-11e9-90d6-8c8590aa91df "58.7216" ;
+    niiri:c08572c6-cc00-11e9-90d6-8c8590aa91df "9.6226" ;
+    niiri:c086e426-cc00-11e9-90d6-8c8590aa91df "7.0000" ;
+    niiri:c0884028-cc00-11e9-90d6-8c8590aa91df "89.0000" ;
+    niiri:c0899c8e-cc00-11e9-90d6-8c8590aa91df "82.0000" ;
+    niiri:c08f30c2-cc00-11e9-90d6-8c8590aa91df "56.6975" ;
+    niiri:c090d0e4-cc00-11e9-90d6-8c8590aa91df "8.4633" ;
+    niiri:c0923d9e-cc00-11e9-90d6-8c8590aa91df "22.0000" ;
+    niiri:c093a9e0-cc00-11e9-90d6-8c8590aa91df "89.0000" ;
+    niiri:c09527d4-cc00-11e9-90d6-8c8590aa91df "67.0000" ;
+    niiri:c099557a-cc00-11e9-90d6-8c8590aa91df "64.9545" ;
+    niiri:c09ac464-cc00-11e9-90d6-8c8590aa91df "7.1866" ;
+    niiri:c09c2750-cc00-11e9-90d6-8c8590aa91df "47.0000" ;
+    niiri:c09d9c8e-cc00-11e9-90d6-8c8590aa91df "96.0000" ;
+    niiri:c09f53d0-cc00-11e9-90d6-8c8590aa91df "49.0000" ;
+    niiri:c0aa6446-cc00-11e9-90d6-8c8590aa91df "18" ;
+    niiri:c0abc584-cc00-11e9-90d6-8c8590aa91df "20.8" ;
+    niiri:c0ad30e0-cc00-11e9-90d6-8c8590aa91df "47.1667" ;
+    niiri:c0aecda6-cc00-11e9-90d6-8c8590aa91df "15.3287" ;
+    niiri:c0b0c9e4-cc00-11e9-90d6-8c8590aa91df "14.0000" ;
+    niiri:c0b26434-cc00-11e9-90d6-8c8590aa91df "72.0000" ;
+    niiri:c0b3fa06-cc00-11e9-90d6-8c8590aa91df "58.0000" ;
+    niiri:c0b583e4-cc00-11e9-90d6-8c8590aa91df "505" ;
+    niiri:c0b72712-cc00-11e9-90d6-8c8590aa91df "450.0" ;
+    niiri:c0b8a556-cc00-11e9-90d6-8c8590aa91df "50.4911" ;
+    niiri:c0ba219c-cc00-11e9-90d6-8c8590aa91df "13.2962" ;
+    niiri:c0bb9374-cc00-11e9-90d6-8c8590aa91df "14.0000" ;
+    niiri:c0bd08d0-cc00-11e9-90d6-8c8590aa91df "80.0000" ;
+    niiri:c0be8a2a-cc00-11e9-90d6-8c8590aa91df "66.0000" ;
+    niiri:c0bfa95a-cc00-11e9-90d6-8c8590aa91df "0" ;
+    niiri:c0c0c682-cc00-11e9-90d6-8c8590aa91df "0.0" ;
+    niiri:c0c1de50-cc00-11e9-90d6-8c8590aa91df "0.0000" ;
+    niiri:c0c30d20-cc00-11e9-90d6-8c8590aa91df "0.0000" ;
+    niiri:c0c47dc2-cc00-11e9-90d6-8c8590aa91df "0.0000" ;
+    niiri:c0c61c18-cc00-11e9-90d6-8c8590aa91df "0.0000" ;
+    niiri:c0c7694c-cc00-11e9-90d6-8c8590aa91df "0.0000" ;
+    niiri:c0c89ad8-cc00-11e9-90d6-8c8590aa91df "181" ;
+    niiri:c0c9d506-cc00-11e9-90d6-8c8590aa91df "188.8" ;
+    niiri:c0cb030e-cc00-11e9-90d6-8c8590aa91df "71.3039" ;
+    niiri:c0cc4340-cc00-11e9-90d6-8c8590aa91df "21.2851" ;
+    niiri:c0cd8be2-cc00-11e9-90d6-8c8590aa91df "19.0000" ;
+    niiri:c0cec264-cc00-11e9-90d6-8c8590aa91df "114.0000" ;
+    niiri:c0cff396-cc00-11e9-90d6-8c8590aa91df "95.0000" ;
+    niiri:cabf7108-cbfe-11e9-906b-8c8590aa91df "625" ;
+    niiri:cac9f16e-cbfe-11e9-906b-8c8590aa91df "595.2" ;
+    niiri:cad3d8b4-cbfe-11e9-906b-8c8590aa91df "1642" ;
+    niiri:cae4f2e8-cbfe-11e9-906b-8c8590aa91df "1595.9" ;
+    niiri:caef46b2-cbfe-11e9-906b-8c8590aa91df "3601" ;
+    niiri:caf9814a-cbfe-11e9-906b-8c8590aa91df "3517.9" ;
+    niiri:cb03ae5e-cbfe-11e9-906b-8c8590aa91df "4243" ;
+    niiri:cb0fb8e8-cbfe-11e9-906b-8c8590aa91df "4062.4" ;
+    niiri:cb1a6662-cbfe-11e9-906b-8c8590aa91df "1907" ;
+    niiri:cb2540f0-cbfe-11e9-906b-8c8590aa91df "1824.9" ;
+    niiri:cb2f7bd8-cbfe-11e9-906b-8c8590aa91df "5325" ;
+    niiri:cb3aa12a-cbfe-11e9-906b-8c8590aa91df "5229.4" ;
+    niiri:cb44e86a-cbfe-11e9-906b-8c8590aa91df "7642" ;
+    niiri:cb4fbbdc-cbfe-11e9-906b-8c8590aa91df "7354.5" ;
+    niiri:cb5aec64-cbfe-11e9-906b-8c8590aa91df "638" ;
+    niiri:cb6530b6-cbfe-11e9-906b-8c8590aa91df "599.6" ;
+    niiri:cb6fdbc4-cbfe-11e9-906b-8c8590aa91df "1891" ;
+    niiri:cb79eace-cbfe-11e9-906b-8c8590aa91df "1807.1" ;
+    niiri:cb844226-cbfe-11e9-906b-8c8590aa91df "3726" ;
+    niiri:cb8ea0f4-cbfe-11e9-906b-8c8590aa91df "3702.4" ;
+    niiri:cb99bbce-cbfe-11e9-906b-8c8590aa91df "4196" ;
+    niiri:cba80fda-cbfe-11e9-906b-8c8590aa91df "4063.1" ;
+    niiri:cbb2d500-cbfe-11e9-906b-8c8590aa91df "1770" ;
+    niiri:cbbd5ebc-cbfe-11e9-906b-8c8590aa91df "1688.9" ;
+    niiri:cbc779d8-cbfe-11e9-906b-8c8590aa91df "5602" ;
+    niiri:cbd1dd10-cbfe-11e9-906b-8c8590aa91df "5548.6" ;
+    niiri:cbdc66e0-cbfe-11e9-906b-8c8590aa91df "7558" ;
+    niiri:cbe689ea-cbfe-11e9-906b-8c8590aa91df "7331.5" ;
+    prov:wasGeneratedBy <http://iri.nidash.org/4e2e9cb2-cc90-11e9-b368-8c8590aa91df> .
+
+ns4:d4ffc-cc90-11e9-b368-8c8590aa91df a measurement_datum:,
+        prov:Entity ;
+    rdfs:label "ventral diencephalon gray matter" ;
+    dct:description "ventral diencephalon gray matter" ;
+    hasUnit: "voxel" ;
+    hasLaterality: "Left" ;
+    hasMeasurementType: ilk:ilx_0112568 ;
+    hasDatumType: ilk:ilx_0102597 .
+
+ns5:ccc84-cc90-11e9-b368-8c8590aa91df a measurement_datum:,
+        prov:Entity ;
+    rdfs:label "ventral diencephalon gray matter" ;
+    dct:description "ventral diencephalon gray matter" ;
+    hasUnit: "mm^3" ;
+    hasLaterality: "Left" ;
+    hasMeasurementType: ilk:ilx_0112559 ;
+    hasDatumType: ilk:ilx_0738276 .
+
+ns2:aadc2-cc90-11e9-b368-8c8590aa91df a measurement_datum:,
+        prov:Entity ;
+    rdfs:label "ventral diencephalon gray matter" ;
+    dct:description "ventral diencephalon gray matter" ;
+    hasLaterality: "Left" ;
+    hasMeasurementType: ilk:ilx_0105536 ;
+    hasDatumType: ilk:ilx_0738264 .
+
+ns8:e4-cc90-11e9-b368-8c8590aa91df a measurement_datum:,
+        prov:Entity ;
+    rdfs:label "ventral diencephalon gray matter" ;
+    dct:description "ventral diencephalon gray matter" ;
+    hasLaterality: "Left" ;
+    hasMeasurementType: ilk:ilx_0105536 ;
+    hasDatumType: ilk:ilx_0738265 .
+
+ns7:bb8-cc90-11e9-b368-8c8590aa91df a measurement_datum:,
+        prov:Entity ;
+    rdfs:label "ventral diencephalon gray matter" ;
+    dct:description "ventral diencephalon gray matter" ;
+    hasLaterality: "Left" ;
+    hasMeasurementType: ilk:ilx_0105536 ;
+    hasDatumType: ilk:ilx_0738266 .
+
+ns3:ad78-cc90-11e9-b368-8c8590aa91df a measurement_datum:,
+        prov:Entity ;
+    rdfs:label "ventral diencephalon gray matter" ;
+    dct:description "ventral diencephalon gray matter" ;
+    hasLaterality: "Left" ;
+    hasMeasurementType: ilk:ilx_0105536 ;
+    hasDatumType: ilk:ilx_0738267 .
+
+ns6:cc90-11e9-b368-8c8590aa91df a measurement_datum:,
+        prov:Entity ;
+    rdfs:label "ventral diencephalon gray matter" ;
+    dct:description "ventral diencephalon gray matter" ;
+    hasLaterality: "Left" ;
+    hasMeasurementType: ilk:ilx_0105536 ;
+    hasDatumType: ilk:ilx_0738268 .
+
+ns1:a8892c-cc90-11e9-b368-8c8590aa91df a measurement_datum:,
+        prov:Entity ;
+    rdfs:label "ventral diencephalon gray matter" ;
+    dct:description "ventral diencephalon gray matter" ;
+    hasUnit: "voxel" ;
+    hasLaterality: "Right" ;
+    hasMeasurementType: ilk:ilx_0112568 ;
+    hasDatumType: ilk:ilx_0102597 .
+
+ns1:b6408a-cc90-11e9-b368-8c8590aa91df a measurement_datum:,
+        prov:Entity ;
+    rdfs:label "ventral diencephalon gray matter" ;
+    dct:description "ventral diencephalon gray matter" ;
+    hasUnit: "mm^3" ;
+    hasLaterality: "Right" ;
+    hasMeasurementType: ilk:ilx_0112559 ;
+    hasDatumType: ilk:ilx_0738276 .
+
+ns1:c61ba4-cc90-11e9-b368-8c8590aa91df a measurement_datum:,
+        prov:Entity ;
+    rdfs:label "ventral diencephalon gray matter" ;
+    dct:description "ventral diencephalon gray matter" ;
+    hasLaterality: "Right" ;
+    hasMeasurementType: ilk:ilx_0105536 ;
+    hasDatumType: ilk:ilx_0738264 .
+
+ns1:d5d6ca-cc90-11e9-b368-8c8590aa91df a measurement_datum:,
+        prov:Entity ;
+    rdfs:label "ventral diencephalon gray matter" ;
+    dct:description "ventral diencephalon gray matter" ;
+    hasLaterality: "Right" ;
+    hasMeasurementType: ilk:ilx_0105536 ;
+    hasDatumType: ilk:ilx_0738265 .
+
+ns1:e369c0-cc90-11e9-b368-8c8590aa91df a measurement_datum:,
+        prov:Entity ;
+    rdfs:label "ventral diencephalon gray matter" ;
+    dct:description "ventral diencephalon gray matter" ;
+    hasLaterality: "Right" ;
+    hasMeasurementType: ilk:ilx_0105536 ;
+    hasDatumType: ilk:ilx_0738266 .
+
+ns1:f121a0-cc90-11e9-b368-8c8590aa91df a measurement_datum:,
+        prov:Entity ;
+    rdfs:label "ventral diencephalon gray matter" ;
+    dct:description "ventral diencephalon gray matter" ;
+    hasLaterality: "Right" ;
+    hasMeasurementType: ilk:ilx_0105536 ;
+    hasDatumType: ilk:ilx_0738267 .
+
+ns1:ff6634-cc90-11e9-b368-8c8590aa91df a measurement_datum:,
+        prov:Entity ;
+    rdfs:label "ventral diencephalon gray matter" ;
+    dct:description "ventral diencephalon gray matter" ;
+    hasLaterality: "Right" ;
+    hasMeasurementType: ilk:ilx_0105536 ;
+    hasDatumType: ilk:ilx_0738268 .
 
 niiri:bf8d8840-cc00-11e9-90d6-8c8590aa91df a nidm:FSStatsCollection,
         prov:Entity ;
@@ -6133,6 +6499,76 @@ niiri:f2cf8898-b260-11e9-948b-003ee1ce9545 a onli:assessment-instrument,
     ADI_RRB_TOTAL_C: "NaN"^^xsd:double ;
     ndar:gender "1" .
 
+niiri:f7c1b3c2-cc90-11e9-aed8-8c8590aa91df a nidm:FSLStatsCollection,
+        prov:Entity ;
+    niiri:cabf7108-cbfe-11e9-906b-8c8590aa91df 342 ;
+    niiri:cac9f16e-cbfe-11e9-906b-8c8590aa91df 3.42e+02 ;
+    niiri:cad3d8b4-cbfe-11e9-906b-8c8590aa91df 1433 ;
+    niiri:cae4f2e8-cbfe-11e9-906b-8c8590aa91df 1.433e+03 ;
+    niiri:caef46b2-cbfe-11e9-906b-8c8590aa91df 3405 ;
+    niiri:caf9814a-cbfe-11e9-906b-8c8590aa91df 3.405e+03 ;
+    niiri:cb03ae5e-cbfe-11e9-906b-8c8590aa91df 3763 ;
+    niiri:cb0fb8e8-cbfe-11e9-906b-8c8590aa91df 3.763e+03 ;
+    niiri:cb1a6662-cbfe-11e9-906b-8c8590aa91df 1600 ;
+    niiri:cb2540f0-cbfe-11e9-906b-8c8590aa91df 1.6e+03 ;
+    niiri:cb2f7bd8-cbfe-11e9-906b-8c8590aa91df 6106 ;
+    niiri:cb3aa12a-cbfe-11e9-906b-8c8590aa91df 6.106e+03 ;
+    niiri:cb44e86a-cbfe-11e9-906b-8c8590aa91df 7670 ;
+    niiri:cb4fbbdc-cbfe-11e9-906b-8c8590aa91df 7.67e+03 ;
+    niiri:cb5aec64-cbfe-11e9-906b-8c8590aa91df 420 ;
+    niiri:cb6530b6-cbfe-11e9-906b-8c8590aa91df 4.2e+02 ;
+    niiri:cb6fdbc4-cbfe-11e9-906b-8c8590aa91df 1602 ;
+    niiri:cb79eace-cbfe-11e9-906b-8c8590aa91df 1.602e+03 ;
+    niiri:cb844226-cbfe-11e9-906b-8c8590aa91df 4132 ;
+    niiri:cb8ea0f4-cbfe-11e9-906b-8c8590aa91df 4.132e+03 ;
+    niiri:cb99bbce-cbfe-11e9-906b-8c8590aa91df 3833 ;
+    niiri:cba80fda-cbfe-11e9-906b-8c8590aa91df 3.833e+03 ;
+    niiri:cbb2d500-cbfe-11e9-906b-8c8590aa91df 1434 ;
+    niiri:cbbd5ebc-cbfe-11e9-906b-8c8590aa91df 1.434e+03 ;
+    niiri:cbc779d8-cbfe-11e9-906b-8c8590aa91df 6588 ;
+    niiri:cbd1dd10-cbfe-11e9-906b-8c8590aa91df 6.588e+03 ;
+    niiri:cbdc66e0-cbfe-11e9-906b-8c8590aa91df 7492 ;
+    niiri:cbe689ea-cbfe-11e9-906b-8c8590aa91df 7.492e+03 ;
+    prov:wasGeneratedBy niiri:f7c14e50-cc90-11e9-aed8-8c8590aa91df .
+
+<http://iri.nidash.org/4e2e9cb2-cc90-11e9-b368-8c8590aa91df> a prov:Activity ;
+    dct:description "Freesurfer segmentation statistics" ;
+    prov:qualifiedAssociation [ a prov:Agent ;
+            prov:hadRole sio:Subject ;
+            prov:wasAssociatedWith niiri:ef8f4948-b260-11e9-8c83-003ee1ce9545 ],
+        [ a prov:Agent ;
+            prov:hadRole nidm:NIDM_0000164 ;
+            prov:wasAssociatedWith <http://iri.nidash.org/4e2f8b04-cc90-11e9-b368-8c8590aa91df> ] ;
+    freesurfer:ColorTable "/opt/freesurfer-6.0.0-min/ASegStatsLUT.txt" ;
+    freesurfer:ColorTableTimeStamp "2017/01/18 22:00:02" ;
+    freesurfer:ExcludeSegId "0 2 3 41 42" ;
+    freesurfer:Excluding "Cortical Gray and White Matter" ;
+    freesurfer:InVolFile "mri/norm.mgz" ;
+    freesurfer:InVolFileTimeStamp "2018/12/07 01:33:25" ;
+    freesurfer:InVolFrame "0" ;
+    freesurfer:NRows "45" ;
+    freesurfer:NTableCols "10" ;
+    freesurfer:PVVolFile "mri/norm.mgz" ;
+    freesurfer:PVVolFileTimeStamp "2018/12/07 01:33:25" ;
+    freesurfer:SUBJECTS_DIR "/working/derivatives/mindboggle/freesurfer_subjects" ;
+    freesurfer:SegVolFile "mri/aseg.mgz" ;
+    freesurfer:SegVolFileTimeStamp "2018/12/07 13:27:25" ;
+    freesurfer:Title "Segmentation Statistics" ;
+    freesurfer:VoxelVolume_mm3 "1" ;
+    freesurfer:anatomy_type "volume" ;
+    freesurfer:cmdline "mri_segstats --seg mri/aseg.mgz --sum stats/aseg.stats --pv mri/norm.mgz --empty --brainmask mri/brainmask.mgz --brain-vol-from-seg --excludeid 0 --excl-ctxgmwm --supratent --subcortgray --in mri/norm.mgz --in-intensity-name norm --in-intensity-units MR --etiv --surf-wm-vol --surf-ctx-vol --totalgray --euler --ctab /opt/freesurfer-6.0.0-min/ASegStatsLUT.txt --subject sub-0050217" ;
+    freesurfer:cvs_version "$Id: mri_segstats.c,v 1.121 2016/05/31 17:27:11 greve Exp $" ;
+    freesurfer:generating_program "mri_segstats" ;
+    freesurfer:hostname "ip-172-31-5-38" ;
+    freesurfer:machine "x86_64" ;
+    freesurfer:subjectname "sub-0050217" ;
+    freesurfer:sysname "Linux" ;
+    freesurfer:user "root" .
+
+<http://iri.nidash.org/4e2f8b04-cc90-11e9-b368-8c8590aa91df> a prov:Agent,
+        prov:SoftwareAgent ;
+    nidm:NIDM_0000164 freesurfer: .
+
 niiri:bf8d52e4-cc00-11e9-90d6-8c8590aa91df a prov:Activity ;
     dct:description "Freesurfer segmentation statistics" ;
     prov:qualifiedAssociation [ a prov:Agent ;
@@ -7083,6 +7519,19 @@ niiri:f2cf7dd0-b260-11e9-948b-003ee1ce9545 a onli:instrument-based-assessment,
             prov:agent niiri:ebaa40a8-b260-11e9-8c83-003ee1ce9545 ;
             prov:hadRole sio:Subject ] ;
     prov:wasAssociatedWith niiri:ebaa40a8-b260-11e9-8c83-003ee1ce9545 .
+
+niiri:f7c14e50-cc90-11e9-aed8-8c8590aa91df a prov:Activity ;
+    dct:description "FSL FAST/FIRST segmentation statistics" ;
+    prov:qualifiedAssociation [ a prov:Agent ;
+            prov:hadRole sio:Subject ;
+            prov:wasAssociatedWith niiri:e9acdbf8-b260-11e9-8c83-003ee1ce9545 ],
+        [ a prov:Agent ;
+            prov:hadRole nidm:NIDM_0000164 ;
+            prov:wasAssociatedWith niiri:f7c16764-cc90-11e9-aed8-8c8590aa91df ] .
+
+niiri:f7c16764-cc90-11e9-aed8-8c8590aa91df a prov:Agent,
+        prov:SoftwareAgent ;
+    nidm:NIDM_0000164 fsl: .
 
 niiri:e7ea1bf0-b260-11e9-8c83-003ee1ce9545 a nidm:Session,
         prov:Activity ;
